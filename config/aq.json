@@ -1,0 +1,302 @@
+﻿[
+    {
+        "name": "大观区",
+        "py": "daguanqu",
+        "list": [
+            {
+                "name": "北部新城",
+                "py": "beibuxincheng"
+            },
+            {
+                "name": "德宽路",
+                "py": "dekuanlu"
+            },
+            {
+                "name": "花亭",
+                "py": "huating1"
+            },
+            {
+                "name": "菱北",
+                "py": "lingbei"
+            },
+            {
+                "name": "菱湖",
+                "py": "linghu"
+            },
+            {
+                "name": "龙山路",
+                "py": "longshanlu"
+            },
+            {
+                "name": "石化",
+                "py": "shihua"
+            },
+            {
+                "name": "十里铺乡",
+                "py": "shilipuxiang"
+            },
+            {
+                "name": "新河",
+                "py": "xinhe"
+            },
+            {
+                "name": "宜城路",
+                "py": "yichenglu"
+            },
+            {
+                "name": "玉琳路",
+                "py": "yulinlu"
+            }
+        ]
+    },
+    {
+        "name": "太湖县",
+        "py": "taihuxian",
+        "list": [
+            {
+                "name": "潜山县",
+                "py": "qianshanxian1"
+            },
+            {
+                "name": "宿松县",
+                "py": "susongxian1"
+            },
+            {
+                "name": "太湖县",
+                "py": "taihuxian1"
+            },
+            {
+                "name": "望江县",
+                "py": "wangjiangxian1"
+            },
+            {
+                "name": "岳西县",
+                "py": "yuexixian1"
+            }
+        ]
+    },
+    {
+        "name": "宜秀区",
+        "py": "yixiuqu",
+        "list": [
+            {
+                "name": "北部新城",
+                "py": "beibuxincheng"
+            },
+            {
+                "name": "大桥",
+                "py": "daqiao"
+            },
+            {
+                "name": "花亭",
+                "py": "huating1"
+            },
+            {
+                "name": "老峰镇",
+                "py": "laofengzhen"
+            },
+            {
+                "name": "菱北",
+                "py": "lingbei"
+            },
+            {
+                "name": "龙狮桥乡",
+                "py": "longshiqiaoxiang"
+            },
+            {
+                "name": "石化",
+                "py": "shihua"
+            },
+            {
+                "name": "十里铺乡",
+                "py": "shilipuxiang"
+            },
+            {
+                "name": "桐城市",
+                "py": "tongchengshi1"
+            },
+            {
+                "name": "新河",
+                "py": "xinhe"
+            }
+        ]
+    },
+    {
+        "name": "宿松县",
+        "py": "susongxian",
+        "list": [
+            {
+                "name": "宿松县",
+                "py": "susongxian1"
+            },
+            {
+                "name": "太湖县",
+                "py": "taihuxian1"
+            },
+            {
+                "name": "望江县",
+                "py": "wangjiangxian1"
+            }
+        ]
+    },
+    {
+        "name": "岳西县",
+        "py": "yuexixian",
+        "list": [
+            {
+                "name": "潜山县",
+                "py": "qianshanxian1"
+            },
+            {
+                "name": "太湖县",
+                "py": "taihuxian1"
+            },
+            {
+                "name": "岳西县",
+                "py": "yuexixian1"
+            }
+        ]
+    },
+    {
+        "name": "怀宁县",
+        "py": "huainingxian",
+        "list": [
+            {
+                "name": "北部新城",
+                "py": "beibuxincheng"
+            },
+            {
+                "name": "怀宁县",
+                "py": "huainingxian1"
+            },
+            {
+                "name": "潜山县",
+                "py": "qianshanxian1"
+            },
+            {
+                "name": "太湖县",
+                "py": "taihuxian1"
+            },
+            {
+                "name": "桐城市",
+                "py": "tongchengshi1"
+            },
+            {
+                "name": "望江县",
+                "py": "wangjiangxian1"
+            }
+        ]
+    },
+    {
+        "name": "望江县",
+        "py": "wangjiangxian",
+        "list": [
+            {
+                "name": "宿松县",
+                "py": "susongxian1"
+            },
+            {
+                "name": "太湖县",
+                "py": "taihuxian1"
+            },
+            {
+                "name": "望江县",
+                "py": "wangjiangxian1"
+            }
+        ]
+    },
+    {
+        "name": "桐城市",
+        "py": "tongchengshi",
+        "list": [
+            {
+                "name": "潜山县",
+                "py": "qianshanxian1"
+            },
+            {
+                "name": "桐城市",
+                "py": "tongchengshi1"
+            }
+        ]
+    },
+    {
+        "name": "潜山市",
+        "py": "qianshanshi",
+        "list": [
+            {
+                "name": "潜山县",
+                "py": "qianshanxian1"
+            },
+            {
+                "name": "太湖县",
+                "py": "taihuxian1"
+            },
+            {
+                "name": "桐城市",
+                "py": "tongchengshi1"
+            },
+            {
+                "name": "岳西县",
+                "py": "yuexixian1"
+            }
+        ]
+    },
+    {
+        "name": "迎江区",
+        "py": "yingjiangqu",
+        "list": [
+            {
+                "name": "大桥",
+                "py": "daqiao"
+            },
+            {
+                "name": "德宽路",
+                "py": "dekuanlu"
+            },
+            {
+                "name": "华中路",
+                "py": "huazhonglu"
+            },
+            {
+                "name": "老峰镇",
+                "py": "laofengzhen"
+            },
+            {
+                "name": "菱北",
+                "py": "lingbei"
+            },
+            {
+                "name": "菱湖",
+                "py": "linghu"
+            },
+            {
+                "name": "龙山路",
+                "py": "longshanlu"
+            },
+            {
+                "name": "龙狮桥乡",
+                "py": "longshiqiaoxiang"
+            },
+            {
+                "name": "人民路",
+                "py": "renminlu1"
+            },
+            {
+                "name": "桐城市",
+                "py": "tongchengshi1"
+            },
+            {
+                "name": "孝肃路",
+                "py": "xiaosulu"
+            },
+            {
+                "name": "新河",
+                "py": "xinhe"
+            },
+            {
+                "name": "宜城路",
+                "py": "yichenglu"
+            }
+        ]
+    }
+]
