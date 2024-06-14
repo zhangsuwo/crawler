@@ -1,0 +1,194 @@
+﻿[
+    {
+        "name": "惠城",
+        "py": "huicheng",
+        "list": [
+            {
+                "name": "东江高新区",
+                "py": "dongjianggaoxinqu"
+            },
+            {
+                "name": "东江新城",
+                "py": "dongjiangxincheng"
+            },
+            {
+                "name": "东平",
+                "py": "dongping2"
+            },
+            {
+                "name": "河南岸",
+                "py": "henanan"
+            },
+            {
+                "name": "江北",
+                "py": "jiangbei2"
+            },
+            {
+                "name": "龙丰",
+                "py": "longfeng"
+            },
+            {
+                "name": "马安",
+                "py": "maan"
+            },
+            {
+                "name": "麦地",
+                "py": "maidi"
+            },
+            {
+                "name": "汝湖",
+                "py": "ruhu"
+            },
+            {
+                "name": "三栋镇",
+                "py": "sandongzhen"
+            },
+            {
+                "name": "水口",
+                "py": "shuikou"
+            },
+            {
+                "name": "下角",
+                "py": "xiajiao"
+            },
+            {
+                "name": "小金口",
+                "py": "xiaojinkou"
+            },
+            {
+                "name": "下埔",
+                "py": "xiapu1"
+            }
+        ]
+    },
+    {
+        "name": "仲恺高新技术产业开发区",
+        "py": "zhongkaigaoxinjishuchanyekaifaqu",
+        "list": [
+            {
+                "name": "三栋镇",
+                "py": "sandongzhen"
+            },
+            {
+                "name": "仲恺",
+                "py": "zhongkai"
+            }
+        ]
+    },
+    {
+        "name": "惠阳",
+        "py": "huiyang",
+        "list": [
+            {
+                "name": "白云新城",
+                "py": "baiyunxincheng"
+            },
+            {
+                "name": "草洋新区",
+                "py": "caoyangxinqu"
+            },
+            {
+                "name": "开城大润发",
+                "py": "kaichengdarunfa"
+            },
+            {
+                "name": "南站新城",
+                "py": "nanzhanxincheng"
+            },
+            {
+                "name": "秋长",
+                "py": "qiuchang"
+            },
+            {
+                "name": "区政府",
+                "py": "quzhengfu1"
+            },
+            {
+                "name": "三和经济开发区",
+                "py": "sanhejingjikaifaqu"
+            },
+            {
+                "name": "新行政区",
+                "py": "xinxingzhengqu"
+            },
+            {
+                "name": "新圩",
+                "py": "xinxu"
+            }
+        ]
+    },
+    {
+        "name": "大亚湾",
+        "py": "dayawan",
+        "list": [
+            {
+                "name": "澳头",
+                "py": "aotou"
+            },
+            {
+                "name": "比亚迪商圈",
+                "py": "biyadishangquan"
+            },
+            {
+                "name": "灿邦",
+                "py": "canbang"
+            },
+            {
+                "name": "大亚湾中心区",
+                "py": "dayawanzhongxinqu"
+            },
+            {
+                "name": "开城大润发",
+                "py": "kaichengdarunfa"
+            },
+            {
+                "name": "龙光城",
+                "py": "longguangcheng"
+            },
+            {
+                "name": "万达",
+                "py": "wanda15"
+            },
+            {
+                "name": "霞涌",
+                "py": "xiayong"
+            },
+            {
+                "name": "西区新寮",
+                "py": "xiquxinliao"
+            }
+        ]
+    },
+    {
+        "name": "惠东",
+        "py": "huidong",
+        "list": [
+            {
+                "name": "惠东县城",
+                "py": "huidongxiancheng"
+            },
+            {
+                "name": "惠东沿海",
+                "py": "huidongyanhai"
+            }
+        ]
+    },
+    {
+        "name": "博罗",
+        "py": "boluo",
+        "list": [
+            {
+                "name": "博罗临莞",
+                "py": "boluolinwan"
+            },
+            {
+                "name": "博罗中心区",
+                "py": "boluozhongxinqu"
+            },
+            {
+                "name": "小金口",
+                "py": "xiaojinkou"
+            }
+        ]
+    }
+]

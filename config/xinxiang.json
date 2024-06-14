@@ -1,0 +1,486 @@
+﻿[
+    {
+        "name": "牧野区",
+        "py": "muyequ",
+        "list": [
+            {
+                "name": "北环外",
+                "py": "beihuanwai"
+            },
+            {
+                "name": "大学城",
+                "py": "daxuecheng8"
+            },
+            {
+                "name": "定国湖",
+                "py": "dingguohu"
+            },
+            {
+                "name": "二十七中",
+                "py": "ershiqizhong"
+            },
+            {
+                "name": "二中",
+                "py": "erzhong2"
+            },
+            {
+                "name": "凤泉区",
+                "py": "fengquanqu1"
+            },
+            {
+                "name": "高铁东站",
+                "py": "gaotiedongzhan1"
+            },
+            {
+                "name": "河师大",
+                "py": "heshida"
+            },
+            {
+                "name": "黄岗",
+                "py": "huanggang1"
+            },
+            {
+                "name": "环宇",
+                "py": "huanyu"
+            },
+            {
+                "name": "理想城",
+                "py": "lixiangcheng"
+            },
+            {
+                "name": "牧野公园",
+                "py": "muyegongyuan"
+            },
+            {
+                "name": "牛村",
+                "py": "niucun"
+            },
+            {
+                "name": "胜利北街",
+                "py": "shenglibeijie"
+            },
+            {
+                "name": "水产大世界",
+                "py": "shuichandashijie"
+            },
+            {
+                "name": "万达",
+                "py": "wanda9"
+            },
+            {
+                "name": "卫辉市",
+                "py": "weihuishi1"
+            },
+            {
+                "name": "伟业",
+                "py": "weiye"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            },
+            {
+                "name": "新乡站",
+                "py": "xinxiangzhan"
+            },
+            {
+                "name": "西外环",
+                "py": "xiwaihuan1"
+            },
+            {
+                "name": "西王村",
+                "py": "xiwangcun"
+            }
+        ]
+    },
+    {
+        "name": "红旗区",
+        "py": "hongqiqu",
+        "list": [
+            {
+                "name": "宝龙",
+                "py": "baolong1"
+            },
+            {
+                "name": "大学城",
+                "py": "daxuecheng8"
+            },
+            {
+                "name": "东南外环",
+                "py": "dongnanwaihuan"
+            },
+            {
+                "name": "二中",
+                "py": "erzhong2"
+            },
+            {
+                "name": "橄榄城",
+                "py": "ganlancheng"
+            },
+            {
+                "name": "高铁东站",
+                "py": "gaotiedongzhan1"
+            },
+            {
+                "name": "光彩",
+                "py": "guangcai"
+            },
+            {
+                "name": "洪门",
+                "py": "hongmen"
+            },
+            {
+                "name": "花卉市场",
+                "py": "huahuishichang"
+            },
+            {
+                "name": "柳青路",
+                "py": "liuqinglu"
+            },
+            {
+                "name": "理想城",
+                "py": "lixiangcheng"
+            },
+            {
+                "name": "牧野公园",
+                "py": "muyegongyuan"
+            },
+            {
+                "name": "南环外",
+                "py": "nanhuanwai"
+            },
+            {
+                "name": "汽车东站",
+                "py": "qichedongzhan3"
+            },
+            {
+                "name": "人民公园",
+                "py": "renmingongyuan3"
+            },
+            {
+                "name": "市政府",
+                "py": "shizhengfu4"
+            },
+            {
+                "name": "卫辉市",
+                "py": "weihuishi1"
+            },
+            {
+                "name": "伟业",
+                "py": "weiye"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            },
+            {
+                "name": "新乡站",
+                "py": "xinxiangzhan"
+            },
+            {
+                "name": "新悦城",
+                "py": "xinyuecheng"
+            },
+            {
+                "name": "延津县",
+                "py": "yanjinxian2"
+            }
+        ]
+    },
+    {
+        "name": "卫滨区",
+        "py": "weibinqu2",
+        "list": [
+            {
+                "name": "八里营",
+                "py": "baliying"
+            },
+            {
+                "name": "北环外",
+                "py": "beihuanwai"
+            },
+            {
+                "name": "二十七中",
+                "py": "ershiqizhong"
+            },
+            {
+                "name": "二中",
+                "py": "erzhong2"
+            },
+            {
+                "name": "光彩",
+                "py": "guangcai"
+            },
+            {
+                "name": "恒大",
+                "py": "hengda"
+            },
+            {
+                "name": "柳青路",
+                "py": "liuqinglu"
+            },
+            {
+                "name": "绿地",
+                "py": "lvdi"
+            },
+            {
+                "name": "南环外",
+                "py": "nanhuanwai"
+            },
+            {
+                "name": "人民公园",
+                "py": "renmingongyuan3"
+            },
+            {
+                "name": "市中心医院",
+                "py": "shizhongxinyiyuan1"
+            },
+            {
+                "name": "新建街",
+                "py": "xinjianjie"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            },
+            {
+                "name": "新乡站",
+                "py": "xinxiangzhan"
+            },
+            {
+                "name": "新悦城",
+                "py": "xinyuecheng"
+            },
+            {
+                "name": "西外环",
+                "py": "xiwaihuan1"
+            },
+            {
+                "name": "植物园",
+                "py": "zhiwuyuan24"
+            }
+        ]
+    },
+    {
+        "name": "凤泉区",
+        "py": "fengquanqu",
+        "list": [
+            {
+                "name": "北环外",
+                "py": "beihuanwai"
+            },
+            {
+                "name": "凤泉区",
+                "py": "fengquanqu1"
+            },
+            {
+                "name": "卫辉市",
+                "py": "weihuishi1"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            }
+        ]
+    },
+    {
+        "name": "卫辉市",
+        "py": "weihuishi",
+        "list": [
+            {
+                "name": "北环外",
+                "py": "beihuanwai"
+            },
+            {
+                "name": "凤泉区",
+                "py": "fengquanqu1"
+            },
+            {
+                "name": "高铁东站",
+                "py": "gaotiedongzhan1"
+            },
+            {
+                "name": "卫辉市",
+                "py": "weihuishi1"
+            },
+            {
+                "name": "延津县",
+                "py": "yanjinxian2"
+            }
+        ]
+    },
+    {
+        "name": "辉县市",
+        "py": "huixianshi",
+        "list": [
+            {
+                "name": "凤泉区",
+                "py": "fengquanqu1"
+            },
+            {
+                "name": "辉县市",
+                "py": "huixianshi1"
+            },
+            {
+                "name": "卫辉市",
+                "py": "weihuishi1"
+            }
+        ]
+    },
+    {
+        "name": "新乡县",
+        "py": "xinxiangxian",
+        "list": [
+            {
+                "name": "北环外",
+                "py": "beihuanwai"
+            },
+            {
+                "name": "东南外环",
+                "py": "dongnanwaihuan"
+            },
+            {
+                "name": "凤泉区",
+                "py": "fengquanqu1"
+            },
+            {
+                "name": "南环外",
+                "py": "nanhuanwai"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            },
+            {
+                "name": "西外环",
+                "py": "xiwaihuan1"
+            },
+            {
+                "name": "延津县",
+                "py": "yanjinxian2"
+            },
+            {
+                "name": "原阳县",
+                "py": "yuanyangxian3"
+            }
+        ]
+    },
+    {
+        "name": "原阳县",
+        "py": "yuanyangxian2",
+        "list": [
+            {
+                "name": "封丘县",
+                "py": "fengqiuxian1"
+            },
+            {
+                "name": "获嘉县",
+                "py": "huojiaxian1"
+            },
+            {
+                "name": "平原新区",
+                "py": "pingyuanxinqu"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            },
+            {
+                "name": "延津县",
+                "py": "yanjinxian2"
+            },
+            {
+                "name": "原阳县",
+                "py": "yuanyangxian3"
+            }
+        ]
+    },
+    {
+        "name": "封丘县",
+        "py": "fengqiuxian",
+        "list": [
+            {
+                "name": "长垣县",
+                "py": "changyuanxian1"
+            },
+            {
+                "name": "封丘县",
+                "py": "fengqiuxian1"
+            },
+            {
+                "name": "延津县",
+                "py": "yanjinxian2"
+            },
+            {
+                "name": "原阳县",
+                "py": "yuanyangxian3"
+            }
+        ]
+    },
+    {
+        "name": "延津县",
+        "py": "yanjinxian",
+        "list": [
+            {
+                "name": "东南外环",
+                "py": "dongnanwaihuan"
+            },
+            {
+                "name": "封丘县",
+                "py": "fengqiuxian1"
+            },
+            {
+                "name": "高铁东站",
+                "py": "gaotiedongzhan1"
+            },
+            {
+                "name": "卫辉市",
+                "py": "weihuishi1"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            },
+            {
+                "name": "延津县",
+                "py": "yanjinxian2"
+            },
+            {
+                "name": "原阳县",
+                "py": "yuanyangxian3"
+            }
+        ]
+    },
+    {
+        "name": "获嘉县",
+        "py": "huojiaxian",
+        "list": [
+            {
+                "name": "获嘉县",
+                "py": "huojiaxian1"
+            },
+            {
+                "name": "新乡县",
+                "py": "xinxiangxian1"
+            },
+            {
+                "name": "原阳县",
+                "py": "yuanyangxian3"
+            }
+        ]
+    },
+    {
+        "name": "长垣市",
+        "py": "changyuanshi",
+        "list": [
+            {
+                "name": "长垣县",
+                "py": "changyuanxian1"
+            },
+            {
+                "name": "封丘县",
+                "py": "fengqiuxian1"
+            }
+        ]
+    }
+]

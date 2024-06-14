@@ -1,0 +1,324 @@
+﻿[
+    {
+        "name": "岳阳楼区",
+        "py": "yueyanglouqu",
+        "list": [
+            {
+                "name": "八字门",
+                "py": "bazimen"
+            },
+            {
+                "name": "步行街",
+                "py": "buxingjie2"
+            },
+            {
+                "name": "城陵矶",
+                "py": "chenglingji"
+            },
+            {
+                "name": "东升社区",
+                "py": "dongshengshequ"
+            },
+            {
+                "name": "东站",
+                "py": "dongzhan2"
+            },
+            {
+                "name": "海棠社区",
+                "py": "haitangshequ"
+            },
+            {
+                "name": "花板桥",
+                "py": "huabanqiao"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan15"
+            },
+            {
+                "name": "金凤桥",
+                "py": "jinfengqiao"
+            },
+            {
+                "name": "九华山",
+                "py": "jiuhuashan"
+            },
+            {
+                "name": "君山区",
+                "py": "junshanqu1"
+            },
+            {
+                "name": "康王",
+                "py": "kangwang"
+            },
+            {
+                "name": "雷锋山",
+                "py": "leifengshan"
+            },
+            {
+                "name": "冷水铺",
+                "py": "lengshuipu"
+            },
+            {
+                "name": "李家冲",
+                "py": "lijiachong"
+            },
+            {
+                "name": "临湘市",
+                "py": "linxiangshi1"
+            },
+            {
+                "name": "鲤鱼嘴社区",
+                "py": "liyuzuishequ"
+            },
+            {
+                "name": "螺丝港",
+                "py": "luosigang"
+            },
+            {
+                "name": "洛王",
+                "py": "luowang"
+            },
+            {
+                "name": "苗圃",
+                "py": "miaopu"
+            },
+            {
+                "name": "南湖",
+                "py": "nanhu7"
+            },
+            {
+                "name": "南湖新区",
+                "py": "nanhuxinqu"
+            },
+            {
+                "name": "炮台山",
+                "py": "paotaishan"
+            },
+            {
+                "name": "桥西",
+                "py": "qiaoxi2"
+            },
+            {
+                "name": "齐家岭",
+                "py": "qijialing"
+            },
+            {
+                "name": "七里山",
+                "py": "qilishan1"
+            },
+            {
+                "name": "天伦城",
+                "py": "tianluncheng"
+            },
+            {
+                "name": "五里牌",
+                "py": "wulipai"
+            },
+            {
+                "name": "无效",
+                "py": "wuxiao"
+            },
+            {
+                "name": "新路口",
+                "py": "xinlukou"
+            },
+            {
+                "name": "杨树塘",
+                "py": "yangshutang"
+            },
+            {
+                "name": "岳城",
+                "py": "yuecheng1"
+            },
+            {
+                "name": "岳纺",
+                "py": "yuefang"
+            },
+            {
+                "name": "岳阳楼区",
+                "py": "yueyanglouqu1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            },
+            {
+                "name": "云溪区",
+                "py": "yunxiqu1"
+            }
+        ]
+    },
+    {
+        "name": "岳阳县",
+        "py": "yueyangxian",
+        "list": [
+            {
+                "name": "华容县",
+                "py": "huarongxian1"
+            },
+            {
+                "name": "君山区",
+                "py": "junshanqu1"
+            },
+            {
+                "name": "临湘市",
+                "py": "linxiangshi1"
+            },
+            {
+                "name": "汨罗市",
+                "py": "miluoshi1"
+            },
+            {
+                "name": "南湖新区",
+                "py": "nanhuxinqu"
+            },
+            {
+                "name": "平江县",
+                "py": "pingjiangxian1"
+            },
+            {
+                "name": "桥西",
+                "py": "qiaoxi2"
+            },
+            {
+                "name": "湘阴县",
+                "py": "xiangyinxian1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            }
+        ]
+    },
+    {
+        "name": "湘阴县",
+        "py": "xiangyinxian",
+        "list": [
+            {
+                "name": "汨罗市",
+                "py": "miluoshi1"
+            },
+            {
+                "name": "湘阴县",
+                "py": "xiangyinxian1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            }
+        ]
+    },
+    {
+        "name": "平江县",
+        "py": "pingjiangxian",
+        "list": [
+            {
+                "name": "汨罗市",
+                "py": "miluoshi1"
+            },
+            {
+                "name": "平江县",
+                "py": "pingjiangxian1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            }
+        ]
+    },
+    {
+        "name": "君山区",
+        "py": "junshanqu",
+        "list": [
+            {
+                "name": "华容县",
+                "py": "huarongxian1"
+            },
+            {
+                "name": "君山区",
+                "py": "junshanqu1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            }
+        ]
+    },
+    {
+        "name": "汨罗市",
+        "py": "miluoshi",
+        "list": [
+            {
+                "name": "汨罗市",
+                "py": "miluoshi1"
+            },
+            {
+                "name": "平江县",
+                "py": "pingjiangxian1"
+            },
+            {
+                "name": "湘阴县",
+                "py": "xiangyinxian1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            }
+        ]
+    },
+    {
+        "name": "云溪区",
+        "py": "yunxiqu",
+        "list": [
+            {
+                "name": "城陵矶",
+                "py": "chenglingji"
+            },
+            {
+                "name": "临湘市",
+                "py": "linxiangshi1"
+            },
+            {
+                "name": "云溪区",
+                "py": "yunxiqu1"
+            }
+        ]
+    },
+    {
+        "name": "华容县",
+        "py": "huarongxian",
+        "list": [
+            {
+                "name": "华容县",
+                "py": "huarongxian1"
+            },
+            {
+                "name": "君山区",
+                "py": "junshanqu1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            }
+        ]
+    },
+    {
+        "name": "临湘市",
+        "py": "linxiangshi",
+        "list": [
+            {
+                "name": "临湘市",
+                "py": "linxiangshi1"
+            },
+            {
+                "name": "岳阳县",
+                "py": "yueyangxian1"
+            },
+            {
+                "name": "云溪区",
+                "py": "yunxiqu1"
+            }
+        ]
+    }
+]

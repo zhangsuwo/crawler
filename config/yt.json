@@ -1,0 +1,458 @@
+﻿[
+    {
+        "name": "芝罘",
+        "py": "zhifu",
+        "list": [
+            {
+                "name": "白石",
+                "py": "baishi"
+            },
+            {
+                "name": "北岛",
+                "py": "beidao"
+            },
+            {
+                "name": "二马路",
+                "py": "ermalu"
+            },
+            {
+                "name": "凤凰台",
+                "py": "fenghuangtai"
+            },
+            {
+                "name": "福安",
+                "py": "fuan2"
+            },
+            {
+                "name": "厚安",
+                "py": "houan"
+            },
+            {
+                "name": "后七夼",
+                "py": "houqikuang"
+            },
+            {
+                "name": "黄海",
+                "py": "huanghai"
+            },
+            {
+                "name": "黄务",
+                "py": "huangwu"
+            },
+            {
+                "name": "华信",
+                "py": "huaxin1"
+            },
+            {
+                "name": "惠安",
+                "py": "huian"
+            },
+            {
+                "name": "解放路",
+                "py": "jiefanglu1"
+            },
+            {
+                "name": "开元",
+                "py": "kaiyuan"
+            },
+            {
+                "name": "魁玉路",
+                "py": "kuiyulu"
+            },
+            {
+                "name": "莱山周边",
+                "py": "laishanzhoubian"
+            },
+            {
+                "name": "南塂",
+                "py": "nanjiang"
+            },
+            {
+                "name": "南通路",
+                "py": "nantonglu"
+            },
+            {
+                "name": "三水",
+                "py": "sanshui2"
+            },
+            {
+                "name": "三站",
+                "py": "sanzhan"
+            },
+            {
+                "name": "上夼",
+                "py": "shangkuang"
+            },
+            {
+                "name": "山海南路",
+                "py": "shanhainanlu"
+            },
+            {
+                "name": "世回尧",
+                "py": "shihuiyao"
+            },
+            {
+                "name": "通世南路",
+                "py": "tongshinanlu"
+            },
+            {
+                "name": "文化路",
+                "py": "wenhualu"
+            },
+            {
+                "name": "祥和",
+                "py": "xianghe3"
+            },
+            {
+                "name": "幸福河",
+                "py": "xingfuhe"
+            },
+            {
+                "name": "新桥",
+                "py": "xinqiao1"
+            },
+            {
+                "name": "毓璜顶",
+                "py": "yuhuangding"
+            },
+            {
+                "name": "只楚",
+                "py": "zhichu"
+            },
+            {
+                "name": "珠玑",
+                "py": "zhuji1"
+            }
+        ]
+    },
+    {
+        "name": "莱山",
+        "py": "laishan",
+        "list": [
+            {
+                "name": "迟家",
+                "py": "chijia"
+            },
+            {
+                "name": "大学城",
+                "py": "daxuecheng4"
+            },
+            {
+                "name": "二马路",
+                "py": "ermalu"
+            },
+            {
+                "name": "后七夼",
+                "py": "houqikuang"
+            },
+            {
+                "name": "黄海",
+                "py": "huanghai"
+            },
+            {
+                "name": "科技大道",
+                "py": "kejidadao"
+            },
+            {
+                "name": "莱山周边",
+                "py": "laishanzhoubian"
+            },
+            {
+                "name": "南塂",
+                "py": "nanjiang"
+            },
+            {
+                "name": "前七夼",
+                "py": "qianqikuang"
+            },
+            {
+                "name": "三滩社区",
+                "py": "santanshequ"
+            },
+            {
+                "name": "山海南路",
+                "py": "shanhainanlu"
+            },
+            {
+                "name": "石沟屯",
+                "py": "shigoutun"
+            },
+            {
+                "name": "迎春大街",
+                "py": "yingchundajie"
+            }
+        ]
+    },
+    {
+        "name": "福山",
+        "py": "fushan",
+        "list": [
+            {
+                "name": "北五路",
+                "py": "beiwulu"
+            },
+            {
+                "name": "福海路",
+                "py": "fuhailu"
+            },
+            {
+                "name": "富豪",
+                "py": "fuhao"
+            },
+            {
+                "name": "福山周边",
+                "py": "fushanzhoubian"
+            },
+            {
+                "name": "鸿福街",
+                "py": "hongfujie"
+            },
+            {
+                "name": "开发区周边",
+                "py": "kaifaquzhoubian"
+            },
+            {
+                "name": "莱山周边",
+                "py": "laishanzhoubian"
+            },
+            {
+                "name": "蓬莱市",
+                "py": "penglaishi"
+            },
+            {
+                "name": "奇泉",
+                "py": "qiquan"
+            },
+            {
+                "name": "首院",
+                "py": "shouyuan"
+            },
+            {
+                "name": "松霞",
+                "py": "songxia"
+            },
+            {
+                "name": "万科",
+                "py": "wanke1"
+            },
+            {
+                "name": "振华",
+                "py": "zhenhua"
+            },
+            {
+                "name": "芝阳",
+                "py": "zhiyang"
+            }
+        ]
+    },
+    {
+        "name": "开发区",
+        "py": "kaifaqu4",
+        "list": [
+            {
+                "name": "北京中路",
+                "py": "beijingzhonglu"
+            },
+            {
+                "name": "碧海云天",
+                "py": "bihaiyuntian"
+            },
+            {
+                "name": "德胜",
+                "py": "desheng1"
+            },
+            {
+                "name": "福莱山公园",
+                "py": "fulaishangongyuan"
+            },
+            {
+                "name": "福山周边",
+                "py": "fushanzhoubian"
+            },
+            {
+                "name": "高级中学",
+                "py": "gaojizhongxue"
+            },
+            {
+                "name": "黄河路",
+                "py": "huanghelu"
+            },
+            {
+                "name": "金东",
+                "py": "jindong"
+            },
+            {
+                "name": "开发区周边",
+                "py": "kaifaquzhoubian"
+            },
+            {
+                "name": "刘家台",
+                "py": "liujiatai"
+            },
+            {
+                "name": "汽车西站",
+                "py": "qichexizhan2"
+            },
+            {
+                "name": "天地广场",
+                "py": "tiandiguangchang"
+            },
+            {
+                "name": "万达",
+                "py": "wanda17"
+            },
+            {
+                "name": "万科城",
+                "py": "wankecheng"
+            },
+            {
+                "name": "业达医院",
+                "py": "yedayiyuan"
+            }
+        ]
+    },
+    {
+        "name": "高新区",
+        "py": "gaoxinqu",
+        "list": [
+            {
+                "name": "大学城",
+                "py": "daxuecheng4"
+            },
+            {
+                "name": "东泊子",
+                "py": "dongbozi"
+            },
+            {
+                "name": "高新区周边",
+                "py": "gaoxinquzhoubian"
+            },
+            {
+                "name": "科技大道",
+                "py": "kejidadao"
+            }
+        ]
+    },
+    {
+        "name": "牟平",
+        "py": "mouping",
+        "list": [
+            {
+                "name": "东泊子",
+                "py": "dongbozi"
+            },
+            {
+                "name": "高新区周边",
+                "py": "gaoxinquzhoubian"
+            },
+            {
+                "name": "工商大街",
+                "py": "gongshangdajie"
+            },
+            {
+                "name": "莱山周边",
+                "py": "laishanzhoubian"
+            },
+            {
+                "name": "龙湖",
+                "py": "longhu"
+            },
+            {
+                "name": "牟平振华",
+                "py": "moupingzhenhua"
+            },
+            {
+                "name": "牟平周边",
+                "py": "moupingzhoubian"
+            },
+            {
+                "name": "通海路",
+                "py": "tonghailu"
+            },
+            {
+                "name": "鱼鸟河",
+                "py": "yuniaohe"
+            }
+        ]
+    },
+    {
+        "name": "蓬莱",
+        "py": "penglai",
+        "list": [
+            {
+                "name": "蓬莱市",
+                "py": "penglaishi"
+            }
+        ]
+    },
+    {
+        "name": "长岛县",
+        "py": "changdaoxian",
+        "list": [
+            {
+                "name": "长岛",
+                "py": "changdao"
+            }
+        ]
+    },
+    {
+        "name": "龙口",
+        "py": "longkou",
+        "list": [
+            {
+                "name": "东海旅游度假区",
+                "py": "donghailvyoudujiaqu"
+            },
+            {
+                "name": "黄城",
+                "py": "huangcheng"
+            },
+            {
+                "name": "南山",
+                "py": "nanshan5"
+            },
+            {
+                "name": "蓬莱市",
+                "py": "penglaishi"
+            },
+            {
+                "name": "西城",
+                "py": "xicheng2"
+            }
+        ]
+    },
+    {
+        "name": "莱阳",
+        "py": "laiyang",
+        "list": [
+            {
+                "name": "莱阳市",
+                "py": "laiyangshi"
+            }
+        ]
+    },
+    {
+        "name": "莱州",
+        "py": "laizhou",
+        "list": [
+            {
+                "name": "莱州",
+                "py": "laizhou1"
+            }
+        ]
+    },
+    {
+        "name": "海阳",
+        "py": "haiyang",
+        "list": [
+            {
+                "name": "海阳",
+                "py": "haiyang1"
+            },
+            {
+                "name": "莱阳市",
+                "py": "laiyangshi"
+            }
+        ]
+    }
+]

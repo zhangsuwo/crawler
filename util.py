@@ -12,17 +12,26 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+
 # get请求
 def http_get(url):
     delay = random.uniform(vars.DELAY_CONF["min"], vars.DELAY_CONF["max"])
     logging.info("{0}秒后执行".format(delay))
     time.sleep(delay)
-    headers = {
-        # "Upgrade-Insecure-Requests":"1",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-        "Connection": "close",
-    }
-    return requests.get(url, headers=headers, timeout=200)
+    try:
+        headers = {
+            # "Upgrade-Insecure-Requests":"1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Connection": "close",
+        }
+        respones = requests.get(url, headers=headers, timeout=20)
+    except requests.exceptions.Timeout:
+        util.logging.error("请求超时，请检查网络连接或增加超时时间")
+        return None
+    except requests.exceptions.RequestException as e:
+        util.logging.error("请求异常:", e)
+        return None
+    return respones
 
 
 # 写入json文件，mode=w:write，mode=r:read，mode=a:append

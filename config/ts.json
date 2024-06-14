@@ -1,0 +1,166 @@
+﻿[
+    {
+        "name": "丰南区",
+        "py": "fengnanqu",
+        "list": [
+            {
+                "name": "丰南区",
+                "py": "fengnanqu1"
+            }
+        ]
+    },
+    {
+        "name": "丰润区",
+        "py": "fengrunqu",
+        "list": [
+            {
+                "name": "丰润区",
+                "py": "fengrunqu1"
+            },
+            {
+                "name": "路北区",
+                "py": "lubeiqu1"
+            }
+        ]
+    },
+    {
+        "name": "乐亭县",
+        "py": "laotingxian",
+        "list": [
+            {
+                "name": "乐亭县",
+                "py": "laotingxian1"
+            }
+        ]
+    },
+    {
+        "name": "古冶区",
+        "py": "guyequ",
+        "list": [
+            {
+                "name": "古冶区",
+                "py": "guyequ1"
+            }
+        ]
+    },
+    {
+        "name": "开平区",
+        "py": "kaipingqu",
+        "list": [
+            {
+                "name": "开平区",
+                "py": "kaipingqu1"
+            }
+        ]
+    },
+    {
+        "name": "曹妃甸区",
+        "py": "caofeidianqu",
+        "list": [
+            {
+                "name": "曹妃甸商圈",
+                "py": "caofeidianshangquan"
+            }
+        ]
+    },
+    {
+        "name": "滦南县",
+        "py": "luannanxian",
+        "list": [
+            {
+                "name": "滦南区",
+                "py": "luannanqu"
+            }
+        ]
+    },
+    {
+        "name": "滦州市",
+        "py": "luanzhoushi",
+        "list": [
+            {
+                "name": "滦县",
+                "py": "luanxian1"
+            }
+        ]
+    },
+    {
+        "name": "玉田县",
+        "py": "yutianxian",
+        "list": [
+            {
+                "name": "玉田县",
+                "py": "yutianxian1"
+            }
+        ]
+    },
+    {
+        "name": "路北区",
+        "py": "lubeiqu",
+        "list": [
+            {
+                "name": "路北区",
+                "py": "lubeiqu1"
+            }
+        ]
+    },
+    {
+        "name": "路南区",
+        "py": "lunanqu",
+        "list": [
+            {
+                "name": "路南区",
+                "py": "lunanqu1"
+            }
+        ]
+    },
+    {
+        "name": "迁安市",
+        "py": "qiananshi",
+        "list": [
+            {
+                "name": "迁安市",
+                "py": "qiananshi1"
+            }
+        ]
+    },
+    {
+        "name": "迁西县",
+        "py": "qianxixian",
+        "list": [
+            {
+                "name": "迁西县",
+                "py": "qianxixian1"
+            }
+        ]
+    },
+    {
+        "name": "遵化市",
+        "py": "zunhuashi",
+        "list": [
+            {
+                "name": "遵化市",
+                "py": "zunhuashi1"
+            }
+        ]
+    },
+    {
+        "name": "南堡开发区",
+        "py": "nanbaokaifaqu1",
+        "list": [
+            {
+                "name": "南堡开发区",
+                "py": "nanbaokaifaqu"
+            }
+        ]
+    },
+    {
+        "name": "高新区",
+        "py": "gaoxinqu19",
+        "list": [
+            {
+                "name": "高新区",
+                "py": "gaoxinqu20"
+            }
+        ]
+    }
+]

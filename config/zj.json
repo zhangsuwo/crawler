@@ -1,0 +1,222 @@
+﻿[
+    {
+        "name": "丹徒区",
+        "py": "dantuqu",
+        "list": [
+            {
+                "name": "宝龙商圈",
+                "py": "baolongshangquan3"
+            },
+            {
+                "name": "长山大学城商圈",
+                "py": "changshandaxuechengshangquan"
+            },
+            {
+                "name": "丹徒乡镇商圈",
+                "py": "dantuxiangzhenshangquan"
+            },
+            {
+                "name": "高资商圈",
+                "py": "gaozishangquan"
+            },
+            {
+                "name": "华山街商圈",
+                "py": "huashanjieshangquan"
+            },
+            {
+                "name": "江心洲商圈",
+                "py": "jiangxinzhoushangquan"
+            },
+            {
+                "name": "南站商圈",
+                "py": "nanzhanshangquan"
+            },
+            {
+                "name": "世业洲商圈",
+                "py": "shiyezhoushangquan"
+            },
+            {
+                "name": "辛丰商圈",
+                "py": "xinfengshangquan"
+            }
+        ]
+    },
+    {
+        "name": "丹阳市",
+        "py": "danyangshi",
+        "list": [
+            {
+                "name": "丹阳丹北商圈",
+                "py": "danyangdanbeishangquan"
+            },
+            {
+                "name": "丹阳华南商圈",
+                "py": "danyanghuananshangquan"
+            },
+            {
+                "name": "丹阳开发区商圈",
+                "py": "danyangkaifaqushangquan"
+            },
+            {
+                "name": "丹阳市区商圈",
+                "py": "danyangshiqushangquan"
+            },
+            {
+                "name": "丹阳乡镇商圈",
+                "py": "danyangxiangzhenshangquan"
+            }
+        ]
+    },
+    {
+        "name": "京口",
+        "py": "jingkou",
+        "list": [
+            {
+                "name": "圌山商圈",
+                "py": "chuanshanshangquan"
+            },
+            {
+                "name": "大港商圈",
+                "py": "dagangshangquan"
+            },
+            {
+                "name": "大市口商圈",
+                "py": "dashikoushangquan"
+            },
+            {
+                "name": "丁卯科技新城商圈",
+                "py": "dingmaokejixinchengshangquan"
+            },
+            {
+                "name": "丁卯吾悦广场商圈",
+                "py": "dingmaowuyueguangchangshangquan"
+            },
+            {
+                "name": "东吴路商圈",
+                "py": "dongwulushangquan"
+            },
+            {
+                "name": "谏壁商圈",
+                "py": "jianbishangquan"
+            },
+            {
+                "name": "江苏大学商圈",
+                "py": "jiangsudaxueshangquan"
+            },
+            {
+                "name": "梦溪商圈",
+                "py": "mengxishangquan"
+            },
+            {
+                "name": "平昌商圈",
+                "py": "pingchangshangquan"
+            },
+            {
+                "name": "学府路商圈",
+                "py": "xuefulushangquan"
+            },
+            {
+                "name": "姚桥商圈",
+                "py": "yaoqiaoshangquan"
+            },
+            {
+                "name": "禹山路商圈",
+                "py": "yushanlushangquan"
+            }
+        ]
+    },
+    {
+        "name": "句容",
+        "py": "jurong",
+        "list": [
+            {
+                "name": "宝华商圈",
+                "py": "baohuashangquan"
+            },
+            {
+                "name": "边城商圈",
+                "py": "bianchengshangquan"
+            },
+            {
+                "name": "凤凰城商圈",
+                "py": "fenghuangchengshangquan"
+            },
+            {
+                "name": "郭庄商圈",
+                "py": "guozhuangshangquan"
+            },
+            {
+                "name": "句容市区商圈",
+                "py": "jurongshiqushangquan"
+            },
+            {
+                "name": "茅山商圈",
+                "py": "maoshanshangquan"
+            },
+            {
+                "name": "下蜀商圈",
+                "py": "xiashushangquan"
+            }
+        ]
+    },
+    {
+        "name": "扬中市",
+        "py": "yangzhongshi",
+        "list": [
+            {
+                "name": "扬中商圈",
+                "py": "yangzhongshangquan"
+            }
+        ]
+    },
+    {
+        "name": "润州",
+        "py": "runzhou",
+        "list": [
+            {
+                "name": "大桥商圈",
+                "py": "daqiaoshangquan1"
+            },
+            {
+                "name": "高新区商圈",
+                "py": "gaoxinqushangquan1"
+            },
+            {
+                "name": "官塘商圈",
+                "py": "guantangshangquan"
+            },
+            {
+                "name": "金山商圈",
+                "py": "jinshanshangquan"
+            },
+            {
+                "name": "南徐商圈",
+                "py": "nanxushangquan"
+            },
+            {
+                "name": "南站商圈",
+                "py": "nanzhanshangquan"
+            },
+            {
+                "name": "青年广场商圈",
+                "py": "qingnianguangchangshangquan"
+            },
+            {
+                "name": "三茅宫商圈",
+                "py": "sanmaogongshangquan"
+            },
+            {
+                "name": "万达商圈",
+                "py": "wandashangquan5"
+            },
+            {
+                "name": "西津渡商圈",
+                "py": "xijindushangquan"
+            },
+            {
+                "name": "悦然广场商圈",
+                "py": "yueranguangchangshangquan"
+            }
+        ]
+    }
+]

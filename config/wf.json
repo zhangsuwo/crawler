@@ -1,0 +1,418 @@
+﻿[
+    {
+        "name": "临朐县",
+        "py": "linquxian",
+        "list": [
+            {
+                "name": "临朐县",
+                "py": "linquxian1"
+            }
+        ]
+    },
+    {
+        "name": "坊子区",
+        "py": "fangziqu",
+        "list": [
+            {
+                "name": "坊子佳乐家",
+                "py": "fangzijialejia"
+            },
+            {
+                "name": "坊子老区",
+                "py": "fangzilaoqu"
+            },
+            {
+                "name": "坊子人民医院",
+                "py": "fangzirenminyiyuan"
+            },
+            {
+                "name": "坊子四中",
+                "py": "fangzisizhong"
+            },
+            {
+                "name": "坊子泰华",
+                "py": "fangzitaihua"
+            },
+            {
+                "name": "金宝",
+                "py": "jinbao"
+            },
+            {
+                "name": "雷沃重工",
+                "py": "leiwozhonggong"
+            }
+        ]
+    },
+    {
+        "name": "奎文区",
+        "py": "kuiwenqu",
+        "list": [
+            {
+                "name": "白浪河湿地",
+                "py": "bailangheshidi"
+            },
+            {
+                "name": "北王佳乐家",
+                "py": "beiwangjialejia"
+            },
+            {
+                "name": "北苑实验",
+                "py": "beiyuanshiyan"
+            },
+            {
+                "name": "坊子泰华",
+                "py": "fangzitaihua"
+            },
+            {
+                "name": "广文",
+                "py": "guangwen"
+            },
+            {
+                "name": "金宝",
+                "py": "jinbao"
+            },
+            {
+                "name": "锦绣学校",
+                "py": "jinxiuxuexiao"
+            },
+            {
+                "name": "梨园",
+                "py": "liyuan2"
+            },
+            {
+                "name": "人民医院",
+                "py": "renminyiyuan"
+            },
+            {
+                "name": "泰华",
+                "py": "taihua"
+            },
+            {
+                "name": "万达",
+                "py": "wanda11"
+            },
+            {
+                "name": "新华路北",
+                "py": "xinhualubei"
+            },
+            {
+                "name": "新华路佳乐家",
+                "py": "xinhualujialejia"
+            },
+            {
+                "name": "新华中学",
+                "py": "xinhuazhongxue"
+            },
+            {
+                "name": "阳光100",
+                "py": "yangguang101"
+            },
+            {
+                "name": "樱园",
+                "py": "yingyuan"
+            },
+            {
+                "name": "鸢都湖",
+                "py": "yuandouhu"
+            },
+            {
+                "name": "则尔庄",
+                "py": "zeerzhuang"
+            },
+            {
+                "name": "植物园",
+                "py": "zhiwuyuan25"
+            }
+        ]
+    },
+    {
+        "name": "安丘市",
+        "py": "anqiushi",
+        "list": [
+            {
+                "name": "安丘市",
+                "py": "anqiushi1"
+            }
+        ]
+    },
+    {
+        "name": "寒亭区",
+        "py": "hantingqu",
+        "list": [
+            {
+                "name": "滨海经济开发区",
+                "py": "binhaijingjikaifaqu1"
+            },
+            {
+                "name": "蝶园",
+                "py": "dieyuan"
+            },
+            {
+                "name": "高铁北站",
+                "py": "gaotiebeizhan"
+            },
+            {
+                "name": "寒亭实验小学",
+                "py": "hantingshiyanxiaoxue"
+            },
+            {
+                "name": "金三角",
+                "py": "jinsanjiao1"
+            },
+            {
+                "name": "南部新区",
+                "py": "nanbuxinqu"
+            },
+            {
+                "name": "商业村",
+                "py": "shangyecun"
+            },
+            {
+                "name": "杨家埠",
+                "py": "yangjiabu"
+            },
+            {
+                "name": "总部基地",
+                "py": "zongbujidi"
+            }
+        ]
+    },
+    {
+        "name": "寿光市",
+        "py": "shouguangshi",
+        "list": [
+            {
+                "name": "寿光市",
+                "py": "shouguangshi1"
+            }
+        ]
+    },
+    {
+        "name": "昌乐县",
+        "py": "changlexian",
+        "list": [
+            {
+                "name": "昌乐县",
+                "py": "changlexian1"
+            }
+        ]
+    },
+    {
+        "name": "昌邑市",
+        "py": "changyishi",
+        "list": [
+            {
+                "name": "昌邑市",
+                "py": "changyishi1"
+            }
+        ]
+    },
+    {
+        "name": "潍城区",
+        "py": "weichengqu",
+        "list": [
+            {
+                "name": "奥体中心",
+                "py": "aotizhongxin2"
+            },
+            {
+                "name": "福乐多",
+                "py": "fuleduo"
+            },
+            {
+                "name": "豪德广场",
+                "py": "haodeguangchang"
+            },
+            {
+                "name": "火车站西南",
+                "py": "huochezhanxinan"
+            },
+            {
+                "name": "上城佳乐家",
+                "py": "shangchengjialejia"
+            },
+            {
+                "name": "十笏园",
+                "py": "shihuyuan"
+            },
+            {
+                "name": "万家福",
+                "py": "wanjiafu"
+            },
+            {
+                "name": "潍城区政府",
+                "py": "weichengquzhengfu"
+            },
+            {
+                "name": "潍城周边",
+                "py": "weichengzhoubian"
+            },
+            {
+                "name": "潍坊站",
+                "py": "weifangzhan"
+            },
+            {
+                "name": "站南广场",
+                "py": "zhannanguangchang"
+            },
+            {
+                "name": "自怡园",
+                "py": "ziyiyuan"
+            }
+        ]
+    },
+    {
+        "name": "诸城市",
+        "py": "zhuchengshi",
+        "list": [
+            {
+                "name": "北环路北",
+                "py": "beihuanlubei"
+            },
+            {
+                "name": "河东",
+                "py": "hedong3"
+            },
+            {
+                "name": "河西",
+                "py": "hexi4"
+            },
+            {
+                "name": "红星家园",
+                "py": "hongxingjiayuan"
+            },
+            {
+                "name": "开发区",
+                "py": "kaifaqu12"
+            },
+            {
+                "name": "恐龙公园",
+                "py": "konglonggongyuan"
+            },
+            {
+                "name": "南湖东",
+                "py": "nanhudong"
+            },
+            {
+                "name": "南湖西",
+                "py": "nanhuxi"
+            },
+            {
+                "name": "舜德",
+                "py": "shunde1"
+            },
+            {
+                "name": "西外环西",
+                "py": "xiwaihuanxi"
+            }
+        ]
+    },
+    {
+        "name": "青州市",
+        "py": "qingzhoushi",
+        "list": [
+            {
+                "name": "青州市",
+                "py": "qingzhoushi1"
+            }
+        ]
+    },
+    {
+        "name": "高密市",
+        "py": "gaomishi",
+        "list": [
+            {
+                "name": "高密市",
+                "py": "gaomishi1"
+            }
+        ]
+    },
+    {
+        "name": "高新技术产业开发区",
+        "py": "gaoxinjishuchanyekaifaqu",
+        "list": [
+            {
+                "name": "东明学校",
+                "py": "dongmingxuexiao"
+            },
+            {
+                "name": "凤凰山片区",
+                "py": "fenghuangshanpianqu"
+            },
+            {
+                "name": "高新管委",
+                "py": "gaoxinguanwei"
+            },
+            {
+                "name": "高新人民医院",
+                "py": "gaoxinrenminyiyuan"
+            },
+            {
+                "name": "高新实验",
+                "py": "gaoxinshiyan"
+            },
+            {
+                "name": "高新周边",
+                "py": "gaoxinzhoubian"
+            },
+            {
+                "name": "谷德广场",
+                "py": "gudeguangchang"
+            },
+            {
+                "name": "金融广场",
+                "py": "jinrongguangchang"
+            },
+            {
+                "name": "茂街",
+                "py": "maojie"
+            },
+            {
+                "name": "人民广场",
+                "py": "renminguangchang3"
+            },
+            {
+                "name": "市府东南",
+                "py": "shifudongnan"
+            },
+            {
+                "name": "潍柴动力",
+                "py": "weichaidongli"
+            },
+            {
+                "name": "潍坊学院",
+                "py": "weifangxueyuan"
+            },
+            {
+                "name": "智谷学校",
+                "py": "zhiguxuexiao"
+            }
+        ]
+    },
+    {
+        "name": "经济技术开发区",
+        "py": "jingjijishukaifaqu2",
+        "list": [
+            {
+                "name": "经开周边",
+                "py": "jingkaizhoubian"
+            },
+            {
+                "name": "锦绣学校",
+                "py": "jinxiuxuexiao"
+            },
+            {
+                "name": "锦绣学校东",
+                "py": "jinxiuxuexiaodong"
+            },
+            {
+                "name": "开发区管委会",
+                "py": "kaifaquguanweihui"
+            },
+            {
+                "name": "文华学校",
+                "py": "wenhuaxuexiao"
+            }
+        ]
+    }
+]

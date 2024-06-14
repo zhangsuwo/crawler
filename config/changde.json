@@ -1,0 +1,284 @@
+﻿[
+    {
+        "name": "临澧县",
+        "py": "linlixian",
+        "list": [
+            {
+                "name": "津市市",
+                "py": "jinshishi1"
+            },
+            {
+                "name": "临澧县",
+                "py": "linlixian1"
+            },
+            {
+                "name": "澧县",
+                "py": "lixian5"
+            },
+            {
+                "name": "石门县",
+                "py": "shimenxian1"
+            },
+            {
+                "name": "桃源县",
+                "py": "taoyuanxian1"
+            }
+        ]
+    },
+    {
+        "name": "安乡县",
+        "py": "anxiangxian",
+        "list": [
+            {
+                "name": "安乡县",
+                "py": "anxiangxian1"
+            },
+            {
+                "name": "汉寿县",
+                "py": "hanshouxian1"
+            },
+            {
+                "name": "津市市",
+                "py": "jinshishi1"
+            },
+            {
+                "name": "澧县",
+                "py": "lixian5"
+            }
+        ]
+    },
+    {
+        "name": "桃源县",
+        "py": "taoyuanxian",
+        "list": [
+            {
+                "name": "临澧县",
+                "py": "linlixian1"
+            },
+            {
+                "name": "石门县",
+                "py": "shimenxian1"
+            },
+            {
+                "name": "桃源县",
+                "py": "taoyuanxian1"
+            }
+        ]
+    },
+    {
+        "name": "武陵区",
+        "py": "wulingqu",
+        "list": [
+            {
+                "name": "白马湖",
+                "py": "baimahu1"
+            },
+            {
+                "name": "北站",
+                "py": "beizhan2"
+            },
+            {
+                "name": "滨湖公园",
+                "py": "binhugongyuan"
+            },
+            {
+                "name": "步行街",
+                "py": "buxingjie1"
+            },
+            {
+                "name": "德山",
+                "py": "deshan"
+            },
+            {
+                "name": "鼎城区灌溪",
+                "py": "dingchengquguanxi"
+            },
+            {
+                "name": "地区医院",
+                "py": "diquyiyuan"
+            },
+            {
+                "name": "甘露寺",
+                "py": "ganlusi"
+            },
+            {
+                "name": "高山街",
+                "py": "gaoshanjie"
+            },
+            {
+                "name": "汉寿县",
+                "py": "hanshouxian1"
+            },
+            {
+                "name": "宏大",
+                "py": "hongda"
+            },
+            {
+                "name": "鸿升",
+                "py": "hongsheng"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan8"
+            },
+            {
+                "name": "柳叶湖",
+                "py": "liuyehu"
+            },
+            {
+                "name": "三岔路",
+                "py": "sanchalu"
+            },
+            {
+                "name": "三闾",
+                "py": "sanlv"
+            },
+            {
+                "name": "桃源县",
+                "py": "taoyuanxian1"
+            },
+            {
+                "name": "文理学院",
+                "py": "wenlixueyuan"
+            },
+            {
+                "name": "五强溪",
+                "py": "wuqiangxi"
+            },
+            {
+                "name": "芷兰",
+                "py": "zhilan"
+            },
+            {
+                "name": "紫桥",
+                "py": "ziqiao"
+            }
+        ]
+    },
+    {
+        "name": "汉寿县",
+        "py": "hanshouxian",
+        "list": [
+            {
+                "name": "安乡县",
+                "py": "anxiangxian1"
+            },
+            {
+                "name": "汉寿县",
+                "py": "hanshouxian1"
+            }
+        ]
+    },
+    {
+        "name": "津市市",
+        "py": "jinshishi",
+        "list": [
+            {
+                "name": "安乡县",
+                "py": "anxiangxian1"
+            },
+            {
+                "name": "津市市",
+                "py": "jinshishi1"
+            },
+            {
+                "name": "临澧县",
+                "py": "linlixian1"
+            },
+            {
+                "name": "澧县",
+                "py": "lixian5"
+            }
+        ]
+    },
+    {
+        "name": "澧县",
+        "py": "lixian4",
+        "list": [
+            {
+                "name": "安乡县",
+                "py": "anxiangxian1"
+            },
+            {
+                "name": "津市市",
+                "py": "jinshishi1"
+            },
+            {
+                "name": "临澧县",
+                "py": "linlixian1"
+            },
+            {
+                "name": "澧县",
+                "py": "lixian5"
+            },
+            {
+                "name": "石门县",
+                "py": "shimenxian1"
+            }
+        ]
+    },
+    {
+        "name": "石门县",
+        "py": "shimenxian",
+        "list": [
+            {
+                "name": "临澧县",
+                "py": "linlixian1"
+            },
+            {
+                "name": "澧县",
+                "py": "lixian5"
+            },
+            {
+                "name": "石门县",
+                "py": "shimenxian1"
+            },
+            {
+                "name": "桃源县",
+                "py": "taoyuanxian1"
+            }
+        ]
+    },
+    {
+        "name": "鼎城区",
+        "py": "dingchengqu",
+        "list": [
+            {
+                "name": "安乡县",
+                "py": "anxiangxian1"
+            },
+            {
+                "name": "常德经济技术开发区",
+                "py": "changdejingjijishukaifaqu1"
+            },
+            {
+                "name": "德山",
+                "py": "deshan"
+            },
+            {
+                "name": "鼎城区灌溪",
+                "py": "dingchengquguanxi"
+            },
+            {
+                "name": "汉寿县",
+                "py": "hanshouxian1"
+            },
+            {
+                "name": "津市市",
+                "py": "jinshishi1"
+            },
+            {
+                "name": "临澧县",
+                "py": "linlixian1"
+            },
+            {
+                "name": "桥南",
+                "py": "qiaonan2"
+            },
+            {
+                "name": "桃源县",
+                "py": "taoyuanxian1"
+            }
+        ]
+    }
+]

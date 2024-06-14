@@ -1,0 +1,184 @@
+﻿[
+    {
+        "name": "七星区",
+        "py": "qixingqu",
+        "list": [
+            {
+                "name": "灵川",
+                "py": "lingchuan"
+            },
+            {
+                "name": "七星区",
+                "py": "qixingqu2"
+            }
+        ]
+    },
+    {
+        "name": "临桂区",
+        "py": "linguiqu",
+        "list": [
+            {
+                "name": "临桂区",
+                "py": "linguiqu1"
+            },
+            {
+                "name": "象山区",
+                "py": "xiangshanqu4"
+            }
+        ]
+    },
+    {
+        "name": "象山区",
+        "py": "xiangshanqu",
+        "list": [
+            {
+                "name": "象山区",
+                "py": "xiangshanqu4"
+            }
+        ]
+    },
+    {
+        "name": "秀峰区",
+        "py": "xiufengqu",
+        "list": [
+            {
+                "name": "秀峰区",
+                "py": "xiufengqu2"
+            }
+        ]
+    },
+    {
+        "name": "叠彩区",
+        "py": "diecaiqu",
+        "list": [
+            {
+                "name": "叠彩区",
+                "py": "diecaiqu2"
+            }
+        ]
+    },
+    {
+        "name": "雁山区",
+        "py": "yanshanqu",
+        "list": [
+            {
+                "name": "雁山区",
+                "py": "yanshanqu2"
+            }
+        ]
+    },
+    {
+        "name": "灌阳县",
+        "py": "guanyangxian",
+        "list": [
+            {
+                "name": "灌阳县",
+                "py": "guanyangxian1"
+            }
+        ]
+    },
+    {
+        "name": "灵川",
+        "py": "lingchuan1",
+        "list": [
+            {
+                "name": "灵川",
+                "py": "lingchuan"
+            },
+            {
+                "name": "七星区",
+                "py": "qixingqu2"
+            }
+        ]
+    },
+    {
+        "name": "龙胜各族自治县",
+        "py": "longshenggezuzizhixian",
+        "list": [
+            {
+                "name": "龙胜各族自治县",
+                "py": "longshenggezuzizhixian2"
+            }
+        ]
+    },
+    {
+        "name": "永福县",
+        "py": "yongfuxian",
+        "list": [
+            {
+                "name": "永福县",
+                "py": "yongfuxian2"
+            }
+        ]
+    },
+    {
+        "name": "平乐县",
+        "py": "pinglexian",
+        "list": [
+            {
+                "name": "平乐县",
+                "py": "pinglexian2"
+            }
+        ]
+    },
+    {
+        "name": "恭城瑶族自治县",
+        "py": "gongchengyaozuzizhixian",
+        "list": [
+            {
+                "name": "恭城瑶族自治县",
+                "py": "gongchengyaozuzizhixian1"
+            }
+        ]
+    },
+    {
+        "name": "资源县",
+        "py": "ziyuanxian",
+        "list": [
+            {
+                "name": "资源县",
+                "py": "ziyuanxian2"
+            }
+        ]
+    },
+    {
+        "name": "全州县",
+        "py": "quanzhouxian",
+        "list": [
+            {
+                "name": "全州县",
+                "py": "quanzhouxian2"
+            }
+        ]
+    },
+    {
+        "name": "荔浦县",
+        "py": "lipuxian",
+        "list": [
+            {
+                "name": "荔浦县",
+                "py": "lipuxian1"
+            }
+        ]
+    },
+    {
+        "name": "兴安县",
+        "py": "xinganxian",
+        "list": [
+            {
+                "name": "兴安县",
+                "py": "xinganxian4"
+            }
+        ]
+    },
+    {
+        "name": "阳朔县",
+        "py": "yangshuoxian",
+        "list": [
+            {
+                "name": "阳朔县",
+                "py": "yangshuoxian2"
+            }
+        ]
+    }
+]

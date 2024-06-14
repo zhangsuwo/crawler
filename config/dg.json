@@ -1,0 +1,700 @@
+﻿[
+    {
+        "name": "南城区",
+        "py": "nanchengqu",
+        "list": [
+            {
+                "name": "白马",
+                "py": "baima"
+            },
+            {
+                "name": "东莞图书馆",
+                "py": "dongguantushuguan"
+            },
+            {
+                "name": "东莞行政中心区",
+                "py": "dongguanxingzhengzhongxinqu"
+            },
+            {
+                "name": "东泰",
+                "py": "dongtai"
+            },
+            {
+                "name": "鸿福路口",
+                "py": "hongfulukou"
+            },
+            {
+                "name": "宏远北",
+                "py": "hongyuanbei"
+            },
+            {
+                "name": "宏远南",
+                "py": "hongyuannan"
+            },
+            {
+                "name": "南城",
+                "py": "nancheng"
+            },
+            {
+                "name": "南城车站",
+                "py": "nanchengchezhan"
+            },
+            {
+                "name": "三元里",
+                "py": "sanyuanli1"
+            },
+            {
+                "name": "胜利路",
+                "py": "shenglilu"
+            },
+            {
+                "name": "石竹",
+                "py": "shizhu2"
+            },
+            {
+                "name": "水濂山",
+                "py": "shuilianshan"
+            },
+            {
+                "name": "下坝",
+                "py": "xiaba"
+            },
+            {
+                "name": "西平",
+                "py": "xiping"
+            },
+            {
+                "name": "运河东",
+                "py": "yunhedong"
+            }
+        ]
+    },
+    {
+        "name": "东城区",
+        "py": "dongchengqu",
+        "list": [
+            {
+                "name": "茶山镇",
+                "py": "chashanzhen1"
+            },
+            {
+                "name": "大岭山镇",
+                "py": "dalingshanzhen"
+            },
+            {
+                "name": "东平街",
+                "py": "dongpingjie"
+            },
+            {
+                "name": "东泰",
+                "py": "dongtai"
+            },
+            {
+                "name": "莞城",
+                "py": "guancheng"
+            },
+            {
+                "name": "黄旗山",
+                "py": "huangqishan"
+            },
+            {
+                "name": "花园新村",
+                "py": "huayuanxincun1"
+            },
+            {
+                "name": "火炼树",
+                "py": "huolianshu"
+            },
+            {
+                "name": "寮步",
+                "py": "liaobu"
+            },
+            {
+                "name": "立新",
+                "py": "lixin"
+            },
+            {
+                "name": "上下桥",
+                "py": "shangxiaqiao"
+            },
+            {
+                "name": "世博广场",
+                "py": "shiboguangchang"
+            },
+            {
+                "name": "石碣镇",
+                "py": "shijiezhen"
+            },
+            {
+                "name": "石井",
+                "py": "shijing1"
+            },
+            {
+                "name": "水濂山",
+                "py": "shuilianshan"
+            },
+            {
+                "name": "温塘",
+                "py": "wentang"
+            },
+            {
+                "name": "新锡边",
+                "py": "xinxibian"
+            },
+            {
+                "name": "西平",
+                "py": "xiping"
+            },
+            {
+                "name": "周屋",
+                "py": "zhouwu"
+            },
+            {
+                "name": "主山",
+                "py": "zhushan"
+            }
+        ]
+    },
+    {
+        "name": "万江区",
+        "py": "wanjiangqu",
+        "list": [
+            {
+                "name": "道滘镇",
+                "py": "daojiaozhen1"
+            },
+            {
+                "name": "宏远北",
+                "py": "hongyuanbei"
+            },
+            {
+                "name": "华南摩尔",
+                "py": "huananmoer"
+            },
+            {
+                "name": "客运总站",
+                "py": "keyunzongzhan"
+            },
+            {
+                "name": "胜利路",
+                "py": "shenglilu"
+            },
+            {
+                "name": "石美",
+                "py": "shimei"
+            },
+            {
+                "name": "万江",
+                "py": "wanjiang"
+            },
+            {
+                "name": "万江中心",
+                "py": "wanjiangzhongxin"
+            },
+            {
+                "name": "下坝",
+                "py": "xiaba"
+            },
+            {
+                "name": "运河东",
+                "py": "yunhedong"
+            }
+        ]
+    },
+    {
+        "name": "莞城区",
+        "py": "wanchengqu",
+        "list": [
+            {
+                "name": "八达路",
+                "py": "badalu"
+            },
+            {
+                "name": "东莞行政中心区",
+                "py": "dongguanxingzhengzhongxinqu"
+            },
+            {
+                "name": "东平街",
+                "py": "dongpingjie"
+            },
+            {
+                "name": "莞城",
+                "py": "guancheng"
+            },
+            {
+                "name": "黄旗山",
+                "py": "huangqishan"
+            },
+            {
+                "name": "花园新村",
+                "py": "huayuanxincun1"
+            },
+            {
+                "name": "罗沙",
+                "py": "luosha"
+            },
+            {
+                "name": "上下桥",
+                "py": "shangxiaqiao"
+            },
+            {
+                "name": "胜利路",
+                "py": "shenglilu"
+            },
+            {
+                "name": "西城楼",
+                "py": "xichenglou"
+            },
+            {
+                "name": "学院路",
+                "py": "xueyuanlu"
+            },
+            {
+                "name": "运河东",
+                "py": "yunhedong"
+            }
+        ]
+    },
+    {
+        "name": "寮步镇",
+        "py": "liaobuzhen1",
+        "list": [
+            {
+                "name": "黄旗山",
+                "py": "huangqishan"
+            },
+            {
+                "name": "寮步",
+                "py": "liaobu"
+            },
+            {
+                "name": "石井",
+                "py": "shijing1"
+            },
+            {
+                "name": "周屋",
+                "py": "zhouwu"
+            }
+        ]
+    },
+    {
+        "name": "虎门镇",
+        "py": "humenzhen3",
+        "list": [
+            {
+                "name": "大宁",
+                "py": "daning1"
+            },
+            {
+                "name": "地标",
+                "py": "dibiao"
+            },
+            {
+                "name": "黄河中心",
+                "py": "huanghezhongxin"
+            },
+            {
+                "name": "虎门公园",
+                "py": "humengongyuan"
+            },
+            {
+                "name": "太平广场",
+                "py": "taipingguangchang"
+            },
+            {
+                "name": "万达",
+                "py": "wanda"
+            },
+            {
+                "name": "威远",
+                "py": "weiyuan"
+            },
+            {
+                "name": "新联",
+                "py": "xinlian"
+            }
+        ]
+    },
+    {
+        "name": "长安镇",
+        "py": "changanzhen1",
+        "list": [
+            {
+                "name": "长安新区",
+                "py": "changanxinqu"
+            },
+            {
+                "name": "咸西",
+                "py": "xianxi"
+            },
+            {
+                "name": "宵边",
+                "py": "xiaobian"
+            },
+            {
+                "name": "增田",
+                "py": "zengtian"
+            },
+            {
+                "name": "中心",
+                "py": "zhongxin"
+            }
+        ]
+    },
+    {
+        "name": "松山湖高新区",
+        "py": "songshanhugaoxinqu",
+        "list": [
+            {
+                "name": "大朗镇",
+                "py": "dalangzhen1"
+            },
+            {
+                "name": "大岭山镇",
+                "py": "dalingshanzhen"
+            },
+            {
+                "name": "松山湖",
+                "py": "songshanhu1"
+            }
+        ]
+    },
+    {
+        "name": "厚街镇",
+        "py": "houjiezhen2",
+        "list": [
+            {
+                "name": "厚街镇",
+                "py": "houjiezhen"
+            },
+            {
+                "name": "沙田镇",
+                "py": "shatianzhen1"
+            },
+            {
+                "name": "水濂山",
+                "py": "shuilianshan"
+            }
+        ]
+    },
+    {
+        "name": "高埗镇",
+        "py": "gaobuzhen1",
+        "list": [
+            {
+                "name": "高埗镇",
+                "py": "gaobuzhen"
+            }
+        ]
+    },
+    {
+        "name": "道滘镇",
+        "py": "daojiaozhen",
+        "list": [
+            {
+                "name": "道滘镇",
+                "py": "daojiaozhen1"
+            },
+            {
+                "name": "洪梅镇",
+                "py": "hongmeizhen1"
+            },
+            {
+                "name": "厚街镇",
+                "py": "houjiezhen"
+            }
+        ]
+    },
+    {
+        "name": "洪梅镇",
+        "py": "hongmeizhen",
+        "list": [
+            {
+                "name": "洪梅镇",
+                "py": "hongmeizhen1"
+            }
+        ]
+    },
+    {
+        "name": "沙田镇",
+        "py": "shatianzhen",
+        "list": [
+            {
+                "name": "沙田镇",
+                "py": "shatianzhen1"
+            }
+        ]
+    },
+    {
+        "name": "大岭山镇",
+        "py": "dalingshanzhen1",
+        "list": [
+            {
+                "name": "大岭山镇",
+                "py": "dalingshanzhen"
+            },
+            {
+                "name": "火炼树",
+                "py": "huolianshu"
+            },
+            {
+                "name": "松山湖",
+                "py": "songshanhu1"
+            }
+        ]
+    },
+    {
+        "name": "常平镇",
+        "py": "changpingzhen",
+        "list": [
+            {
+                "name": "常平镇",
+                "py": "changpingzhen1"
+            },
+            {
+                "name": "横沥镇",
+                "py": "henglizhen1"
+            }
+        ]
+    },
+    {
+        "name": "大朗镇",
+        "py": "dalangzhen",
+        "list": [
+            {
+                "name": "大朗镇",
+                "py": "dalangzhen1"
+            },
+            {
+                "name": "松山湖",
+                "py": "songshanhu1"
+            }
+        ]
+    },
+    {
+        "name": "黄江镇",
+        "py": "huangjiangzhen",
+        "list": [
+            {
+                "name": "黄江镇",
+                "py": "huangjiangzhen1"
+            }
+        ]
+    },
+    {
+        "name": "樟木头镇",
+        "py": "zhangmutouzhen",
+        "list": [
+            {
+                "name": "樟木头镇",
+                "py": "zhangmutouzhen1"
+            }
+        ]
+    },
+    {
+        "name": "塘厦镇",
+        "py": "tangshazhen",
+        "list": [
+            {
+                "name": "塘厦镇",
+                "py": "tangxiazhen1"
+            }
+        ]
+    },
+    {
+        "name": "清溪镇",
+        "py": "qingxizhen",
+        "list": [
+            {
+                "name": "凤岗镇",
+                "py": "fenggangzhen1"
+            },
+            {
+                "name": "清溪镇",
+                "py": "qingxizhen1"
+            }
+        ]
+    },
+    {
+        "name": "凤岗镇",
+        "py": "fenggangzhen",
+        "list": [
+            {
+                "name": "凤岗镇",
+                "py": "fenggangzhen1"
+            }
+        ]
+    },
+    {
+        "name": "东坑镇",
+        "py": "dongkengzhen",
+        "list": [
+            {
+                "name": "大朗镇",
+                "py": "dalangzhen1"
+            },
+            {
+                "name": "东坑镇",
+                "py": "dongkengzhen1"
+            },
+            {
+                "name": "横沥镇",
+                "py": "henglizhen1"
+            },
+            {
+                "name": "寮步",
+                "py": "liaobu"
+            },
+            {
+                "name": "松山湖",
+                "py": "songshanhu1"
+            }
+        ]
+    },
+    {
+        "name": "企石镇",
+        "py": "qishizhen",
+        "list": [
+            {
+                "name": "横沥镇",
+                "py": "henglizhen1"
+            },
+            {
+                "name": "企石镇",
+                "py": "qishizhen1"
+            }
+        ]
+    },
+    {
+        "name": "石排镇",
+        "py": "shipaizhen",
+        "list": [
+            {
+                "name": "横沥镇",
+                "py": "henglizhen1"
+            },
+            {
+                "name": "石排镇",
+                "py": "shipaizhen1"
+            }
+        ]
+    },
+    {
+        "name": "茶山镇",
+        "py": "chashanzhen",
+        "list": [
+            {
+                "name": "茶山镇",
+                "py": "chashanzhen1"
+            },
+            {
+                "name": "石龙镇",
+                "py": "shilongzhen1"
+            },
+            {
+                "name": "周屋",
+                "py": "zhouwu"
+            }
+        ]
+    },
+    {
+        "name": "麻涌镇",
+        "py": "machongzhen",
+        "list": [
+            {
+                "name": "麻涌镇",
+                "py": "machongzhen1"
+            }
+        ]
+    },
+    {
+        "name": "横沥镇",
+        "py": "henglizhen",
+        "list": [
+            {
+                "name": "东坑镇",
+                "py": "dongkengzhen1"
+            },
+            {
+                "name": "横沥镇",
+                "py": "henglizhen1"
+            },
+            {
+                "name": "企石镇",
+                "py": "qishizhen1"
+            }
+        ]
+    },
+    {
+        "name": "石龙镇",
+        "py": "shilongzhen",
+        "list": [
+            {
+                "name": "茶山镇",
+                "py": "chashanzhen1"
+            },
+            {
+                "name": "石龙镇",
+                "py": "shilongzhen1"
+            }
+        ]
+    },
+    {
+        "name": "石碣镇",
+        "py": "shijiezhen1",
+        "list": [
+            {
+                "name": "石碣镇",
+                "py": "shijiezhen"
+            }
+        ]
+    },
+    {
+        "name": "中堂镇",
+        "py": "zhongtangzhen",
+        "list": [
+            {
+                "name": "中堂镇",
+                "py": "zhongtangzhen1"
+            }
+        ]
+    },
+    {
+        "name": "望牛墩镇",
+        "py": "wangniudunzhen",
+        "list": [
+            {
+                "name": "望牛墩镇",
+                "py": "wangniudunzhen1"
+            }
+        ]
+    },
+    {
+        "name": "桥头镇",
+        "py": "qiaotouzhen",
+        "list": [
+            {
+                "name": "常平镇",
+                "py": "changpingzhen1"
+            },
+            {
+                "name": "桥头镇",
+                "py": "qiaotouzhen1"
+            }
+        ]
+    },
+    {
+        "name": "谢岗镇",
+        "py": "xiegangzhen",
+        "list": [
+            {
+                "name": "谢岗镇",
+                "py": "xiegangzhen1"
+            },
+            {
+                "name": "樟木头镇",
+                "py": "zhangmutouzhen1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,396 @@
+﻿[
+    {
+        "name": "七里河区",
+        "py": "qilihequ",
+        "list": [
+            {
+                "name": "奥体中心",
+                "py": "aotizhongxin5"
+            },
+            {
+                "name": "福利路",
+                "py": "fulilu"
+            },
+            {
+                "name": "龚家湾",
+                "py": "gongjiawan"
+            },
+            {
+                "name": "豪布斯卡",
+                "py": "haobusika"
+            },
+            {
+                "name": "建工局",
+                "py": "jiangongju"
+            },
+            {
+                "name": "金港城",
+                "py": "jingangcheng"
+            },
+            {
+                "name": "兰工坪",
+                "py": "langongping"
+            },
+            {
+                "name": "兰州中心",
+                "py": "lanzhouzhongxin"
+            },
+            {
+                "name": "马滩",
+                "py": "matan"
+            },
+            {
+                "name": "彭家坪",
+                "py": "pengjiaping"
+            },
+            {
+                "name": "上西园",
+                "py": "shangxiyuan"
+            },
+            {
+                "name": "文化宫",
+                "py": "wenhuagong1"
+            },
+            {
+                "name": "五泉广场",
+                "py": "wuquanguangchang"
+            },
+            {
+                "name": "小西湖",
+                "py": "xiaoxihu"
+            },
+            {
+                "name": "下西园",
+                "py": "xiaxiyuan"
+            },
+            {
+                "name": "曦华源",
+                "py": "xihuayuan"
+            },
+            {
+                "name": "秀川",
+                "py": "xiuchuan"
+            },
+            {
+                "name": "西站",
+                "py": "xizhan"
+            },
+            {
+                "name": "晏家坪",
+                "py": "yanjiaping"
+            }
+        ]
+    },
+    {
+        "name": "兰州新区",
+        "py": "lanzhouxinqu",
+        "list": [
+            {
+                "name": "兰州新区",
+                "py": "lanzhouxinqu1"
+            }
+        ]
+    },
+    {
+        "name": "城关区",
+        "py": "chengguanqu",
+        "list": [
+            {
+                "name": "北面滩",
+                "py": "beimiantan"
+            },
+            {
+                "name": "碧桂园",
+                "py": "biguiyuan"
+            },
+            {
+                "name": "大沙坪",
+                "py": "dashaping"
+            },
+            {
+                "name": "东方红广场",
+                "py": "dongfanghongguangchang"
+            },
+            {
+                "name": "东岗",
+                "py": "donggang3"
+            },
+            {
+                "name": "东湖",
+                "py": "donghu7"
+            },
+            {
+                "name": "段家滩",
+                "py": "duanjiatan"
+            },
+            {
+                "name": "二热",
+                "py": "erre"
+            },
+            {
+                "name": "福源新城",
+                "py": "fuyuanxincheng"
+            },
+            {
+                "name": "皋兰东区",
+                "py": "gaolandongqu"
+            },
+            {
+                "name": "广武门",
+                "py": "guangwumen"
+            },
+            {
+                "name": "和平",
+                "py": "heping3"
+            },
+            {
+                "name": "黄河北",
+                "py": "huanghebei"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan12"
+            },
+            {
+                "name": "九州",
+                "py": "jiuzhou"
+            },
+            {
+                "name": "兰大盘旋路",
+                "py": "landapanxuanlu"
+            },
+            {
+                "name": "兰工坪",
+                "py": "langongping"
+            },
+            {
+                "name": "万达大润发",
+                "py": "wandadarunfa"
+            },
+            {
+                "name": "渭源路",
+                "py": "weiyuanlu"
+            },
+            {
+                "name": "五泉广场",
+                "py": "wuquanguangchang"
+            },
+            {
+                "name": "下西园",
+                "py": "xiaxiyuan"
+            },
+            {
+                "name": "西关南关",
+                "py": "xiguannanguan"
+            },
+            {
+                "name": "幸福巷",
+                "py": "xingfuxiang"
+            },
+            {
+                "name": "雁北路",
+                "py": "yanbeilu"
+            },
+            {
+                "name": "盐场堡",
+                "py": "yanchangbao"
+            },
+            {
+                "name": "雁滩高新区",
+                "py": "yantangaoxinqu"
+            }
+        ]
+    },
+    {
+        "name": "安宁区",
+        "py": "anningqu",
+        "list": [
+            {
+                "name": "安宁高新区",
+                "py": "anninggaoxinqu"
+            },
+            {
+                "name": "安宁科教城",
+                "py": "anningkejiaocheng"
+            },
+            {
+                "name": "安宁庭院",
+                "py": "anningtingyuan"
+            },
+            {
+                "name": "费家营",
+                "py": "feijiaying"
+            },
+            {
+                "name": "福源新城",
+                "py": "fuyuanxincheng"
+            },
+            {
+                "name": "海关",
+                "py": "haiguan"
+            },
+            {
+                "name": "交大",
+                "py": "jiaoda"
+            },
+            {
+                "name": "兰州中心",
+                "py": "lanzhouzhongxin"
+            },
+            {
+                "name": "刘家堡",
+                "py": "liujiabao"
+            },
+            {
+                "name": "莫高大道",
+                "py": "mogaodadao"
+            },
+            {
+                "name": "沙井驿街道",
+                "py": "shajingyijiedao"
+            },
+            {
+                "name": "师大",
+                "py": "shida1"
+            },
+            {
+                "name": "十里店",
+                "py": "shilidian"
+            },
+            {
+                "name": "幸福巷",
+                "py": "xingfuxiang"
+            }
+        ]
+    },
+    {
+        "name": "榆中县",
+        "py": "yuzhongxian",
+        "list": [
+            {
+                "name": "北面滩",
+                "py": "beimiantan"
+            },
+            {
+                "name": "大名城",
+                "py": "damingcheng"
+            },
+            {
+                "name": "皋兰东区",
+                "py": "gaolandongqu"
+            },
+            {
+                "name": "和平",
+                "py": "heping3"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan12"
+            },
+            {
+                "name": "榆中县",
+                "py": "yuzhongxian1"
+            }
+        ]
+    },
+    {
+        "name": "永登县",
+        "py": "yongdengxian",
+        "list": [
+            {
+                "name": "兰州新区",
+                "py": "lanzhouxinqu1"
+            }
+        ]
+    },
+    {
+        "name": "皋兰县",
+        "py": "gaolanxian",
+        "list": [
+            {
+                "name": "碧桂园",
+                "py": "biguiyuan"
+            },
+            {
+                "name": "福源新城",
+                "py": "fuyuanxincheng"
+            },
+            {
+                "name": "皋兰北区",
+                "py": "gaolanbeiqu"
+            },
+            {
+                "name": "皋兰东区",
+                "py": "gaolandongqu"
+            },
+            {
+                "name": "九州",
+                "py": "jiuzhou"
+            },
+            {
+                "name": "沙井驿街道",
+                "py": "shajingyijiedao"
+            }
+        ]
+    },
+    {
+        "name": "红古区",
+        "py": "hongguqu",
+        "list": [
+            {
+                "name": "红古区",
+                "py": "hongguqu1"
+            }
+        ]
+    },
+    {
+        "name": "西固区",
+        "py": "xiguqu",
+        "list": [
+            {
+                "name": "奥体中心",
+                "py": "aotizhongxin5"
+            },
+            {
+                "name": "陈官营",
+                "py": "chenguanying"
+            },
+            {
+                "name": "福利路",
+                "py": "fulilu"
+            },
+            {
+                "name": "金城公园",
+                "py": "jinchenggongyuan"
+            },
+            {
+                "name": "兰炼十字",
+                "py": "lanlianshizi"
+            },
+            {
+                "name": "临洮街",
+                "py": "lintaojie"
+            },
+            {
+                "name": "沙井驿街道",
+                "py": "shajingyijiedao"
+            },
+            {
+                "name": "天鹅湖",
+                "py": "tianehu"
+            },
+            {
+                "name": "小平房",
+                "py": "xiaopingfang"
+            },
+            {
+                "name": "西固城",
+                "py": "xigucheng"
+            },
+            {
+                "name": "玉门街",
+                "py": "yumenjie"
+            }
+        ]
+    }
+]

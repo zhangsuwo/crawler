@@ -1,6 +1,7 @@
 import util
 
 
+# 对chitu原始数据格式化
 def format_data():
     data = util.read_csv("out/chitu.csv", mode="r")
     util.logging.info("共读取{0}条chitu数据".format(len(data)))

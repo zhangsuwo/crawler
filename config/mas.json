@@ -1,0 +1,142 @@
+﻿[
+    {
+        "name": "博望区",
+        "py": "bowangqu",
+        "list": [
+            {
+                "name": "当涂县",
+                "py": "dangtuxian1"
+            }
+        ]
+    },
+    {
+        "name": "含山县",
+        "py": "hanshanxian",
+        "list": [
+            {
+                "name": "含山县",
+                "py": "hanshanxian1"
+            }
+        ]
+    },
+    {
+        "name": "和县",
+        "py": "hexian",
+        "list": [
+            {
+                "name": "当涂县",
+                "py": "dangtuxian1"
+            },
+            {
+                "name": "含山县",
+                "py": "hanshanxian1"
+            },
+            {
+                "name": "和县",
+                "py": "hexian3"
+            }
+        ]
+    },
+    {
+        "name": "当涂县",
+        "py": "dangtuxian",
+        "list": [
+            {
+                "name": "当涂县",
+                "py": "dangtuxian1"
+            }
+        ]
+    },
+    {
+        "name": "花山区",
+        "py": "huashanqu",
+        "list": [
+            {
+                "name": "安民",
+                "py": "anmin"
+            },
+            {
+                "name": "当涂县",
+                "py": "dangtuxian1"
+            },
+            {
+                "name": "霍里",
+                "py": "huoli"
+            },
+            {
+                "name": "江东",
+                "py": "jiangdong"
+            },
+            {
+                "name": "佳山",
+                "py": "jiashan"
+            },
+            {
+                "name": "解放路",
+                "py": "jiefanglu2"
+            },
+            {
+                "name": "平湖",
+                "py": "pinghu1"
+            },
+            {
+                "name": "沙塘",
+                "py": "shatang"
+            },
+            {
+                "name": "塘西",
+                "py": "tangxi"
+            },
+            {
+                "name": "桃园",
+                "py": "taoyuan"
+            },
+            {
+                "name": "雨山",
+                "py": "yushan"
+            }
+        ]
+    },
+    {
+        "name": "雨山区",
+        "py": "yushanqu",
+        "list": [
+            {
+                "name": "安民",
+                "py": "anmin"
+            },
+            {
+                "name": "采石",
+                "py": "caishi"
+            },
+            {
+                "name": "当涂县",
+                "py": "dangtuxian1"
+            },
+            {
+                "name": "霍里",
+                "py": "huoli"
+            },
+            {
+                "name": "佳山",
+                "py": "jiashan"
+            },
+            {
+                "name": "平湖",
+                "py": "pinghu1"
+            },
+            {
+                "name": "沙塘",
+                "py": "shatang"
+            },
+            {
+                "name": "桃园",
+                "py": "taoyuan"
+            },
+            {
+                "name": "雨山",
+                "py": "yushan"
+            }
+        ]
+    }
+]

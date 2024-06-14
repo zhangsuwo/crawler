@@ -1,0 +1,134 @@
+﻿[
+    {
+        "name": "东港市",
+        "py": "donggangshi",
+        "list": [
+            {
+                "name": "东港市",
+                "py": "donggangshi1"
+            },
+            {
+                "name": "凤城市",
+                "py": "fengchengshi1"
+            },
+            {
+                "name": "振安区",
+                "py": "zhenanqu1"
+            },
+            {
+                "name": "振兴区",
+                "py": "zhenxingqu1"
+            }
+        ]
+    },
+    {
+        "name": "元宝区",
+        "py": "yuanbaoqu",
+        "list": [
+            {
+                "name": "元宝区",
+                "py": "yuanbaoqu1"
+            },
+            {
+                "name": "振安区",
+                "py": "zhenanqu1"
+            },
+            {
+                "name": "振兴区",
+                "py": "zhenxingqu1"
+            }
+        ]
+    },
+    {
+        "name": "凤城市",
+        "py": "fengchengshi",
+        "list": [
+            {
+                "name": "东港市",
+                "py": "donggangshi1"
+            },
+            {
+                "name": "凤城市",
+                "py": "fengchengshi1"
+            },
+            {
+                "name": "宽甸满族自治县",
+                "py": "kuandianmanzuzizhixian1"
+            },
+            {
+                "name": "振安区",
+                "py": "zhenanqu1"
+            }
+        ]
+    },
+    {
+        "name": "宽甸满族自治县",
+        "py": "kuandianmanzuzizhixian",
+        "list": [
+            {
+                "name": "凤城市",
+                "py": "fengchengshi1"
+            },
+            {
+                "name": "宽甸满族自治县",
+                "py": "kuandianmanzuzizhixian1"
+            },
+            {
+                "name": "振安区",
+                "py": "zhenanqu1"
+            }
+        ]
+    },
+    {
+        "name": "振兴区",
+        "py": "zhenxingqu",
+        "list": [
+            {
+                "name": "东港市",
+                "py": "donggangshi1"
+            },
+            {
+                "name": "元宝区",
+                "py": "yuanbaoqu1"
+            },
+            {
+                "name": "振安区",
+                "py": "zhenanqu1"
+            },
+            {
+                "name": "振兴区",
+                "py": "zhenxingqu1"
+            }
+        ]
+    },
+    {
+        "name": "振安区",
+        "py": "zhenanqu",
+        "list": [
+            {
+                "name": "东港市",
+                "py": "donggangshi1"
+            },
+            {
+                "name": "凤城市",
+                "py": "fengchengshi1"
+            },
+            {
+                "name": "宽甸满族自治县",
+                "py": "kuandianmanzuzizhixian1"
+            },
+            {
+                "name": "元宝区",
+                "py": "yuanbaoqu1"
+            },
+            {
+                "name": "振安区",
+                "py": "zhenanqu1"
+            },
+            {
+                "name": "振兴区",
+                "py": "zhenxingqu1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,446 @@
+﻿[
+    {
+        "name": "罗湖区",
+        "py": "luohuqu",
+        "list": [
+            {
+                "name": "百仕达",
+                "py": "baishida"
+            },
+            {
+                "name": "布心",
+                "py": "buxin"
+            },
+            {
+                "name": "春风路",
+                "py": "chunfenglu"
+            },
+            {
+                "name": "翠竹",
+                "py": "cuizhu"
+            },
+            {
+                "name": "地王",
+                "py": "diwang"
+            },
+            {
+                "name": "东门",
+                "py": "dongmen"
+            },
+            {
+                "name": "洪湖",
+                "py": "honghu"
+            },
+            {
+                "name": "黄贝岭",
+                "py": "huangbeiling"
+            },
+            {
+                "name": "黄木岗",
+                "py": "huangmugang"
+            },
+            {
+                "name": "莲塘",
+                "py": "liantang"
+            },
+            {
+                "name": "罗湖口岸",
+                "py": "luohukouan"
+            },
+            {
+                "name": "螺岭",
+                "py": "luoling"
+            },
+            {
+                "name": "清水河",
+                "py": "qingshuihe"
+            },
+            {
+                "name": "笋岗",
+                "py": "sungang"
+            },
+            {
+                "name": "万象城",
+                "py": "wanxiangcheng"
+            },
+            {
+                "name": "新秀",
+                "py": "xinxiu"
+            },
+            {
+                "name": "银湖",
+                "py": "yinhu"
+            }
+        ]
+    },
+    {
+        "name": "福田区",
+        "py": "futianqu",
+        "list": [
+            {
+                "name": "八卦岭",
+                "py": "bagualing"
+            },
+            {
+                "name": "百花",
+                "py": "baihua"
+            },
+            {
+                "name": "车公庙",
+                "py": "chegongmiao"
+            },
+            {
+                "name": "赤尾",
+                "py": "chiwei"
+            },
+            {
+                "name": "福田保税区",
+                "py": "futianbaoshuiqu"
+            },
+            {
+                "name": "福田中心",
+                "py": "futianzhongxin"
+            },
+            {
+                "name": "皇岗",
+                "py": "huanggang"
+            },
+            {
+                "name": "黄木岗",
+                "py": "huangmugang"
+            },
+            {
+                "name": "华强北",
+                "py": "huaqiangbei"
+            },
+            {
+                "name": "华强南",
+                "py": "huaqiangnan"
+            },
+            {
+                "name": "景田",
+                "py": "jingtian"
+            },
+            {
+                "name": "莲花",
+                "py": "lianhua"
+            },
+            {
+                "name": "梅林",
+                "py": "meilin"
+            },
+            {
+                "name": "上步",
+                "py": "shangbu"
+            },
+            {
+                "name": "上下沙",
+                "py": "shangxiasha"
+            },
+            {
+                "name": "沙尾",
+                "py": "shawei"
+            },
+            {
+                "name": "石厦",
+                "py": "shixia"
+            },
+            {
+                "name": "香梅北",
+                "py": "xiangmeibei"
+            },
+            {
+                "name": "香蜜湖",
+                "py": "xiangmihu"
+            },
+            {
+                "name": "新洲",
+                "py": "xinzhou1"
+            },
+            {
+                "name": "银湖",
+                "py": "yinhu"
+            },
+            {
+                "name": "园岭",
+                "py": "yuanling"
+            },
+            {
+                "name": "竹子林",
+                "py": "zhuzilin"
+            }
+        ]
+    },
+    {
+        "name": "南山区",
+        "py": "nanshanqu",
+        "list": [
+            {
+                "name": "白石洲",
+                "py": "baishizhou"
+            },
+            {
+                "name": "大学城",
+                "py": "daxuecheng3"
+            },
+            {
+                "name": "红树湾",
+                "py": "hongshuwan"
+            },
+            {
+                "name": "后海",
+                "py": "houhai"
+            },
+            {
+                "name": "华侨城",
+                "py": "huaqiaocheng1"
+            },
+            {
+                "name": "科技园",
+                "py": "kejiyuan"
+            },
+            {
+                "name": "南山中心",
+                "py": "nanshanzhongxin"
+            },
+            {
+                "name": "南头",
+                "py": "nantou"
+            },
+            {
+                "name": "前海",
+                "py": "qianhai"
+            },
+            {
+                "name": "蛇口",
+                "py": "shekou"
+            },
+            {
+                "name": "深圳湾",
+                "py": "shenzhenwan"
+            },
+            {
+                "name": "西丽",
+                "py": "xili1"
+            }
+        ]
+    },
+    {
+        "name": "盐田区",
+        "py": "yantianqu",
+        "list": [
+            {
+                "name": "梅沙",
+                "py": "meisha"
+            },
+            {
+                "name": "沙头角",
+                "py": "shatoujiao"
+            },
+            {
+                "name": "盐田港",
+                "py": "yantiangang"
+            }
+        ]
+    },
+    {
+        "name": "宝安区",
+        "py": "baoanqu",
+        "list": [
+            {
+                "name": "宝安中心",
+                "py": "baoanzhongxin"
+            },
+            {
+                "name": "碧海",
+                "py": "bihai1"
+            },
+            {
+                "name": "翻身",
+                "py": "fanshen"
+            },
+            {
+                "name": "福永",
+                "py": "fuyong"
+            },
+            {
+                "name": "航城",
+                "py": "hangcheng"
+            },
+            {
+                "name": "沙井",
+                "py": "shajing"
+            },
+            {
+                "name": "石岩",
+                "py": "shiyan"
+            },
+            {
+                "name": "松岗",
+                "py": "songgang"
+            },
+            {
+                "name": "桃源居",
+                "py": "taoyuanju"
+            },
+            {
+                "name": "曦城",
+                "py": "xicheng1"
+            },
+            {
+                "name": "新安",
+                "py": "xinan"
+            },
+            {
+                "name": "西乡",
+                "py": "xixiang"
+            }
+        ]
+    },
+    {
+        "name": "龙岗区",
+        "py": "longgangqu",
+        "list": [
+            {
+                "name": "坂田",
+                "py": "bantian"
+            },
+            {
+                "name": "布吉大芬",
+                "py": "bujidafen"
+            },
+            {
+                "name": "布吉关",
+                "py": "bujiguan"
+            },
+            {
+                "name": "布吉街",
+                "py": "bujijie"
+            },
+            {
+                "name": "布吉南岭",
+                "py": "bujinanling"
+            },
+            {
+                "name": "布吉石芽岭",
+                "py": "bujishiyaling"
+            },
+            {
+                "name": "布吉水径",
+                "py": "bujishuijing"
+            },
+            {
+                "name": "丹竹头",
+                "py": "danzhutou"
+            },
+            {
+                "name": "大运新城",
+                "py": "dayunxincheng"
+            },
+            {
+                "name": "横岗",
+                "py": "henggang"
+            },
+            {
+                "name": "龙岗宝荷",
+                "py": "longgangbaohe"
+            },
+            {
+                "name": "龙岗双龙",
+                "py": "longgangshuanglong"
+            },
+            {
+                "name": "龙岗中心城",
+                "py": "longgangzhongxincheng"
+            },
+            {
+                "name": "民治",
+                "py": "minzhi"
+            },
+            {
+                "name": "坪地",
+                "py": "pingdi"
+            },
+            {
+                "name": "平湖",
+                "py": "pinghu"
+            }
+        ]
+    },
+    {
+        "name": "龙华区",
+        "py": "longhuaqu",
+        "list": [
+            {
+                "name": "坂田",
+                "py": "bantian"
+            },
+            {
+                "name": "观澜",
+                "py": "guanlan"
+            },
+            {
+                "name": "红山",
+                "py": "hongshan6"
+            },
+            {
+                "name": "龙华新区",
+                "py": "longhuaxinqu"
+            },
+            {
+                "name": "龙华中心",
+                "py": "longhuazhongxin"
+            },
+            {
+                "name": "梅林关",
+                "py": "meilinguan"
+            },
+            {
+                "name": "民治",
+                "py": "minzhi"
+            },
+            {
+                "name": "上塘",
+                "py": "shangtang"
+            },
+            {
+                "name": "石岩",
+                "py": "shiyan"
+            }
+        ]
+    },
+    {
+        "name": "光明区",
+        "py": "guangmingqu",
+        "list": [
+            {
+                "name": "公明",
+                "py": "gongming"
+            },
+            {
+                "name": "光明",
+                "py": "guangming1"
+            }
+        ]
+    },
+    {
+        "name": "坪山区",
+        "py": "pingshanqu",
+        "list": [
+            {
+                "name": "坪山",
+                "py": "pingshan"
+            }
+        ]
+    },
+    {
+        "name": "大鹏新区",
+        "py": "dapengxinqu",
+        "list": [
+            {
+                "name": "大鹏半岛",
+                "py": "dapengbandao"
+            }
+        ]
+    }
+]

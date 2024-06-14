@@ -1,0 +1,366 @@
+﻿[
+    {
+        "name": "临淄区",
+        "py": "linziqu",
+        "list": [
+            {
+                "name": "炒米山生态风景区",
+                "py": "chaomishanshengtaifengjingqu"
+            },
+            {
+                "name": "创业大道",
+                "py": "chuangyedadao"
+            },
+            {
+                "name": "G309荣兰线",
+                "py": "g309ronglanxian"
+            },
+            {
+                "name": "桓台县",
+                "py": "huantaixian1"
+            },
+            {
+                "name": "临淄区",
+                "py": "linziqu1"
+            },
+            {
+                "name": "山铝",
+                "py": "shanlv"
+            },
+            {
+                "name": "卫固",
+                "py": "weigu"
+            },
+            {
+                "name": "玉黛湖",
+                "py": "yudaihu"
+            },
+            {
+                "name": "张店区",
+                "py": "zhangdianqu1"
+            },
+            {
+                "name": "淄川区",
+                "py": "zichuanqu1"
+            }
+        ]
+    },
+    {
+        "name": "博山区",
+        "py": "boshanqu",
+        "list": [
+            {
+                "name": "博山区",
+                "py": "boshanqu1"
+            },
+            {
+                "name": "沂源县",
+                "py": "yiyuanxian1"
+            },
+            {
+                "name": "淄川区",
+                "py": "zichuanqu1"
+            }
+        ]
+    },
+    {
+        "name": "周村区",
+        "py": "zhoucunqu",
+        "list": [
+            {
+                "name": "桓台县",
+                "py": "huantaixian1"
+            },
+            {
+                "name": "人民西路",
+                "py": "renminxilu"
+            },
+            {
+                "name": "湿地公园",
+                "py": "shidigongyuan"
+            },
+            {
+                "name": "张店区",
+                "py": "zhangdianqu1"
+            },
+            {
+                "name": "周村区",
+                "py": "zhoucunqu1"
+            },
+            {
+                "name": "淄川区",
+                "py": "zichuanqu1"
+            }
+        ]
+    },
+    {
+        "name": "张店区",
+        "py": "zhangdianqu",
+        "list": [
+            {
+                "name": "炒米山生态风景区",
+                "py": "chaomishanshengtaifengjingqu"
+            },
+            {
+                "name": "创业大道",
+                "py": "chuangyedadao"
+            },
+            {
+                "name": "G309荣兰线",
+                "py": "g309ronglanxian"
+            },
+            {
+                "name": "桓台县",
+                "py": "huantaixian1"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan6"
+            },
+            {
+                "name": "湖田",
+                "py": "hutian"
+            },
+            {
+                "name": "莲池",
+                "py": "lianchi"
+            },
+            {
+                "name": "临淄区",
+                "py": "linziqu1"
+            },
+            {
+                "name": "南定",
+                "py": "nanding"
+            },
+            {
+                "name": "潘庄",
+                "py": "panzhuang"
+            },
+            {
+                "name": "人民公园",
+                "py": "renmingongyuan1"
+            },
+            {
+                "name": "人民西路",
+                "py": "renminxilu"
+            },
+            {
+                "name": "山东理工大学东校区",
+                "py": "shandongligongdaxuedongxiaoqu"
+            },
+            {
+                "name": "山铝",
+                "py": "shanlv"
+            },
+            {
+                "name": "湿地公园",
+                "py": "shidigongyuan"
+            },
+            {
+                "name": "实验中学",
+                "py": "shiyanzhongxue"
+            },
+            {
+                "name": "四宝山街道",
+                "py": "sibaoshanjiedao"
+            },
+            {
+                "name": "天乙花苑",
+                "py": "tianyihuayuan"
+            },
+            {
+                "name": "王舍",
+                "py": "wangshe"
+            },
+            {
+                "name": "万象汇",
+                "py": "wanxianghui"
+            },
+            {
+                "name": "卫固",
+                "py": "weigu"
+            },
+            {
+                "name": "玉黛湖",
+                "py": "yudaihu"
+            },
+            {
+                "name": "张店区",
+                "py": "zhangdianqu1"
+            },
+            {
+                "name": "周村区",
+                "py": "zhoucunqu1"
+            },
+            {
+                "name": "淄博北站",
+                "py": "zibobeizhan"
+            },
+            {
+                "name": "淄博市十一中",
+                "py": "ziboshishiyizhong"
+            },
+            {
+                "name": "淄川区",
+                "py": "zichuanqu1"
+            }
+        ]
+    },
+    {
+        "name": "桓台县",
+        "py": "huantaixian",
+        "list": [
+            {
+                "name": "高青县",
+                "py": "gaoqingxian1"
+            },
+            {
+                "name": "桓台县",
+                "py": "huantaixian1"
+            },
+            {
+                "name": "临淄区",
+                "py": "linziqu1"
+            },
+            {
+                "name": "天乙花苑",
+                "py": "tianyihuayuan"
+            },
+            {
+                "name": "卫固",
+                "py": "weigu"
+            },
+            {
+                "name": "张店区",
+                "py": "zhangdianqu1"
+            },
+            {
+                "name": "周村区",
+                "py": "zhoucunqu1"
+            },
+            {
+                "name": "淄博北站",
+                "py": "zibobeizhan"
+            }
+        ]
+    },
+    {
+        "name": "沂源县",
+        "py": "yiyuanxian",
+        "list": [
+            {
+                "name": "博山区",
+                "py": "boshanqu1"
+            },
+            {
+                "name": "沂源县",
+                "py": "yiyuanxian1"
+            },
+            {
+                "name": "淄川区",
+                "py": "zichuanqu1"
+            }
+        ]
+    },
+    {
+        "name": "淄川区",
+        "py": "zichuanqu",
+        "list": [
+            {
+                "name": "博山区",
+                "py": "boshanqu1"
+            },
+            {
+                "name": "临淄区",
+                "py": "linziqu1"
+            },
+            {
+                "name": "南定",
+                "py": "nanding"
+            },
+            {
+                "name": "山铝",
+                "py": "shanlv"
+            },
+            {
+                "name": "湿地公园",
+                "py": "shidigongyuan"
+            },
+            {
+                "name": "沂源县",
+                "py": "yiyuanxian1"
+            },
+            {
+                "name": "张店区",
+                "py": "zhangdianqu1"
+            },
+            {
+                "name": "周村区",
+                "py": "zhoucunqu1"
+            },
+            {
+                "name": "淄川区",
+                "py": "zichuanqu1"
+            }
+        ]
+    },
+    {
+        "name": "经开区",
+        "py": "jingkaiqu5",
+        "list": [
+            {
+                "name": "人民西路",
+                "py": "renminxilu"
+            },
+            {
+                "name": "湿地公园",
+                "py": "shidigongyuan"
+            },
+            {
+                "name": "周村区",
+                "py": "zhoucunqu1"
+            }
+        ]
+    },
+    {
+        "name": "高新区",
+        "py": "gaoxinqu7",
+        "list": [
+            {
+                "name": "莲池",
+                "py": "lianchi"
+            },
+            {
+                "name": "潘庄",
+                "py": "panzhuang"
+            },
+            {
+                "name": "张店区",
+                "py": "zhangdianqu1"
+            },
+            {
+                "name": "淄博北站",
+                "py": "zibobeizhan"
+            },
+            {
+                "name": "淄博市十一中",
+                "py": "ziboshishiyizhong"
+            }
+        ]
+    },
+    {
+        "name": "高青县",
+        "py": "gaoqingxian",
+        "list": [
+            {
+                "name": "高青县",
+                "py": "gaoqingxian1"
+            },
+            {
+                "name": "桓台县",
+                "py": "huantaixian1"
+            }
+        ]
+    }
+]
