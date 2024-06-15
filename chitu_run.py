@@ -1,5 +1,9 @@
+# nohup python3 chitu_run.py > log/chitu_run.log 2>&1 &
+# tail -500f log/chitu_run.log
+# wc -l out/chitu_out.csv
+# tar -czvf config.tar.gz config
+
 import util
-import csv
 import xiaoqu_run
 from bs4 import BeautifulSoup
 
