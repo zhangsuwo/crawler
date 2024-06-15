@@ -62,3 +62,5 @@ def write_csv(path, mode, data):
     with open(path, mode, newline="", encoding="utf-8-sig") as file:
         writer = csv.writer(file)
         writer.writerows(data)
+
+
