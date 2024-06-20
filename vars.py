@@ -1,6 +1,6 @@
 CITY = "sh"
 TYPE = "xiaoqu"
-DELAY_CONF = {"min": 8, "max": 20}
+DELAY_CONF = {"min": 6, "max": 16}
 CITY_URL = "https://www.lianjia.com/city/"
 URL_TEMPLATE1 = "https://{0}.lianjia.com/{1}"
 URL_TEMPLATE2 = "https://{0}.lianjia.com/{1}/{2}"

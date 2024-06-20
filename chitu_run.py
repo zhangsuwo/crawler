@@ -8,7 +8,7 @@ import xiaoqu_run
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["SQ00137700"]
+CUR_OFFSET = ["SQ00131620"]
 
 
 def search_xiaoqu_info(url):
@@ -53,7 +53,7 @@ if __name__ == "__main__":
         if len(row) > 15:
             href = row[15]
             name = row[16]
-            if len(href) > 0:
+            if len(href) > 0 and len(name) > 0:
                 url = "{0}/xiaoqu/rs{1}".format(href, name)
                 info = search_xiaoqu_info(url)
                 if len(info) > 0:
