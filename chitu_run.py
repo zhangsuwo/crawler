@@ -8,16 +8,19 @@ import xiaoqu_run
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["SQ00131182"]
+CUR_OFFSET = ["SQ00134544"]
 
 def search_xiaoqu_info(url):
     row = []
     util.logging.info("开始查询小区信息：{0}".format(url))
     response = util.http_get(url)
+    if response == None:
+        util.logging.info("查询地址：{0}，查询结果为NULL".format(url))
+        return row
     soup = BeautifulSoup(response.text, "html.parser")
     ul = soup.find("ul", class_="listContent")
     if ul == None:
-        return ""
+        return row
     list = ul.find_all("li", class_="clear xiaoquListItem")
     # 默认取结果列表的第一个
     if list == None or len(list) <= 0:
@@ -48,9 +51,9 @@ if __name__ == "__main__":
 
     for row in rows[row_pos:]:
         id = row[0]
-        if len(row) > 15:
-            href = row[15]
-            name = row[16]
+        href = row[15]
+        name = row[16]
+        if len(href) > 0:
             url = "{0}/xiaoqu/rs{1}".format(href,name)
             info = search_xiaoqu_info(url)
             if len(info) > 0:
@@ -62,8 +65,3 @@ if __name__ == "__main__":
                 row.append(info[17])
         util.write_csv("out/chitu_out.csv",mode="a",data=[row])
         util.logging.info("写入{0}数据成功".format(id))
-
-            
-            
-                
-                
