@@ -57,4 +57,4 @@ def format_data(path, out_path):
 
 
 if __name__ == "__main__":
-    format_data("out\sh_2.csv", "out\sh_out_2.csv")
+    format_data("out\sh.csv", "out\sh_out.csv")
