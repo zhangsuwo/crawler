@@ -11,7 +11,7 @@ import json
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["zhiwuyuan"]
+CUR_OFFSET = ["andingmen"]
 
 
 # 初始化城市下的数据
@@ -19,9 +19,9 @@ def init_city_data(city):
     data = util.read_json("config/{0}.json".format(city), mode="r")
     list = []
     for area in data:
-        for town in area["l"]:
-            if town["e"] not in list:
-                list.append(town["e"])
+        for town in area["list"]:
+            if town["py"] not in list:
+                list.append(town["py"])
     return list
 
 

@@ -8,7 +8,7 @@ import xiaoqu_run
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["SQ00131620"]
+CUR_OFFSET = ["SQ00135833"]
 
 
 def search_xiaoqu_info(url):
@@ -70,8 +70,3 @@ if __name__ == "__main__":
                     row.append(info[21])
         util.write_csv("out/chitu_out.csv", mode="a", data=[row])
         util.logging.info("写入{0}数据成功".format(id))
-
-            
-            
-                
-                

@@ -1,4 +1,4 @@
-CITY = "sh"
+CITY = "bj"
 TYPE = "xiaoqu"
 DELAY_CONF = {"min": 6, "max": 16}
 CITY_URL = "https://www.lianjia.com/city/"
