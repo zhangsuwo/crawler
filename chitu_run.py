@@ -8,7 +8,7 @@ import xiaoqu_run
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["SQ00135833"]
+CUR_OFFSET = ["SQ00131665"]
 
 
 def search_xiaoqu_info(url):

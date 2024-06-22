@@ -1,9 +1,9 @@
 # pip3 install lxml -i https://pypi.tuna.tsinghua.edu.cn/simple/
 # pip3 install beautifulsoup4 -i https://pypi.tuna.tsinghua.edu.cn/simple/
 # pip3 install requests -i https://pypi.tuna.tsinghua.edu.cn/simple/
-# nohup python3 runner.py > shanghai.log 2>&1 &
-# tail -500f shanghai.log
-# wc -l sh.csv
+# nohup python3 xiaoqu_run.py > log/xiaoqu_run.log 2>&1 &
+# tail -500f log/xiaoqu_run.log
+# wc -l out/bj.csv
 
 import vars
 import util
