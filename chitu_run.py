@@ -70,8 +70,3 @@ if __name__ == "__main__":
                     row.append(info[21])
         util.write_csv("out/chitu_out.csv", mode="a", data=[row])
         util.logging.info("写入{0}数据成功".format(id))
-
-            
-            
-                
-                
