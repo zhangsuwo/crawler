@@ -11,7 +11,7 @@ import json
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["jinbaojie"]
+CUR_OFFSET = ["andingmen"]
 
 
 # 初始化城市下的数据
@@ -25,8 +25,8 @@ def init_city_data(city):
     return list
 
 
-# 开始执行
-def start(url, town):
+# 解析一个镇
+def parse_town(url, town):
     util.logging.info("开始执行{0}-------------".format(town))
     text = parse_xiaoqu_list(url, town)
     page = parse_xiaoqu_page(text)
@@ -34,7 +34,7 @@ def start(url, town):
         return
     for i in range(page[0], page[1], 1):
         url = vars.URL_TEMPLATE3.format(vars.CITY, vars.TYPE, town, i)
-        util.logging.info("解析第{0}页**************".format(i))
+        util.logging.info("解析第{0}页，{1}".format(i, url))
         parse_xiaoqu_list(url, town)
     util.logging.info("执行{0}结束-------------".format(town))
 
@@ -52,7 +52,7 @@ def parse_xiaoqu_list(url, town):
 
     list = ul.find_all("li", class_="clear xiaoquListItem")
     length = len(list)
-    util.logging.info("当前页共{0}个小区".format(length))
+    util.logging.info("当前页{0},共{1}个小区".format(url, length))
     # 按页读取并写入csv
     data = []
     for li in list:
@@ -154,7 +154,7 @@ def parse_xiaoqu_page(text):
         util.logging.info("共{0}页，当前第{1}页".format(total, cur))
         data.append(cur)
         data.append(total)
-    return []
+    return data
 
 
 if __name__ == "__main__":
@@ -166,4 +166,4 @@ if __name__ == "__main__":
 
     for town in data[town_pos:]:
         url = vars.URL_TEMPLATE2.format(vars.CITY, vars.TYPE, town)
-        start(url, town)
+        parse_town(url, town)

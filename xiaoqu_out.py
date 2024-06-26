@@ -1,5 +1,6 @@
 import csv
 import util
+import vars
 
 HEADER = [
     "名称",
@@ -57,4 +58,6 @@ def format_data(path, out_path):
 
 
 if __name__ == "__main__":
-    format_data("out\sh.csv", "out\sh_out.csv")
+    src = "out\{0}.csv".format(vars.CITY)
+    target = "out\{0}_out.csv".format(vars.CITY)
+    format_data(src, target)
