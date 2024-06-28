@@ -1,0 +1,3308 @@
+﻿[
+    {
+        "c": "A",
+        "prov": "安徽",
+        "list": [
+            {
+                "href": "https://hf.fang.com/",
+                "name": "合肥",
+                "py": "hf"
+            },
+            {
+                "href": "https://wuhu.fang.com/",
+                "name": "芜湖",
+                "py": "wuhu"
+            },
+            {
+                "href": "https://huainan.fang.com/",
+                "name": "淮南",
+                "py": "huainan"
+            },
+            {
+                "href": "https://bengbu.fang.com/",
+                "name": "蚌埠",
+                "py": "bengbu"
+            },
+            {
+                "href": "https://fuyang.fang.com/",
+                "name": "阜阳",
+                "py": "fuyang"
+            },
+            {
+                "href": "https://anqing.fang.com/",
+                "name": "安庆",
+                "py": "anqing"
+            },
+            {
+                "href": "https://chaohu.fang.com/",
+                "name": "巢湖",
+                "py": "chaohu"
+            },
+            {
+                "href": "https://chuzhou.fang.com/",
+                "name": "滁州",
+                "py": "chuzhou"
+            },
+            {
+                "href": "https://luan.fang.com/",
+                "name": "六安",
+                "py": "luan"
+            },
+            {
+                "href": "https://tongling.fang.com/",
+                "name": "铜陵",
+                "py": "tongling"
+            },
+            {
+                "href": "https://huaibei.fang.com/",
+                "name": "淮北",
+                "py": "huaibei"
+            },
+            {
+                "href": "https://xuancheng.fang.com/",
+                "name": "宣城",
+                "py": "xuancheng"
+            },
+            {
+                "href": "https://huangshan.fang.com/",
+                "name": "黄山",
+                "py": "huangshan"
+            },
+            {
+                "href": "https://ahsuzhou.fang.com/",
+                "name": "宿州",
+                "py": "ahsuzhou"
+            },
+            {
+                "href": "https://bozhou.fang.com/",
+                "name": "亳州",
+                "py": "bozhou"
+            },
+            {
+                "href": "https://mas.fang.com/",
+                "name": "马鞍山",
+                "py": "mas"
+            },
+            {
+                "href": "https://chizhou.fang.com/",
+                "name": "池州",
+                "py": "chizhou"
+            },
+            {
+                "href": "https://guangde.fang.com/",
+                "name": "广德",
+                "py": "guangde"
+            },
+            {
+                "href": "https://tongcheng.fang.com/",
+                "name": "桐城",
+                "py": "tongcheng"
+            },
+            {
+                "href": "https://huoqiu.fang.com/",
+                "name": "霍邱",
+                "py": "huoqiu"
+            },
+            {
+                "href": "https://dangtu.fang.com/",
+                "name": "当涂",
+                "py": "dangtu"
+            },
+            {
+                "href": "https://ahcf.fang.com/",
+                "name": "长丰",
+                "py": "ahcf"
+            },
+            {
+                "href": "https://huaiyuan.fang.com/",
+                "name": "怀远",
+                "py": "huaiyuan"
+            },
+            {
+                "href": "https://wuhe.fang.com/",
+                "name": "五河",
+                "py": "wuhe"
+            },
+            {
+                "href": "https://guzhen.fang.com/",
+                "name": "固镇",
+                "py": "guzhen"
+            },
+            {
+                "href": "https://fanchang.fang.com/",
+                "name": "繁昌",
+                "py": "fanchang"
+            },
+            {
+                "href": "https://quanjiao.fang.com/",
+                "name": "全椒",
+                "py": "quanjiao"
+            },
+            {
+                "href": "https://mengcheng.fang.com/",
+                "name": "蒙城",
+                "py": "mengcheng"
+            }
+        ]
+    },
+    {
+        "c": "A",
+        "prov": "澳门",
+        "list": [
+            {
+                "href": "https://macau.fang.com/",
+                "name": "澳门",
+                "py": "macau"
+            }
+        ]
+    },
+    {
+        "c": "C",
+        "prov": "重庆",
+        "list": [
+            {
+                "href": "https://cq.fang.com/",
+                "name": "重庆",
+                "py": "cq"
+            },
+            {
+                "href": " https://wanzhou.fang.com",
+                "name": "万州",
+                "py": "wanzhou"
+            },
+            {
+                "href": "https://fuling.fang.com/",
+                "name": "涪陵",
+                "py": "fuling"
+            },
+            {
+                "href": " https://qijiang.fang.com",
+                "name": "綦江",
+                "py": "qijiang"
+            },
+            {
+                "href": " https://qianjiang.fang.com",
+                "name": "黔江",
+                "py": "qianjiang"
+            },
+            {
+                "href": "https://hechuan.fang.com",
+                "name": "合川",
+                "py": "hechuan"
+            },
+            {
+                "href": "https://fengdu.fang.com/",
+                "name": "丰都",
+                "py": "fengdu"
+            },
+            {
+                "href": "https://cqjiangjin.fang.com/",
+                "name": "江津",
+                "py": "cqjiangjin"
+            },
+            {
+                "href": "https://cqtongliang.fang.com/",
+                "name": "铜梁",
+                "py": "cqtongliang"
+            },
+            {
+                "href": "https://cqchangshou.fang.com/",
+                "name": "长寿",
+                "py": "cqchangshou"
+            },
+            {
+                "href": "https://cqnanchuan.fang.com/",
+                "name": "南川",
+                "py": "cqnanchuan"
+            },
+            {
+                "href": "https://yongchuan.fang.com",
+                "name": "永川",
+                "py": "yongchuan"
+            },
+            {
+                "href": "https://cqdazu.fang.com",
+                "name": "大足",
+                "py": "cqdazu"
+            },
+            {
+                "href": "https://cqbishan.fang.com",
+                "name": "璧山",
+                "py": "cqbishan"
+            },
+            {
+                "href": "https://cqtongnan.fang.com",
+                "name": "潼南",
+                "py": "cqtongnan"
+            }
+        ]
+    },
+    {
+        "c": "F",
+        "prov": "福建",
+        "list": [
+            {
+                "href": "https://fz.fang.com/",
+                "name": "福州",
+                "py": "fz"
+            },
+            {
+                "href": "https://xm.fang.com/",
+                "name": "厦门",
+                "py": "xm"
+            },
+            {
+                "href": "https://qz.fang.com/",
+                "name": "泉州",
+                "py": "qz"
+            },
+            {
+                "href": "https://putian.fang.com/",
+                "name": "莆田",
+                "py": "putian"
+            },
+            {
+                "href": "https://zhangzhou.fang.com/",
+                "name": "漳州",
+                "py": "zhangzhou"
+            },
+            {
+                "href": "https://longyan.fang.com/",
+                "name": "龙岩",
+                "py": "longyan"
+            },
+            {
+                "href": "https://sanming.fang.com/",
+                "name": "三明",
+                "py": "sanming"
+            },
+            {
+                "href": "https://nanping.fang.com/",
+                "name": "南平",
+                "py": "nanping"
+            },
+            {
+                "href": "https://ningde.fang.com/",
+                "name": "宁德",
+                "py": "ningde"
+            },
+            {
+                "href": "https://pingtan.fang.com/",
+                "name": "平潭",
+                "py": "pingtan"
+            },
+            {
+                "href": "https://fq.fang.com/",
+                "name": "福清",
+                "py": "fq"
+            },
+            {
+                "href": "https://nanan.fang.com/",
+                "name": "南安",
+                "py": "nanan"
+            },
+            {
+                "href": "https://huian.fang.com/",
+                "name": "惠安",
+                "py": "huian"
+            },
+            {
+                "href": "https://changle.fang.com/",
+                "name": "长乐",
+                "py": "changle"
+            },
+            {
+                "href": "https://shishi.fang.com/",
+                "name": "石狮",
+                "py": "shishi"
+            },
+            {
+                "href": "https://fjax.fang.com/",
+                "name": "安溪",
+                "py": "fjax"
+            },
+            {
+                "href": "https://lianjiang.fang.com/",
+                "name": "连江",
+                "py": "lianjiang"
+            },
+            {
+                "href": "https://yongchun.fang.com/",
+                "name": "永春",
+                "py": "yongchun"
+            },
+            {
+                "href": "https://luoyuan.fang.com/",
+                "name": "罗源",
+                "py": "luoyuan"
+            },
+            {
+                "href": "https://minqing.fang.com/",
+                "name": "闽清",
+                "py": "minqing"
+            },
+            {
+                "href": "https://yongtai.fang.com/",
+                "name": "永泰",
+                "py": "yongtai"
+            },
+            {
+                "href": "https://quangang.fang.com/",
+                "name": "泉港",
+                "py": "quangang"
+            },
+            {
+                "href": "https://fuan.fang.com/",
+                "name": "福安",
+                "py": "fuan"
+            },
+            {
+                "href": "https://ya.fang.com/",
+                "name": "永安",
+                "py": "ya"
+            },
+            {
+                "href": "https://dh.fang.com/",
+                "name": "德化",
+                "py": "dh"
+            },
+            {
+                "href": "https://jinjiang.fang.com/",
+                "name": "晋江",
+                "py": "jinjiang"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "广东",
+        "list": [
+            {
+                "href": "https://gz.fang.com/",
+                "name": "广州",
+                "py": "gz"
+            },
+            {
+                "href": "https://sz.fang.com/",
+                "name": "深圳",
+                "py": "sz"
+            },
+            {
+                "href": "https://dg.fang.com/",
+                "name": "东莞",
+                "py": "dg"
+            },
+            {
+                "href": "https://zh.fang.com/",
+                "name": "珠海",
+                "py": "zh"
+            },
+            {
+                "href": "https://zs.fang.com/",
+                "name": "中山",
+                "py": "zs"
+            },
+            {
+                "href": "https://fs.fang.com/",
+                "name": "佛山",
+                "py": "fs"
+            },
+            {
+                "href": "https://huizhou.fang.com/",
+                "name": "惠州",
+                "py": "huizhou"
+            },
+            {
+                "href": "https://jm.fang.com/",
+                "name": "江门",
+                "py": "jm"
+            },
+            {
+                "href": "https://st.fang.com/",
+                "name": "汕头",
+                "py": "st"
+            },
+            {
+                "href": "https://qingyuan.fang.com/",
+                "name": "清远",
+                "py": "qingyuan"
+            },
+            {
+                "href": "https://zhaoqing.fang.com/",
+                "name": "肇庆",
+                "py": "zhaoqing"
+            },
+            {
+                "href": "https://yangjiang.fang.com/",
+                "name": "阳江",
+                "py": "yangjiang"
+            },
+            {
+                "href": "https://maoming.fang.com/",
+                "name": "茂名",
+                "py": "maoming"
+            },
+            {
+                "href": "https://zj.fang.com/",
+                "name": "湛江",
+                "py": "zj"
+            },
+            {
+                "href": "https://meizhou.fang.com/",
+                "name": "梅州",
+                "py": "meizhou"
+            },
+            {
+                "href": "https://jieyang.fang.com/",
+                "name": "揭阳",
+                "py": "jieyang"
+            },
+            {
+                "href": "https://heyuan.fang.com/",
+                "name": "河源",
+                "py": "heyuan"
+            },
+            {
+                "href": "https://shanwei.fang.com/",
+                "name": "汕尾",
+                "py": "shanwei"
+            },
+            {
+                "href": "https://yangchun.fang.com/",
+                "name": "阳春",
+                "py": "yangchun"
+            },
+            {
+                "href": "https://kaiping.fang.com/",
+                "name": "开平",
+                "py": "kaiping"
+            },
+            {
+                "href": "https://yunfu.fang.com/",
+                "name": "云浮",
+                "py": "yunfu"
+            },
+            {
+                "href": "https://chaozhou.fang.com/",
+                "name": "潮州",
+                "py": "chaozhou"
+            },
+            {
+                "href": "https://shaoguan.fang.com/",
+                "name": "韶关",
+                "py": "shaoguan"
+            },
+            {
+                "href": "https://shunde.fang.com/",
+                "name": "顺德",
+                "py": "shunde"
+            },
+            {
+                "href": "https://taishan.fang.com/",
+                "name": "台山",
+                "py": "taishan"
+            },
+            {
+                "href": "https://enping.fang.com/",
+                "name": "恩平",
+                "py": "enping"
+            },
+            {
+                "href": "https://huidong.fang.com/",
+                "name": "惠东",
+                "py": "huidong"
+            },
+            {
+                "href": "https://gdlm.fang.com/",
+                "name": "龙门",
+                "py": "gdlm"
+            },
+            {
+                "href": "https://boluo.fang.com/",
+                "name": "博罗",
+                "py": "boluo"
+            },
+            {
+                "href": "https://puning.fang.com/",
+                "name": "普宁",
+                "py": "puning"
+            },
+            {
+                "href": "https://xf.fang.com/",
+                "name": "新丰",
+                "py": "xf"
+            },
+            {
+                "href": "https://leizhou.fang.com/",
+                "name": "雷州",
+                "py": "leizhou"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "广西",
+        "list": [
+            {
+                "href": "https://nn.fang.com/",
+                "name": "南宁",
+                "py": "nn"
+            },
+            {
+                "href": "https://liuzhou.fang.com/",
+                "name": "柳州",
+                "py": "liuzhou"
+            },
+            {
+                "href": "https://guilin.fang.com/",
+                "name": "桂林",
+                "py": "guilin"
+            },
+            {
+                "href": "https://yl.fang.com/",
+                "name": "玉林",
+                "py": "yl"
+            },
+            {
+                "href": "https://guigang.fang.com/",
+                "name": "贵港",
+                "py": "guigang"
+            },
+            {
+                "href": "https://bh.fang.com/",
+                "name": "北海",
+                "py": "bh"
+            },
+            {
+                "href": "https://hechi.fang.com/",
+                "name": "河池",
+                "py": "hechi"
+            },
+            {
+                "href": "https://baise.fang.com/",
+                "name": "百色",
+                "py": "baise"
+            },
+            {
+                "href": "https://wuzhou.fang.com/",
+                "name": "梧州",
+                "py": "wuzhou"
+            },
+            {
+                "href": "https://hezhou.fang.com/",
+                "name": "贺州",
+                "py": "hezhou"
+            },
+            {
+                "href": "https://qinzhou.fang.com/",
+                "name": "钦州",
+                "py": "qinzhou"
+            },
+            {
+                "href": "https://fangchenggang.fang.com/",
+                "name": "防城港",
+                "py": "fangchenggang"
+            },
+            {
+                "href": "https://laibin.fang.com/",
+                "name": "来宾",
+                "py": "laibin"
+            },
+            {
+                "href": "https://chongzuo.fang.com/",
+                "name": "崇左",
+                "py": "chongzuo"
+            },
+            {
+                "href": "https://hengxian.fang.com/",
+                "name": "横县",
+                "py": "hengxian"
+            },
+            {
+                "href": "https://gxby.fang.com/",
+                "name": "宾阳",
+                "py": "gxby"
+            },
+            {
+                "href": "https://yongning.fang.com/",
+                "name": "邕宁",
+                "py": "yongning"
+            },
+            {
+                "href": "https://dongxing.fang.com/",
+                "name": "东兴",
+                "py": "dongxing"
+            },
+            {
+                "href": "https://zhongshan.fang.com/",
+                "name": "钟山",
+                "py": "zhongshan"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "贵州",
+        "list": [
+            {
+                "href": "https://gy.fang.com/",
+                "name": "贵阳",
+                "py": "gy"
+            },
+            {
+                "href": "https://zunyi.fang.com/",
+                "name": "遵义",
+                "py": "zunyi"
+            },
+            {
+                "href": "https://qiandongnan.fang.com/",
+                "name": "黔东南",
+                "py": "qiandongnan"
+            },
+            {
+                "href": "https://anshun.fang.com/",
+                "name": "安顺",
+                "py": "anshun"
+            },
+            {
+                "href": "https://qiannan.fang.com/",
+                "name": "黔南",
+                "py": "qiannan"
+            },
+            {
+                "href": "https://bijie.fang.com/",
+                "name": "毕节",
+                "py": "bijie"
+            },
+            {
+                "href": "https://tongren.fang.com/",
+                "name": "铜仁",
+                "py": "tongren"
+            },
+            {
+                "href": "https://liupanshui.fang.com/",
+                "name": "六盘水",
+                "py": "liupanshui"
+            },
+            {
+                "href": "https://qianxinan.fang.com/",
+                "name": "黔西南",
+                "py": "qianxinan"
+            },
+            {
+                "href": "https://kaiyang.fang.com/",
+                "name": "开阳",
+                "py": "kaiyang"
+            },
+            {
+                "href": "https://xiuwen.fang.com/",
+                "name": "修文",
+                "py": "xiuwen"
+            },
+            {
+                "href": "https://qingzhen.fang.com/",
+                "name": "清镇",
+                "py": "qingzhen"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "甘肃",
+        "list": [
+            {
+                "href": "https://lz.fang.com/",
+                "name": "兰州",
+                "py": "lz"
+            },
+            {
+                "href": "https://zhangye.fang.com/",
+                "name": "张掖",
+                "py": "zhangye"
+            },
+            {
+                "href": "https://tianshui.fang.com/",
+                "name": "天水",
+                "py": "tianshui"
+            },
+            {
+                "href": "https://qingyang.fang.com/",
+                "name": "庆阳",
+                "py": "qingyang"
+            },
+            {
+                "href": "https://pingliang.fang.com/",
+                "name": "平凉",
+                "py": "pingliang"
+            },
+            {
+                "href": "https://jiuquan.fang.com/",
+                "name": "酒泉",
+                "py": "jiuquan"
+            },
+            {
+                "href": "https://baiyin.fang.com/",
+                "name": "白银",
+                "py": "baiyin"
+            },
+            {
+                "href": "https://wuwei.fang.com/",
+                "name": "武威",
+                "py": "wuwei"
+            },
+            {
+                "href": "https://jinchang.fang.com/",
+                "name": "金昌",
+                "py": "jinchang"
+            },
+            {
+                "href": "https://longnan.fang.com/",
+                "name": "陇南",
+                "py": "longnan"
+            },
+            {
+                "href": "https://jiayuguan.fang.com/",
+                "name": "嘉峪关",
+                "py": "jiayuguan"
+            },
+            {
+                "href": "https://dingxi.fang.com/",
+                "name": "定西",
+                "py": "dingxi"
+            },
+            {
+                "href": "https://gannan.fang.com/",
+                "name": "甘南",
+                "py": "gannan"
+            },
+            {
+                "href": "https://linxia.fang.com/",
+                "name": "临夏",
+                "py": "linxia"
+            },
+            {
+                "href": "https://yongdeng.fang.com/",
+                "name": "永登",
+                "py": "yongdeng"
+            },
+            {
+                "href": "https://yuzhong.fang.com/",
+                "name": "榆中",
+                "py": "yuzhong"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "海南",
+        "list": [
+            {
+                "href": "https://hn.fang.com/",
+                "name": "海南",
+                "py": "hn"
+            },
+            {
+                "href": "https://sanya.fang.com/",
+                "name": "三亚",
+                "py": "sanya"
+            },
+            {
+                "href": "https://dongfang.fang.com/",
+                "name": "东方",
+                "py": "dongfang"
+            },
+            {
+                "href": "https://danzhou.fang.com/",
+                "name": "儋州",
+                "py": "danzhou"
+            },
+            {
+                "href": "https://wanning.fang.com/",
+                "name": "万宁",
+                "py": "wanning"
+            },
+            {
+                "href": "https://wenchang.fang.com/",
+                "name": "文昌",
+                "py": "wenchang"
+            },
+            {
+                "href": "https://qionghai.fang.com/",
+                "name": "琼海",
+                "py": "qionghai"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "河南",
+        "list": [
+            {
+                "href": "https://zz.fang.com/",
+                "name": "郑州",
+                "py": "zz"
+            },
+            {
+                "href": "https://ly.fang.com/",
+                "name": "洛阳",
+                "py": "ly"
+            },
+            {
+                "href": "https://jiaozuo.fang.com/",
+                "name": "焦作",
+                "py": "jiaozuo"
+            },
+            {
+                "href": "https://pingdingshan.fang.com/",
+                "name": "平顶山",
+                "py": "pingdingshan"
+            },
+            {
+                "href": "https://zhumadian.fang.com/",
+                "name": "驻马店",
+                "py": "zhumadian"
+            },
+            {
+                "href": "https://xx.fang.com/",
+                "name": "新乡",
+                "py": "xx"
+            },
+            {
+                "href": "https://nanyang.fang.com/",
+                "name": "南阳",
+                "py": "nanyang"
+            },
+            {
+                "href": "https://xinyang.fang.com/",
+                "name": "信阳",
+                "py": "xinyang"
+            },
+            {
+                "href": "https://kaifeng.fang.com/",
+                "name": "开封",
+                "py": "kaifeng"
+            },
+            {
+                "href": "https://luohe.fang.com/",
+                "name": "漯河",
+                "py": "luohe"
+            },
+            {
+                "href": "https://anyang.fang.com/",
+                "name": "安阳",
+                "py": "anyang"
+            },
+            {
+                "href": "https://shangqiu.fang.com/",
+                "name": "商丘",
+                "py": "shangqiu"
+            },
+            {
+                "href": "https://zhoukou.fang.com/",
+                "name": "周口",
+                "py": "zhoukou"
+            },
+            {
+                "href": "https://xuchang.fang.com/",
+                "name": "许昌",
+                "py": "xuchang"
+            },
+            {
+                "href": "https://puyang.fang.com/",
+                "name": "濮阳",
+                "py": "puyang"
+            },
+            {
+                "href": "https://sanmenxia.fang.com/",
+                "name": "三门峡",
+                "py": "sanmenxia"
+            },
+            {
+                "href": "https://hebi.fang.com/",
+                "name": "鹤壁",
+                "py": "hebi"
+            },
+            {
+                "href": "https://ruzhou.fang.com/",
+                "name": "汝州",
+                "py": "ruzhou"
+            },
+            {
+                "href": "https://jiyuan.fang.com/",
+                "name": "济源",
+                "py": "jiyuan"
+            },
+            {
+                "href": "https://yanling.fang.com/",
+                "name": "鄢陵",
+                "py": "yanling"
+            },
+            {
+                "href": "https://hnyz.fang.com/",
+                "name": "禹州",
+                "py": "hnyz"
+            },
+            {
+                "href": "https://changge.fang.com/",
+                "name": "长葛",
+                "py": "changge"
+            },
+            {
+                "href": "https://gongyi.fang.com/",
+                "name": "巩义",
+                "py": "gongyi"
+            },
+            {
+                "href": "https://xinzheng.fang.com/",
+                "name": "新郑",
+                "py": "xinzheng"
+            },
+            {
+                "href": "https://xingyang.fang.com/",
+                "name": "荥阳",
+                "py": "xingyang"
+            },
+            {
+                "href": "https://yichuan.fang.com/",
+                "name": "伊川",
+                "py": "yichuan"
+            },
+            {
+                "href": "https://yanshi.fang.com/",
+                "name": "偃师",
+                "py": "yanshi"
+            },
+            {
+                "href": "https://zhongmou.fang.com/",
+                "name": "中牟",
+                "py": "zhongmou"
+            },
+            {
+                "href": "https://dengfeng.fang.com/",
+                "name": "登封",
+                "py": "dengfeng"
+            },
+            {
+                "href": "https://hnxa.fang.com/",
+                "name": "新安",
+                "py": "hnxa"
+            },
+            {
+                "href": "https://hnyy.fang.com/",
+                "name": "宜阳",
+                "py": "hnyy"
+            },
+            {
+                "href": "https://xinmi.fang.com/",
+                "name": "新密",
+                "py": "xinmi"
+            },
+            {
+                "href": "https://songxian.fang.com/",
+                "name": "嵩县",
+                "py": "songxian"
+            },
+            {
+                "href": "https://luoning.fang.com/",
+                "name": "洛宁",
+                "py": "luoning"
+            },
+            {
+                "href": "https://mengjin.fang.com/",
+                "name": "孟津",
+                "py": "mengjin"
+            },
+            {
+                "href": "https://ruyang.fang.com/",
+                "name": "汝阳",
+                "py": "ruyang"
+            },
+            {
+                "href": "https://dengzhou.fang.com/",
+                "name": "邓州",
+                "py": "dengzhou"
+            },
+            {
+                "href": "https://lankao.fang.com/",
+                "name": "兰考",
+                "py": "lankao"
+            },
+            {
+                "href": "https://luanchuan.fang.com/",
+                "name": "栾川",
+                "py": "luanchuan"
+            },
+            {
+                "href": "https://yongcheng.fang.com/",
+                "name": "永城",
+                "py": "yongcheng"
+            },
+            {
+                "href": "https://wg.fang.com/",
+                "name": "舞钢",
+                "py": "wg"
+            },
+            {
+                "href": "https://xiayi.fang.com/",
+                "name": "夏邑",
+                "py": "xiayi"
+            },
+            {
+                "href": "https://linying.fang.com/",
+                "name": "临颍",
+                "py": "linying"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "黑龙江",
+        "list": [
+            {
+                "href": "https://hrb.fang.com/",
+                "name": "哈尔滨",
+                "py": "hrb"
+            },
+            {
+                "href": "https://daqing.fang.com/",
+                "name": "大庆",
+                "py": "daqing"
+            },
+            {
+                "href": "https://qiqihaer.fang.com/",
+                "name": "齐齐哈尔",
+                "py": "qiqihaer"
+            },
+            {
+                "href": "https://jiamusi.fang.com/",
+                "name": "佳木斯",
+                "py": "jiamusi"
+            },
+            {
+                "href": "https://jixi.fang.com/",
+                "name": "鸡西",
+                "py": "jixi"
+            },
+            {
+                "href": "https://shuangyashan.fang.com/",
+                "name": "双鸭山",
+                "py": "shuangyashan"
+            },
+            {
+                "href": "https://hegang.fang.com/",
+                "name": "鹤岗",
+                "py": "hegang"
+            },
+            {
+                "href": "https://mudanjiang.fang.com/",
+                "name": "牡丹江",
+                "py": "mudanjiang"
+            },
+            {
+                "href": "https://suihua.fang.com/",
+                "name": "绥化",
+                "py": "suihua"
+            },
+            {
+                "href": "https://qitaihe.fang.com/",
+                "name": "七台河",
+                "py": "qitaihe"
+            },
+            {
+                "href": "https://hljyichun.fang.com/",
+                "name": "伊春",
+                "py": "hljyichun"
+            },
+            {
+                "href": "https://heihe.fang.com/",
+                "name": "黑河",
+                "py": "heihe"
+            },
+            {
+                "href": "https://dxal.fang.com/",
+                "name": "大兴安岭",
+                "py": "dxal"
+            },
+            {
+                "href": "https://zhaodong.fang.com/",
+                "name": "肇东",
+                "py": "zhaodong"
+            },
+            {
+                "href": "https://binxian.fang.com/",
+                "name": "宾县",
+                "py": "binxian"
+            },
+            {
+                "href": "https://anda.fang.com/",
+                "name": "安达",
+                "py": "anda"
+            },
+            {
+                "href": "https://wuchang.fang.com/",
+                "name": "五常",
+                "py": "wuchang"
+            },
+            {
+                "href": "https://shangzhi.fang.com/",
+                "name": "尚志",
+                "py": "shangzhi"
+            },
+            {
+                "href": "https://bayan.fang.com/",
+                "name": "巴彦",
+                "py": "bayan"
+            },
+            {
+                "href": "https://yilan.fang.com/",
+                "name": "依兰",
+                "py": "yilan"
+            },
+            {
+                "href": "https://zhaozhou.fang.com/",
+                "name": "肇州",
+                "py": "zhaozhou"
+            },
+            {
+                "href": "https://zhaoyuan.fang.com/",
+                "name": "肇源",
+                "py": "zhaoyuan"
+            },
+            {
+                "href": "https://hailin.fang.com/",
+                "name": "海林",
+                "py": "hailin"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "湖北",
+        "list": [
+            {
+                "href": "https://wuhan.fang.com/",
+                "name": "武汉",
+                "py": "wuhan"
+            },
+            {
+                "href": "https://yc.fang.com/",
+                "name": "宜昌",
+                "py": "yc"
+            },
+            {
+                "href": "https://xiangyang.fang.com/",
+                "name": "襄阳",
+                "py": "xiangyang"
+            },
+            {
+                "href": "https://jingzhou.fang.com/",
+                "name": "荆州",
+                "py": "jingzhou"
+            },
+            {
+                "href": "https://shiyan.fang.com/",
+                "name": "十堰",
+                "py": "shiyan"
+            },
+            {
+                "href": "https://huanggang.fang.com/",
+                "name": "黄冈",
+                "py": "huanggang"
+            },
+            {
+                "href": "https://jingmen.fang.com/",
+                "name": "荆门",
+                "py": "jingmen"
+            },
+            {
+                "href": "https://suizhou.fang.com/",
+                "name": "随州",
+                "py": "suizhou"
+            },
+            {
+                "href": "https://enshi.fang.com/",
+                "name": "恩施",
+                "py": "enshi"
+            },
+            {
+                "href": "https://xiaogan.fang.com/",
+                "name": "孝感",
+                "py": "xiaogan"
+            },
+            {
+                "href": "https://huangshi.fang.com/",
+                "name": "黄石",
+                "py": "huangshi"
+            },
+            {
+                "href": "https://ezhou.fang.com/",
+                "name": "鄂州",
+                "py": "ezhou"
+            },
+            {
+                "href": "https://xianning.fang.com/",
+                "name": "咸宁",
+                "py": "xianning"
+            },
+            {
+                "href": "https://xiantao.fang.com/",
+                "name": "仙桃",
+                "py": "xiantao"
+            },
+            {
+                "href": "https://shennongjia.fang.com/",
+                "name": "神农架",
+                "py": "shennongjia"
+            },
+            {
+                "href": "https://tianmen.fang.com/",
+                "name": "天门",
+                "py": "tianmen"
+            },
+            {
+                "href": "https://qj.fang.com/",
+                "name": "潜江",
+                "py": "qj"
+            },
+            {
+                "href": "https://dangyang.fang.com/",
+                "name": "当阳",
+                "py": "dangyang"
+            },
+            {
+                "href": "https://yidu.fang.com/",
+                "name": "宜都",
+                "py": "yidu"
+            },
+            {
+                "href": "https://zhijiang.fang.com/",
+                "name": "枝江",
+                "py": "zhijiang"
+            },
+            {
+                "href": "https://whhn.fang.com/",
+                "name": "汉南",
+                "py": "whhn"
+            },
+            {
+                "href": "https://hbjs.fang.com/",
+                "name": "京山",
+                "py": "hbjs"
+            },
+            {
+                "href": "https://zhongxiang.fang.com/",
+                "name": "钟祥",
+                "py": "zhongxiang"
+            },
+            {
+                "href": "https://lhk.fang.com/",
+                "name": "老河口",
+                "py": "lhk"
+            },
+            {
+                "href": "https://hbzy.fang.com/",
+                "name": "枣阳",
+                "py": "hbzy"
+            },
+            {
+                "href": "https://hbyc.fang.com/",
+                "name": "宜城",
+                "py": "hbyc"
+            },
+            {
+                "href": "https://daye.fang.com/",
+                "name": "大冶",
+                "py": "daye"
+            },
+            {
+                "href": "https://anlu.fang.com/",
+                "name": "安陆",
+                "py": "anlu"
+            },
+            {
+                "href": "https://honghu.fang.com/",
+                "name": "洪湖",
+                "py": "honghu"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "湖南",
+        "list": [
+            {
+                "href": "https://cs.fang.com/",
+                "name": "长沙",
+                "py": "cs"
+            },
+            {
+                "href": "https://zhuzhou.fang.com/",
+                "name": "株洲",
+                "py": "zhuzhou"
+            },
+            {
+                "href": "https://hengyang.fang.com/",
+                "name": "衡阳",
+                "py": "hengyang"
+            },
+            {
+                "href": "https://yueyang.fang.com/",
+                "name": "岳阳",
+                "py": "yueyang"
+            },
+            {
+                "href": "https://xt.fang.com/",
+                "name": "湘潭",
+                "py": "xt"
+            },
+            {
+                "href": "https://changde.fang.com/",
+                "name": "常德",
+                "py": "changde"
+            },
+            {
+                "href": "https://yiyang.fang.com/",
+                "name": "益阳",
+                "py": "yiyang"
+            },
+            {
+                "href": "https://yongzhou.fang.com/",
+                "name": "永州",
+                "py": "yongzhou"
+            },
+            {
+                "href": "https://loudi.fang.com/",
+                "name": "娄底",
+                "py": "loudi"
+            },
+            {
+                "href": "https://shaoyang.fang.com/",
+                "name": "邵阳",
+                "py": "shaoyang"
+            },
+            {
+                "href": "https://huaihua.fang.com/",
+                "name": "怀化",
+                "py": "huaihua"
+            },
+            {
+                "href": "https://chenzhou.fang.com/",
+                "name": "郴州",
+                "py": "chenzhou"
+            },
+            {
+                "href": "https://xiangxi.fang.com/",
+                "name": "湘西",
+                "py": "xiangxi"
+            },
+            {
+                "href": "https://zhangjiajie.fang.com/",
+                "name": "张家界",
+                "py": "zhangjiajie"
+            },
+            {
+                "href": "https://liuyang.fang.com/",
+                "name": "浏阳",
+                "py": "liuyang"
+            },
+            {
+                "href": "https://ningxiang.fang.com/",
+                "name": "宁乡",
+                "py": "ningxiang"
+            },
+            {
+                "href": "https://liling.fang.com/",
+                "name": "醴陵",
+                "py": "liling"
+            },
+            {
+                "href": "https://youxian.fang.com",
+                "name": "攸县",
+                "py": "youxian"
+            },
+            {
+                "href": "https://xiangxiang.fang.com",
+                "name": "湘乡",
+                "py": "xiangxiang"
+            },
+            {
+                "href": "https://cswc.fang.com/",
+                "name": "望城",
+                "py": "cswc"
+            },
+            {
+                "href": "https://leiyang.fang.com/",
+                "name": "耒阳",
+                "py": "leiyang"
+            },
+            {
+                "href": "https://cn.fang.com/",
+                "name": "常宁",
+                "py": "cn"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "河北",
+        "list": [
+            {
+                "href": "https://sjz.fang.com/",
+                "name": "石家庄",
+                "py": "sjz"
+            },
+            {
+                "href": "https://ts.fang.com/",
+                "name": "唐山",
+                "py": "ts"
+            },
+            {
+                "href": "https://bd.fang.com/",
+                "name": "保定",
+                "py": "bd"
+            },
+            {
+                "href": "https://cangzhou.fang.com/",
+                "name": "沧州",
+                "py": "cangzhou"
+            },
+            {
+                "href": "https://lf.fang.com/",
+                "name": "廊坊",
+                "py": "lf"
+            },
+            {
+                "href": "https://xingtai.fang.com/",
+                "name": "邢台",
+                "py": "xingtai"
+            },
+            {
+                "href": "https://hd.fang.com/",
+                "name": "邯郸",
+                "py": "hd"
+            },
+            {
+                "href": "https://qhd.fang.com/",
+                "name": "秦皇岛",
+                "py": "qhd"
+            },
+            {
+                "href": "https://hs.fang.com/",
+                "name": "衡水",
+                "py": "hs"
+            },
+            {
+                "href": "https://zhangjiakou.fang.com/",
+                "name": "张家口",
+                "py": "zhangjiakou"
+            },
+            {
+                "href": "https://chengde.fang.com/",
+                "name": "承德",
+                "py": "chengde"
+            },
+            {
+                "href": "https://guan.fang.com/",
+                "name": "固安",
+                "py": "guan"
+            },
+            {
+                "href": "https://zhuozhou.fang.com/",
+                "name": "涿州",
+                "py": "zhuozhou"
+            },
+            {
+                "href": "https://zunhua.fang.com/",
+                "name": "遵化",
+                "py": "zunhua"
+            },
+            {
+                "href": "https://qianan.fang.com/",
+                "name": "迁安",
+                "py": "qianan"
+            },
+            {
+                "href": "https://dingzhou.fang.com/",
+                "name": "定州",
+                "py": "dingzhou"
+            },
+            {
+                "href": "https://xinji.fang.com/",
+                "name": "辛集",
+                "py": "xinji"
+            },
+            {
+                "href": "https://luanxian.fang.com/",
+                "name": "滦县",
+                "py": "luanxian"
+            },
+            {
+                "href": "https://yutian.fang.com/",
+                "name": "玉田",
+                "py": "yutian"
+            },
+            {
+                "href": "https://hbjz.fang.com/",
+                "name": "晋州",
+                "py": "hbjz"
+            },
+            {
+                "href": "https://luannan.fang.com/",
+                "name": "滦南",
+                "py": "luannan"
+            },
+            {
+                "href": "https://gaobeidian.fang.com/",
+                "name": "高碑店",
+                "py": "gaobeidian"
+            },
+            {
+                "href": "https://hbzx.fang.com/",
+                "name": "赵县",
+                "py": "hbzx"
+            },
+            {
+                "href": "https://hbwj.fang.com/",
+                "name": "无极",
+                "py": "hbwj"
+            },
+            {
+                "href": "https://hbql.fang.com/",
+                "name": "青龙",
+                "py": "hbql"
+            },
+            {
+                "href": "https://hblt.fang.com/",
+                "name": "乐亭",
+                "py": "hblt"
+            },
+            {
+                "href": "https://qianxi.fang.com/",
+                "name": "迁西",
+                "py": "qianxi"
+            },
+            {
+                "href": "https://wenan.fang.com/",
+                "name": "文安",
+                "py": "wenan"
+            },
+            {
+                "href": "https://xinle.fang.com/",
+                "name": "新乐",
+                "py": "xinle"
+            },
+            {
+                "href": "https://hbys.fang.com/",
+                "name": "元氏",
+                "py": "hbys"
+            },
+            {
+                "href": "https://hbbz.fang.com/",
+                "name": "霸州",
+                "py": "hbbz"
+            },
+            {
+                "href": "https://changli.fang.com/",
+                "name": "昌黎",
+                "py": "changli"
+            },
+            {
+                "href": "https://hbps.fang.com/",
+                "name": "平山",
+                "py": "hbps"
+            },
+            {
+                "href": "https://wuan.fang.com/",
+                "name": "武安",
+                "py": "wuan"
+            },
+            {
+                "href": "https://renqiu.fang.com/",
+                "name": "任丘",
+                "py": "renqiu"
+            },
+            {
+                "href": "https://hbsz.fang.com",
+                "name": "深州",
+                "py": "hbsz"
+            },
+            {
+                "href": "https://jz.fang.com/",
+                "name": "冀州",
+                "py": "jz"
+            },
+            {
+                "href": "https://hbsh.fang.com",
+                "name": "三河",
+                "py": "hbsh"
+            },
+            {
+                "href": "https://yuxian.fang.com/",
+                "name": "蔚县",
+                "py": "yuxian"
+            },
+            {
+                "href": "https://yongqing.fang.com/",
+                "name": "永清",
+                "py": "yongqing"
+            },
+            {
+                "href": "https://gaoyang.fang.com/",
+                "name": "高阳",
+                "py": "gaoyang"
+            },
+            {
+                "href": "https://dingxing.fang.com/",
+                "name": "定兴",
+                "py": "dingxing"
+            },
+            {
+                "href": "https://laishui.fang.com",
+                "name": "涞水",
+                "py": "laishui"
+            },
+            {
+                "href": "https://xiongan.fang.com/",
+                "name": "雄安新区",
+                "py": "xiongan"
+            }
+        ]
+    },
+    {
+        "c": "J",
+        "prov": "江苏",
+        "list": [
+            {
+                "href": "https://nanjing.fang.com/",
+                "name": "南京",
+                "py": "nanjing"
+            },
+            {
+                "href": "https://suzhou.fang.com/",
+                "name": "苏州",
+                "py": "suzhou"
+            },
+            {
+                "href": "https://wuxi.fang.com/",
+                "name": "无锡",
+                "py": "wuxi"
+            },
+            {
+                "href": "https://xz.fang.com/",
+                "name": "徐州",
+                "py": "xz"
+            },
+            {
+                "href": "https://cz.fang.com/",
+                "name": "常州",
+                "py": "cz"
+            },
+            {
+                "href": "https://huaian.fang.com/",
+                "name": "淮安",
+                "py": "huaian"
+            },
+            {
+                "href": "https://yz.fang.com/",
+                "name": "扬州",
+                "py": "yz"
+            },
+            {
+                "href": "https://nt.fang.com/",
+                "name": "南通",
+                "py": "nt"
+            },
+            {
+                "href": "https://yancheng.fang.com/",
+                "name": "盐城",
+                "py": "yancheng"
+            },
+            {
+                "href": "https://lyg.fang.com/",
+                "name": "连云港",
+                "py": "lyg"
+            },
+            {
+                "href": "https://sq.fang.com/",
+                "name": "宿迁",
+                "py": "sq"
+            },
+            {
+                "href": "https://taizhou.fang.com/",
+                "name": "泰州",
+                "py": "taizhou"
+            },
+            {
+                "href": "https://zhenjiang.fang.com/",
+                "name": "镇江",
+                "py": "zhenjiang"
+            },
+            {
+                "href": "https://changshu.fang.com/",
+                "name": "常熟",
+                "py": "changshu"
+            },
+            {
+                "href": "https://zjg.fang.com/",
+                "name": "张家港",
+                "py": "zjg"
+            },
+            {
+                "href": "https://ks.fang.com/",
+                "name": "昆山",
+                "py": "ks"
+            },
+            {
+                "href": "https://wj.esf.fang.com/",
+                "name": "吴江",
+                "py": "wj"
+            },
+            {
+                "href": "https://pizhou.fang.com/",
+                "name": "邳州",
+                "py": "pizhou"
+            },
+            {
+                "href": "https://qidong.fang.com/",
+                "name": "启东",
+                "py": "qidong"
+            },
+            {
+                "href": "https://dongtai.fang.com/",
+                "name": "东台",
+                "py": "dongtai"
+            },
+            {
+                "href": "https://taixing.fang.com/",
+                "name": "泰兴",
+                "py": "taixing"
+            },
+            {
+                "href": "https://xinghua.fang.com/",
+                "name": "兴化",
+                "py": "xinghua"
+            },
+            {
+                "href": "https://haimen.fang.com/",
+                "name": "海门",
+                "py": "haimen"
+            },
+            {
+                "href": "https://rugao.fang.com/",
+                "name": "如皋",
+                "py": "rugao"
+            },
+            {
+                "href": "https://jiangdu.fang.com/",
+                "name": "江都",
+                "py": "jiangdu"
+            },
+            {
+                "href": "https://xinyi.fang.com/",
+                "name": "新沂",
+                "py": "xinyi"
+            },
+            {
+                "href": "https://gaoyou.fang.com/",
+                "name": "高邮",
+                "py": "gaoyou"
+            },
+            {
+                "href": "https://jingjiang.fang.com/",
+                "name": "靖江",
+                "py": "jingjiang"
+            },
+            {
+                "href": "https://tc.fang.com/",
+                "name": "太仓",
+                "py": "tc"
+            },
+            {
+                "href": "https://jy.fang.com/",
+                "name": "江阴",
+                "py": "jy"
+            },
+            {
+                "href": "https://yixing.fang.com/",
+                "name": "宜兴",
+                "py": "yixing"
+            },
+            {
+                "href": "https://shuyang.fang.com/",
+                "name": "沭阳",
+                "py": "shuyang"
+            },
+            {
+                "href": "https://haian.fang.com/",
+                "name": "海安",
+                "py": "haian"
+            },
+            {
+                "href": "https://rudong.fang.com/",
+                "name": "如东",
+                "py": "rudong"
+            },
+            {
+                "href": "https://yizheng.fang.com/",
+                "name": "仪征",
+                "py": "yizheng"
+            },
+            {
+                "href": "https://jssn.fang.com/",
+                "name": "睢宁",
+                "py": "jssn"
+            },
+            {
+                "href": "https://jsfx.fang.com/",
+                "name": "丰县",
+                "py": "jsfx"
+            },
+            {
+                "href": "https://peixian.fang.com/",
+                "name": "沛县",
+                "py": "peixian"
+            },
+            {
+                "href": "https://jr.fang.com/",
+                "name": "句容",
+                "py": "jr"
+            },
+            {
+                "href": "https://baoying.fang.com/",
+                "name": "宝应",
+                "py": "baoying"
+            },
+            {
+                "href": "https://njgc.fang.com/",
+                "name": "高淳",
+                "py": "njgc"
+            },
+            {
+                "href": "https://quanshan.fang.com/",
+                "name": "泉山",
+                "py": "quanshan"
+            },
+            {
+                "href": "https://tongshan.fang.com/",
+                "name": "铜山",
+                "py": "tongshan"
+            },
+            {
+                "href": "https://funing.fang.com/",
+                "name": "阜宁",
+                "py": "funing"
+            },
+            {
+                "href": "https://jiangyan.fang.com/",
+                "name": "姜堰",
+                "py": "jiangyan"
+            },
+            {
+                "href": "https://ksys.fang.com/",
+                "name": "玉山",
+                "py": "ksys"
+            },
+            {
+                "href": "https://jinhu.fang.com/",
+                "name": "金湖",
+                "py": "jinhu"
+            },
+            {
+                "href": "https://donghai.fang.com/",
+                "name": "东海",
+                "py": "donghai"
+            },
+            {
+                "href": "https://xuyi.fang.com/",
+                "name": "盱眙",
+                "py": "xuyi"
+            },
+            {
+                "href": "https://sihong.fang.com/",
+                "name": "泗洪",
+                "py": "sihong"
+            },
+            {
+                "href": "https://siyang.fang.com/",
+                "name": "泗阳",
+                "py": "siyang"
+            }
+        ]
+    },
+    {
+        "c": "J",
+        "prov": "江西",
+        "list": [
+            {
+                "href": "https://nc.fang.com/",
+                "name": "南昌",
+                "py": "nc"
+            },
+            {
+                "href": "https://ganzhou.fang.com/",
+                "name": "赣州",
+                "py": "ganzhou"
+            },
+            {
+                "href": "https://jiujiang.fang.com/",
+                "name": "九江",
+                "py": "jiujiang"
+            },
+            {
+                "href": "https://jian.fang.com/",
+                "name": "吉安",
+                "py": "jian"
+            },
+            {
+                "href": "https://shangrao.fang.com/",
+                "name": "上饶",
+                "py": "shangrao"
+            },
+            {
+                "href": "https://pingxiang.fang.com/",
+                "name": "萍乡",
+                "py": "pingxiang"
+            },
+            {
+                "href": "https://yingtan.fang.com/",
+                "name": "鹰潭",
+                "py": "yingtan"
+            },
+            {
+                "href": "https://yichun.fang.com/",
+                "name": "宜春",
+                "py": "yichun"
+            },
+            {
+                "href": "https://jingdezhen.fang.com/",
+                "name": "景德镇",
+                "py": "jingdezhen"
+            },
+            {
+                "href": "https://jxfuzhou.fang.com/",
+                "name": "抚州",
+                "py": "jxfuzhou"
+            },
+            {
+                "href": "https://xinyu.fang.com/",
+                "name": "新余",
+                "py": "xinyu"
+            },
+            {
+                "href": "https://ruijin.fang.com/",
+                "name": "瑞金",
+                "py": "ruijin"
+            },
+            {
+                "href": "https://jinxian.fang.com/",
+                "name": "进贤",
+                "py": "jinxian"
+            },
+            {
+                "href": "https://xinjian.fang.com/",
+                "name": "新建",
+                "py": "xinjian"
+            },
+            {
+                "href": "https://jxfc.fang.com/",
+                "name": "丰城",
+                "py": "jxfc"
+            },
+            {
+                "href": "https://jxja.fang.com/",
+                "name": "靖安",
+                "py": "jxja"
+            }
+        ]
+    },
+    {
+        "c": "J",
+        "prov": "吉林",
+        "list": [
+            {
+                "href": "https://changchun.fang.com/",
+                "name": "长春",
+                "py": "changchun"
+            },
+            {
+                "href": "https://jl.fang.com/",
+                "name": "吉林",
+                "py": "jl"
+            },
+            {
+                "href": "https://siping.fang.com/",
+                "name": "四平",
+                "py": "siping"
+            },
+            {
+                "href": "https://baishan.fang.com/",
+                "name": "白山",
+                "py": "baishan"
+            },
+            {
+                "href": "https://baicheng.fang.com/",
+                "name": "白城",
+                "py": "baicheng"
+            },
+            {
+                "href": "https://yanbian.fang.com/",
+                "name": "延边",
+                "py": "yanbian"
+            },
+            {
+                "href": "https://tonghua.fang.com/",
+                "name": "通化",
+                "py": "tonghua"
+            },
+            {
+                "href": "https://songyuan.fang.com/",
+                "name": "松原",
+                "py": "songyuan"
+            },
+            {
+                "href": "https://liaoyuan.fang.com/",
+                "name": "辽源",
+                "py": "liaoyuan"
+            },
+            {
+                "href": "https://nongan.fang.com/",
+                "name": "农安",
+                "py": "nongan"
+            },
+            {
+                "href": "https://dehui.fang.com/",
+                "name": "德惠",
+                "py": "dehui"
+            },
+            {
+                "href": "https://jlys.fang.com/",
+                "name": "榆树",
+                "py": "jlys"
+            },
+            {
+                "href": "https://huadian.fang.com/",
+                "name": "桦甸",
+                "py": "huadian"
+            },
+            {
+                "href": "https://gongzhuling.fang.com/",
+                "name": "公主岭",
+                "py": "gongzhuling"
+            }
+        ]
+    },
+    {
+        "c": "L",
+        "prov": "辽宁",
+        "list": [
+            {
+                "href": "https://sy.fang.com/",
+                "name": "沈阳",
+                "py": "sy"
+            },
+            {
+                "href": "https://dl.fang.com/",
+                "name": "大连",
+                "py": "dl"
+            },
+            {
+                "href": "https://fushun.fang.com/",
+                "name": "抚顺",
+                "py": "fushun"
+            },
+            {
+                "href": "https://jinzhou.fang.com/",
+                "name": "锦州",
+                "py": "jinzhou"
+            },
+            {
+                "href": "https://anshan.fang.com/",
+                "name": "鞍山",
+                "py": "anshan"
+            },
+            {
+                "href": "https://huludao.fang.com/",
+                "name": "葫芦岛",
+                "py": "huludao"
+            },
+            {
+                "href": "https://fuxin.fang.com/",
+                "name": "阜新",
+                "py": "fuxin"
+            },
+            {
+                "href": "https://yk.fang.com/",
+                "name": "营口",
+                "py": "yk"
+            },
+            {
+                "href": "https://benxi.fang.com/",
+                "name": "本溪",
+                "py": "benxi"
+            },
+            {
+                "href": "https://chaoyang.fang.com/",
+                "name": "朝阳",
+                "py": "chaoyang"
+            },
+            {
+                "href": "https://tieling.fang.com/",
+                "name": "铁岭",
+                "py": "tieling"
+            },
+            {
+                "href": "https://liaoyang.fang.com/",
+                "name": "辽阳",
+                "py": "liaoyang"
+            },
+            {
+                "href": "https://panjin.fang.com/",
+                "name": "盘锦",
+                "py": "panjin"
+            },
+            {
+                "href": "https://dandong.fang.com/",
+                "name": "丹东",
+                "py": "dandong"
+            },
+            {
+                "href": "https://pulandian.fang.com/",
+                "name": "普兰店",
+                "py": "pulandian"
+            },
+            {
+                "href": "https://wafangdian.fang.com/",
+                "name": "瓦房店",
+                "py": "wafangdian"
+            },
+            {
+                "href": "https://donggang.fang.com/",
+                "name": "东港",
+                "py": "donggang"
+            },
+            {
+                "href": "https://fengcheng.fang.com/",
+                "name": "凤城",
+                "py": "fengcheng"
+            },
+            {
+                "href": "https://lnzh.fang.com/",
+                "name": "庄河",
+                "py": "lnzh"
+            },
+            {
+                "href": "https://xinmin.fang.com/",
+                "name": "新民",
+                "py": "xinmin"
+            },
+            {
+                "href": "https://liaozhong.fang.com/",
+                "name": "辽中",
+                "py": "liaozhong"
+            },
+            {
+                "href": "https://faku.fang.com/",
+                "name": "法库",
+                "py": "faku"
+            },
+            {
+                "href": "https://kangping.fang.com/",
+                "name": "康平",
+                "py": "kangping"
+            },
+            {
+                "href": "https://lnta.fang.com/",
+                "name": "台安",
+                "py": "lnta"
+            },
+            {
+                "href": "https://haicheng.fang.com/",
+                "name": "海城",
+                "py": "haicheng"
+            }
+        ]
+    },
+    {
+        "c": "N",
+        "prov": "宁夏",
+        "list": [
+            {
+                "href": "https://yinchuan.fang.com/",
+                "name": "银川",
+                "py": "yinchuan"
+            },
+            {
+                "href": "https://shizuishan.fang.com/",
+                "name": "石嘴山",
+                "py": "shizuishan"
+            },
+            {
+                "href": "https://guyuan.fang.com/",
+                "name": "固原",
+                "py": "guyuan"
+            },
+            {
+                "href": "https://wuzhong.fang.com/",
+                "name": "吴忠",
+                "py": "wuzhong"
+            },
+            {
+                "href": "https://zhongwei.fang.com/",
+                "name": "中卫",
+                "py": "zhongwei"
+            }
+        ]
+    },
+    {
+        "c": "N",
+        "prov": "内蒙古",
+        "list": [
+            {
+                "href": "https://nm.fang.com/",
+                "name": "呼和浩特",
+                "py": "nm"
+            },
+            {
+                "href": "https://bt.fang.com/",
+                "name": "包头",
+                "py": "bt"
+            },
+            {
+                "href": "https://chifeng.fang.com/",
+                "name": "赤峰",
+                "py": "chifeng"
+            },
+            {
+                "href": "https://erds.fang.com/",
+                "name": "鄂尔多斯",
+                "py": "erds"
+            },
+            {
+                "href": "https://tl.fang.com/",
+                "name": "通辽",
+                "py": "tl"
+            },
+            {
+                "href": "https://wlcb.fang.com/",
+                "name": "乌兰察布",
+                "py": "wlcb"
+            },
+            {
+                "href": "https://byne.fang.com/",
+                "name": "巴彦淖尔",
+                "py": "byne"
+            },
+            {
+                "href": "https://alsm.fang.com/",
+                "name": "阿拉善盟",
+                "py": "alsm"
+            },
+            {
+                "href": "https://hailaer.fang.com/",
+                "name": "海拉尔",
+                "py": "hailaer"
+            },
+            {
+                "href": "https://hlbe.fang.com/",
+                "name": "呼伦贝尔",
+                "py": "hlbe"
+            },
+            {
+                "href": "https://wuhai.fang.com/",
+                "name": "乌海",
+                "py": "wuhai"
+            },
+            {
+                "href": "https://xlglm.fang.com/",
+                "name": "锡林郭勒盟",
+                "py": "xlglm"
+            },
+            {
+                "href": "https://xam.fang.com/",
+                "name": "兴安盟",
+                "py": "xam"
+            },
+            {
+                "href": "https://xilinhaote.fang.com/",
+                "name": "锡林浩特",
+                "py": "xilinhaote"
+            }
+        ]
+    },
+    {
+        "c": "Q",
+        "prov": "青海",
+        "list": [
+            {
+                "href": "https://xn.fang.com/",
+                "name": "西宁",
+                "py": "xn"
+            },
+            {
+                "href": "https://guoluo.fang.com/",
+                "name": "果洛",
+                "py": "guoluo"
+            },
+            {
+                "href": "https://huangnan.fang.com/",
+                "name": "黄南",
+                "py": "huangnan"
+            },
+            {
+                "href": "https://haixi.fang.com/",
+                "name": "海西",
+                "py": "haixi"
+            },
+            {
+                "href": "https://haidong.fang.com/",
+                "name": "海东",
+                "py": "haidong"
+            },
+            {
+                "href": "https://haibei.fang.com/",
+                "name": "海北",
+                "py": "haibei"
+            },
+            {
+                "href": "https://yushu.fang.com/",
+                "name": "玉树",
+                "py": "yushu"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "山东",
+        "list": [
+            {
+                "href": "https://jn.fang.com/",
+                "name": "济南",
+                "py": "jn"
+            },
+            {
+                "href": "https://qd.fang.com/",
+                "name": "青岛",
+                "py": "qd"
+            },
+            {
+                "href": "https://zb.fang.com/",
+                "name": "淄博",
+                "py": "zb"
+            },
+            {
+                "href": "https://wf.fang.com/",
+                "name": "潍坊",
+                "py": "wf"
+            },
+            {
+                "href": "https://yt.fang.com/",
+                "name": "烟台",
+                "py": "yt"
+            },
+            {
+                "href": "https://weihai.fang.com/",
+                "name": "威海",
+                "py": "weihai"
+            },
+            {
+                "href": "https://linyi.fang.com/",
+                "name": "临沂",
+                "py": "linyi"
+            },
+            {
+                "href": "https://jining.fang.com/",
+                "name": "济宁",
+                "py": "jining"
+            },
+            {
+                "href": "https://binzhou.fang.com/",
+                "name": "滨州",
+                "py": "binzhou"
+            },
+            {
+                "href": "https://dz.fang.com/",
+                "name": "德州",
+                "py": "dz"
+            },
+            {
+                "href": "https://dy.fang.com/",
+                "name": "东营",
+                "py": "dy"
+            },
+            {
+                "href": "https://zaozhuang.fang.com/",
+                "name": "枣庄",
+                "py": "zaozhuang"
+            },
+            {
+                "href": "https://lc.fang.com/",
+                "name": "聊城",
+                "py": "lc"
+            },
+            {
+                "href": "https://taian.fang.com/",
+                "name": "泰安",
+                "py": "taian"
+            },
+            {
+                "href": "https://rz.fang.com/",
+                "name": "日照",
+                "py": "rz"
+            },
+            {
+                "href": "https://heze.fang.com/",
+                "name": "菏泽",
+                "py": "heze"
+            },
+            {
+                "href": "https://zhangqiu.fang.com/",
+                "name": "章丘",
+                "py": "zhangqiu"
+            },
+            {
+                "href": "https://zhucheng.fang.com/",
+                "name": "诸城",
+                "py": "zhucheng"
+            },
+            {
+                "href": "https://zy.fang.com/",
+                "name": "招远",
+                "py": "zy"
+            },
+            {
+                "href": "https://gaomi.fang.com/",
+                "name": "高密",
+                "py": "gaomi"
+            },
+            {
+                "href": "https://sg.fang.com/",
+                "name": "寿光",
+                "py": "sg"
+            },
+            {
+                "href": "https://zoucheng.fang.com/",
+                "name": "邹城",
+                "py": "zoucheng"
+            },
+            {
+                "href": "https://tengzhou.fang.com/",
+                "name": "滕州",
+                "py": "tengzhou"
+            },
+            {
+                "href": "https://xintai.fang.com/",
+                "name": "新泰",
+                "py": "xintai"
+            },
+            {
+                "href": "https://feicheng.fang.com/",
+                "name": "肥城",
+                "py": "feicheng"
+            },
+            {
+                "href": "https://laizhou.fang.com/",
+                "name": "莱州",
+                "py": "laizhou"
+            },
+            {
+                "href": "https://zouping.fang.com/",
+                "name": "邹平",
+                "py": "zouping"
+            },
+            {
+                "href": "https://longkou.fang.com/",
+                "name": "龙口",
+                "py": "longkou"
+            },
+            {
+                "href": "https://guangrao.fang.com/",
+                "name": "广饶",
+                "py": "guangrao"
+            },
+            {
+                "href": "https://qingzhou.fang.com/",
+                "name": "青州",
+                "py": "qingzhou"
+            },
+            {
+                "href": "https://sdjy.fang.com/",
+                "name": "济阳",
+                "py": "sdjy"
+            },
+            {
+                "href": "https://sdsh.fang.com/",
+                "name": "商河",
+                "py": "sdsh"
+            },
+            {
+                "href": "https://laiyang.fang.com/",
+                "name": "莱阳",
+                "py": "laiyang"
+            },
+            {
+                "href": "https://sdpy.fang.com/",
+                "name": "平阴",
+                "py": "sdpy"
+            },
+            {
+                "href": "https://linqing.fang.com/",
+                "name": "临清",
+                "py": "linqing"
+            },
+            {
+                "href": "https://qixia.fang.com/",
+                "name": "栖霞",
+                "py": "qixia"
+            },
+            {
+                "href": "https://haiyang.fang.com/",
+                "name": "海阳",
+                "py": "haiyang"
+            },
+            {
+                "href": "https://jncq.fang.com/",
+                "name": "长清",
+                "py": "jncq"
+            },
+            {
+                "href": "https://qihe.fang.com/",
+                "name": "齐河",
+                "py": "qihe"
+            },
+            {
+                "href": "https://qingyun.fang.com/",
+                "name": "庆云",
+                "py": "qingyun"
+            },
+            {
+                "href": "https://penglai.fang.com/",
+                "name": "蓬莱",
+                "py": "penglai"
+            },
+            {
+                "href": "https://pingdu.fang.com/",
+                "name": "平度",
+                "py": "pingdu"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "山西",
+        "list": [
+            {
+                "href": "https://taiyuan.fang.com/",
+                "name": "太原",
+                "py": "taiyuan"
+            },
+            {
+                "href": "https://changzhi.fang.com/",
+                "name": "长治",
+                "py": "changzhi"
+            },
+            {
+                "href": "https://yuncheng.fang.com/",
+                "name": "运城",
+                "py": "yuncheng"
+            },
+            {
+                "href": "https://linfen.fang.com/",
+                "name": "临汾",
+                "py": "linfen"
+            },
+            {
+                "href": "https://jinzhong.fang.com/",
+                "name": "晋中",
+                "py": "jinzhong"
+            },
+            {
+                "href": "https://datong.fang.com/",
+                "name": "大同",
+                "py": "datong"
+            },
+            {
+                "href": "https://xinzhou.fang.com/",
+                "name": "忻州",
+                "py": "xinzhou"
+            },
+            {
+                "href": "https://lvliang.fang.com/",
+                "name": "吕梁",
+                "py": "lvliang"
+            },
+            {
+                "href": "https://shuozhou.fang.com/",
+                "name": "朔州",
+                "py": "shuozhou"
+            },
+            {
+                "href": "https://yangquan.fang.com/",
+                "name": "阳泉",
+                "py": "yangquan"
+            },
+            {
+                "href": "https://jc.fang.com/",
+                "name": "晋城",
+                "py": "jc"
+            },
+            {
+                "href": "https://sxly.fang.com/",
+                "name": "临猗",
+                "py": "sxly"
+            },
+            {
+                "href": "https://qingxu.fang.com/",
+                "name": "清徐",
+                "py": "qingxu"
+            },
+            {
+                "href": "https://yangqu.fang.com/",
+                "name": "阳曲",
+                "py": "yangqu"
+            },
+            {
+                "href": "https://huairen.fang.com/",
+                "name": "怀仁",
+                "py": "huairen"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "陕西",
+        "list": [
+            {
+                "href": "https://xian.fang.com/",
+                "name": "西安",
+                "py": "xian"
+            },
+            {
+                "href": "https://baoji.fang.com/",
+                "name": "宝鸡",
+                "py": "baoji"
+            },
+            {
+                "href": "https://xianyang.fang.com/",
+                "name": "咸阳",
+                "py": "xianyang"
+            },
+            {
+                "href": "https://weinan.fang.com/",
+                "name": "渭南",
+                "py": "weinan"
+            },
+            {
+                "href": "https://hanzhong.fang.com/",
+                "name": "汉中",
+                "py": "hanzhong"
+            },
+            {
+                "href": "https://ankang.fang.com/",
+                "name": "安康",
+                "py": "ankang"
+            },
+            {
+                "href": "https://sxyulin.fang.com/",
+                "name": "榆林",
+                "py": "sxyulin"
+            },
+            {
+                "href": "https://yanan.fang.com/",
+                "name": "延安",
+                "py": "yanan"
+            },
+            {
+                "href": "https://tongchuan.fang.com/",
+                "name": "铜川",
+                "py": "tongchuan"
+            },
+            {
+                "href": "https://shangluo.fang.com/",
+                "name": "商洛",
+                "py": "shangluo"
+            },
+            {
+                "href": "https://lantian.fang.com/",
+                "name": "蓝田",
+                "py": "lantian"
+            },
+            {
+                "href": "https://huxian.fang.com/",
+                "name": "户县",
+                "py": "huxian"
+            },
+            {
+                "href": "https://zhouzhi.fang.com/",
+                "name": "周至",
+                "py": "zhouzhi"
+            },
+            {
+                "href": "https://gaoling.fang.com/",
+                "name": "高陵",
+                "py": "gaoling"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "四川",
+        "list": [
+            {
+                "href": "https://cd.fang.com/",
+                "name": "成都",
+                "py": "cd"
+            },
+            {
+                "href": "https://mianyang.fang.com/",
+                "name": "绵阳",
+                "py": "mianyang"
+            },
+            {
+                "href": "https://luzhou.fang.com/",
+                "name": "泸州",
+                "py": "luzhou"
+            },
+            {
+                "href": "https://nanchong.fang.com/",
+                "name": "南充",
+                "py": "nanchong"
+            },
+            {
+                "href": "https://deyang.fang.com/",
+                "name": "德阳",
+                "py": "deyang"
+            },
+            {
+                "href": "https://leshan.fang.com/",
+                "name": "乐山",
+                "py": "leshan"
+            },
+            {
+                "href": "https://dazhou.fang.com/",
+                "name": "达州",
+                "py": "dazhou"
+            },
+            {
+                "href": "https://guangan.fang.com/",
+                "name": "广安",
+                "py": "guangan"
+            },
+            {
+                "href": "https://panzhihua.fang.com/",
+                "name": "攀枝花",
+                "py": "panzhihua"
+            },
+            {
+                "href": "https://suining.fang.com/",
+                "name": "遂宁",
+                "py": "suining"
+            },
+            {
+                "href": "https://zigong.fang.com/",
+                "name": "自贡",
+                "py": "zigong"
+            },
+            {
+                "href": "https://neijiang.fang.com/",
+                "name": "内江",
+                "py": "neijiang"
+            },
+            {
+                "href": "https://guangyuan.fang.com/",
+                "name": "广元",
+                "py": "guangyuan"
+            },
+            {
+                "href": "https://bazhong.fang.com/",
+                "name": "巴中",
+                "py": "bazhong"
+            },
+            {
+                "href": "https://yibin.fang.com/",
+                "name": "宜宾",
+                "py": "yibin"
+            },
+            {
+                "href": "https://meishan.fang.com/",
+                "name": "眉山",
+                "py": "meishan"
+            },
+            {
+                "href": "https://ziyang.fang.com/",
+                "name": "资阳",
+                "py": "ziyang"
+            },
+            {
+                "href": "https://yaan.fang.com/",
+                "name": "雅安",
+                "py": "yaan"
+            },
+            {
+                "href": "https://liangshan.fang.com/",
+                "name": "凉山",
+                "py": "liangshan"
+            },
+            {
+                "href": "https://abazhou.fang.com/",
+                "name": "阿坝州",
+                "py": "abazhou"
+            },
+            {
+                "href": "https://ganzi.fang.com/",
+                "name": "甘孜",
+                "py": "ganzi"
+            },
+            {
+                "href": "https://pengzhou.fang.com/",
+                "name": "彭州",
+                "py": "pengzhou"
+            },
+            {
+                "href": "https://scjt.fang.com/",
+                "name": "金堂",
+                "py": "scjt"
+            },
+            {
+                "href": "https://qionglai.fang.com/",
+                "name": "邛崃",
+                "py": "qionglai"
+            },
+            {
+                "href": "https://jianyang.fang.com/",
+                "name": "简阳",
+                "py": "jianyang"
+            },
+            {
+                "href": "https://chongzhou.fang.com/",
+                "name": "崇州",
+                "py": "chongzhou"
+            },
+            {
+                "href": "https://dayi.fang.com/",
+                "name": "大邑",
+                "py": "dayi"
+            },
+            {
+                "href": "https://dujiangyan.fang.com/",
+                "name": "都江堰",
+                "py": "dujiangyan"
+            },
+            {
+                "href": "https://xinjin.fang.com/",
+                "name": "新津",
+                "py": "xinjin"
+            },
+            {
+                "href": "https://emeishan.fang.com",
+                "name": "峨眉山",
+                "py": "emeishan"
+            }
+        ]
+    },
+    {
+        "c": "T",
+        "prov": "天津",
+        "list": [
+            {
+                "href": "https://jizhou.fang.com/",
+                "name": "蓟州",
+                "py": "jizhou"
+            }
+        ]
+    },
+    {
+        "c": "X",
+        "prov": "新疆",
+        "list": [
+            {
+                "href": "https://xj.fang.com/",
+                "name": "乌鲁木齐",
+                "py": "xj"
+            },
+            {
+                "href": "https://kelamayi.fang.com/",
+                "name": "克拉玛依",
+                "py": "kelamayi"
+            },
+            {
+                "href": "https://kashi.fang.com/",
+                "name": "喀什",
+                "py": "kashi"
+            },
+            {
+                "href": "https://bazhou.fang.com/",
+                "name": "巴州",
+                "py": "bazhou"
+            },
+            {
+                "href": "https://yili.fang.com/",
+                "name": "伊犁",
+                "py": "yili"
+            },
+            {
+                "href": "https://akesu.fang.com/",
+                "name": "阿克苏",
+                "py": "akesu"
+            },
+            {
+                "href": "https://betl.fang.com/",
+                "name": "博尔塔拉",
+                "py": "betl"
+            },
+            {
+                "href": "https://esf.changji.fang.com/",
+                "name": "昌吉",
+                "py": "esf"
+            },
+            {
+                "href": "https://hami.fang.com/",
+                "name": "哈密",
+                "py": "hami"
+            },
+            {
+                "href": "https://hetian.fang.com/",
+                "name": "和田",
+                "py": "hetian"
+            },
+            {
+                "href": "https://kzls.fang.com/",
+                "name": "克孜勒苏",
+                "py": "kzls"
+            },
+            {
+                "href": "https://shihezi.fang.com/",
+                "name": "石河子",
+                "py": "shihezi"
+            },
+            {
+                "href": "https://tulufan.fang.com/",
+                "name": "吐鲁番",
+                "py": "tulufan"
+            },
+            {
+                "href": "https://wujiaqu.fang.com/",
+                "name": "五家渠",
+                "py": "wujiaqu"
+            },
+            {
+                "href": "https://kuitun.fang.com/",
+                "name": "奎屯",
+                "py": "kuitun"
+            },
+            {
+                "href": "https://kuerle.fang.com/",
+                "name": "库尔勒",
+                "py": "kuerle"
+            }
+        ]
+    },
+    {
+        "c": "X",
+        "prov": "西藏",
+        "list": [
+            {
+                "href": "https://changdu.fang.com/",
+                "name": "昌都",
+                "py": "changdu"
+            },
+            {
+                "href": "https://lasa.fang.com/",
+                "name": "拉萨",
+                "py": "lasa"
+            },
+            {
+                "href": "https://linzhi.fang.com/",
+                "name": "林芝",
+                "py": "linzhi"
+            },
+            {
+                "href": "https://naqu.fang.com/",
+                "name": "那曲",
+                "py": "naqu"
+            },
+            {
+                "href": "https://rikaze.fang.com/",
+                "name": "日喀则",
+                "py": "rikaze"
+            }
+        ]
+    },
+    {
+        "c": "X",
+        "prov": "香港",
+        "list": [
+            {
+                "href": "https://hk.esf.fang.com/",
+                "name": "香港",
+                "py": "hk"
+            }
+        ]
+    },
+    {
+        "c": "Y",
+        "prov": "云南",
+        "list": [
+            {
+                "href": "https://km.fang.com/",
+                "name": "昆明",
+                "py": "km"
+            },
+            {
+                "href": "https://honghe.fang.com/",
+                "name": "红河",
+                "py": "honghe"
+            },
+            {
+                "href": "https://wenshan.fang.com/",
+                "name": "文山",
+                "py": "wenshan"
+            },
+            {
+                "href": "https://qujing.fang.com/",
+                "name": "曲靖",
+                "py": "qujing"
+            },
+            {
+                "href": "https://yuxi.fang.com/",
+                "name": "玉溪",
+                "py": "yuxi"
+            },
+            {
+                "href": "https://lijiang.fang.com/",
+                "name": "丽江",
+                "py": "lijiang"
+            },
+            {
+                "href": "https://dali.fang.com/",
+                "name": "大理",
+                "py": "dali"
+            },
+            {
+                "href": "https://chuxiong.fang.com/",
+                "name": "楚雄",
+                "py": "chuxiong"
+            },
+            {
+                "href": "https://baoshan.fang.com/",
+                "name": "保山",
+                "py": "baoshan"
+            },
+            {
+                "href": "https://zhaotong.fang.com/",
+                "name": "昭通",
+                "py": "zhaotong"
+            },
+            {
+                "href": "https://dehong.fang.com/",
+                "name": "德宏",
+                "py": "dehong"
+            },
+            {
+                "href": "https://lincang.fang.com/",
+                "name": "临沧",
+                "py": "lincang"
+            },
+            {
+                "href": "https://xishuangbanna.fang.com/",
+                "name": "西双版纳",
+                "py": "xishuangbanna"
+            },
+            {
+                "href": "https://puer.fang.com/",
+                "name": "普洱",
+                "py": "puer"
+            },
+            {
+                "href": "https://diqing.fang.com/",
+                "name": "迪庆",
+                "py": "diqing"
+            },
+            {
+                "href": "https://nujiang.fang.com/",
+                "name": "怒江",
+                "py": "nujiang"
+            },
+            {
+                "href": "https://anning.fang.com/",
+                "name": "安宁",
+                "py": "anning"
+            },
+            {
+                "href": "https://ynyl.fang.com",
+                "name": "宜良",
+                "py": "ynyl"
+            },
+            {
+                "href": "https://mile.fang.com",
+                "name": "弥勒",
+                "py": "mile"
+            }
+        ]
+    },
+    {
+        "c": "Z",
+        "prov": "浙江",
+        "list": [
+            {
+                "href": "https://hz.fang.com/",
+                "name": "杭州",
+                "py": "hz"
+            },
+            {
+                "href": "https://nb.fang.com/",
+                "name": "宁波",
+                "py": "nb"
+            },
+            {
+                "href": "https://jx.fang.com/",
+                "name": "嘉兴",
+                "py": "jx"
+            },
+            {
+                "href": "https://wz.fang.com/",
+                "name": "温州",
+                "py": "wz"
+            },
+            {
+                "href": "https://jh.fang.com/",
+                "name": "金华",
+                "py": "jh"
+            },
+            {
+                "href": "https://tz.fang.com/",
+                "name": "台州",
+                "py": "tz"
+            },
+            {
+                "href": "https://sx.fang.com/",
+                "name": "绍兴",
+                "py": "sx"
+            },
+            {
+                "href": "https://huzhou.fang.com/",
+                "name": "湖州",
+                "py": "huzhou"
+            },
+            {
+                "href": "https://quzhou.fang.com/",
+                "name": "衢州",
+                "py": "quzhou"
+            },
+            {
+                "href": "https://ls.fang.com/",
+                "name": "丽水",
+                "py": "ls"
+            },
+            {
+                "href": "https://zhoushan.fang.com/",
+                "name": "舟山",
+                "py": "zhoushan"
+            },
+            {
+                "href": "https://changxing.fang.com/",
+                "name": "长兴",
+                "py": "changxing"
+            },
+            {
+                "href": "https://deqing.fang.com/",
+                "name": "德清",
+                "py": "deqing"
+            },
+            {
+                "href": "https://cixi.fang.com/",
+                "name": "慈溪",
+                "py": "cixi"
+            },
+            {
+                "href": "https://haining.fang.com/",
+                "name": "海宁",
+                "py": "haining"
+            },
+            {
+                "href": "https://wenling.fang.com/",
+                "name": "温岭",
+                "py": "wenling"
+            },
+            {
+                "href": "https://zhuji.fang.com/",
+                "name": "诸暨",
+                "py": "zhuji"
+            },
+            {
+                "href": "https://linhai.fang.com/",
+                "name": "临海",
+                "py": "linhai"
+            },
+            {
+                "href": "https://yuyao.fang.com/",
+                "name": "余姚",
+                "py": "yuyao"
+            },
+            {
+                "href": "https://tongxiang.fang.com/",
+                "name": "桐乡",
+                "py": "tongxiang"
+            },
+            {
+                "href": "https://shangyu.fang.com/",
+                "name": "上虞",
+                "py": "shangyu"
+            },
+            {
+                "href": "https://pinghu.fang.com/",
+                "name": "平湖",
+                "py": "pinghu"
+            },
+            {
+                "href": "https://ninghai.fang.com/",
+                "name": "宁海",
+                "py": "ninghai"
+            },
+            {
+                "href": "https://fenghua.fang.com/",
+                "name": "奉化",
+                "py": "fenghua"
+            },
+            {
+                "href": "https://jiande.fang.com/",
+                "name": "建德",
+                "py": "jiande"
+            },
+            {
+                "href": "https://zjtl.fang.com/",
+                "name": "桐庐",
+                "py": "zjtl"
+            },
+            {
+                "href": "https://zjxs.fang.com/",
+                "name": "象山",
+                "py": "zjxs"
+            },
+            {
+                "href": "https://yuhuan.fang.com/",
+                "name": "玉环",
+                "py": "yuhuan"
+            },
+            {
+                "href": "https://chunan.fang.com/",
+                "name": "淳安",
+                "py": "chunan"
+            },
+            {
+                "href": "https://zhenhai.fang.com/",
+                "name": "镇海",
+                "py": "zhenhai"
+            },
+            {
+                "href": "https://haiyan.fang.com/",
+                "name": "海盐",
+                "py": "haiyan"
+            },
+            {
+                "href": "https://aj.fang.com/",
+                "name": "安吉",
+                "py": "aj"
+            }
+        ]
+    }
+]
