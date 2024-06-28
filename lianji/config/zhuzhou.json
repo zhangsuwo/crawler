@@ -1,0 +1,364 @@
+﻿[
+    {
+        "name": "天元区",
+        "py": "tianyuanqu",
+        "list": [
+            {
+                "name": "奥园城市广场",
+                "py": "aoyuanchengshiguangchang"
+            },
+            {
+                "name": "滨江广场",
+                "py": "binjiangguangchang"
+            },
+            {
+                "name": "长江广场（市政府）",
+                "py": "changjiangguangchangshizhengfu"
+            },
+            {
+                "name": "湖南工业大学",
+                "py": "hunangongyedaxue"
+            },
+            {
+                "name": "栗雨（美的城）",
+                "py": "liyumeidicheng"
+            },
+            {
+                "name": "庐山路",
+                "py": "lushanlu"
+            },
+            {
+                "name": "马家河",
+                "py": "majiahe"
+            },
+            {
+                "name": "神农城",
+                "py": "shennongcheng"
+            },
+            {
+                "name": "市中心医院",
+                "py": "shizhongxinyiyuan"
+            },
+            {
+                "name": "泰山广场",
+                "py": "taishanguangchang"
+            },
+            {
+                "name": "天元区",
+                "py": "tianyuanqu1"
+            },
+            {
+                "name": "株洲大道（体育馆）",
+                "py": "zhuzhoudadaotiyuguan"
+            },
+            {
+                "name": "株洲县",
+                "py": "zhuzhouxian1"
+            },
+            {
+                "name": "株洲西站",
+                "py": "zhuzhouxizhan"
+            }
+        ]
+    },
+    {
+        "name": "芦淞区",
+        "py": "lusongqu",
+        "list": [
+            {
+                "name": "滨江广场",
+                "py": "binjiangguangchang"
+            },
+            {
+                "name": "大京商圈",
+                "py": "dajingshangquan"
+            },
+            {
+                "name": "东湖",
+                "py": "donghu3"
+            },
+            {
+                "name": "枫溪街道",
+                "py": "fengxijiedao"
+            },
+            {
+                "name": "高家坳",
+                "py": "gaojiaao"
+            },
+            {
+                "name": "工学院",
+                "py": "gongxueyuan"
+            },
+            {
+                "name": "贺嘉土",
+                "py": "hejiatu"
+            },
+            {
+                "name": "九天国际广场",
+                "py": "jiutianguojiguangchang"
+            },
+            {
+                "name": "醴陵市",
+                "py": "lilingshi1"
+            },
+            {
+                "name": "龙泉",
+                "py": "longquan"
+            },
+            {
+                "name": "芦淞区",
+                "py": "lusongqu1"
+            },
+            {
+                "name": "庆云山",
+                "py": "qingyunshan"
+            },
+            {
+                "name": "三三一",
+                "py": "sansanyi"
+            },
+            {
+                "name": "神龙公园",
+                "py": "shenlonggongyuan"
+            },
+            {
+                "name": "天鹅湖公园",
+                "py": "tianehugongyuan"
+            },
+            {
+                "name": "响石广场",
+                "py": "xiangshiguangchang"
+            },
+            {
+                "name": "徐家桥商业步行街",
+                "py": "xujiaqiaoshangyebuxingjie"
+            },
+            {
+                "name": "中心广场",
+                "py": "zhongxinguangchang1"
+            },
+            {
+                "name": "株洲火车站",
+                "py": "zhuzhouhuochezhan"
+            },
+            {
+                "name": "株洲县",
+                "py": "zhuzhouxian1"
+            }
+        ]
+    },
+    {
+        "name": "荷塘区",
+        "py": "hetangqu",
+        "list": [
+            {
+                "name": "大京商圈",
+                "py": "dajingshangquan"
+            },
+            {
+                "name": "大润发",
+                "py": "darunfa1"
+            },
+            {
+                "name": "东湖",
+                "py": "donghu3"
+            },
+            {
+                "name": "工学院",
+                "py": "gongxueyuan"
+            },
+            {
+                "name": "荷塘大道",
+                "py": "hetangdadao"
+            },
+            {
+                "name": "荷塘区",
+                "py": "hetangqu1"
+            },
+            {
+                "name": "红旗广场",
+                "py": "hongqiguangchang"
+            },
+            {
+                "name": "华润万家",
+                "py": "huarunwanjia"
+            },
+            {
+                "name": "龙泉",
+                "py": "longquan"
+            },
+            {
+                "name": "汽车城",
+                "py": "qichecheng"
+            },
+            {
+                "name": "市党委校",
+                "py": "shidangweixiao"
+            },
+            {
+                "name": "天鹅湖公园",
+                "py": "tianehugongyuan"
+            },
+            {
+                "name": "田心",
+                "py": "tianxin1"
+            },
+            {
+                "name": "向阳广场",
+                "py": "xiangyangguangchang"
+            },
+            {
+                "name": "新华东路",
+                "py": "xinhuadonglu"
+            },
+            {
+                "name": "徐家桥商业步行街",
+                "py": "xujiaqiaoshangyebuxingjie"
+            },
+            {
+                "name": "云龙",
+                "py": "yunlong"
+            },
+            {
+                "name": "云龙示",
+                "py": "yunlongshi"
+            },
+            {
+                "name": "云龙示范区",
+                "py": "yunlongshifanqu"
+            },
+            {
+                "name": "中心广场",
+                "py": "zhongxinguangchang1"
+            },
+            {
+                "name": "株洲北",
+                "py": "zhuzhoubei"
+            }
+        ]
+    },
+    {
+        "name": "石峰区",
+        "py": "shifengqu",
+        "list": [
+            {
+                "name": "清石广场",
+                "py": "qingshiguangchang"
+            },
+            {
+                "name": "石峰公园",
+                "py": "shifenggongyuan"
+            },
+            {
+                "name": "石峰区",
+                "py": "shifengqu1"
+            },
+            {
+                "name": "田心",
+                "py": "tianxin1"
+            },
+            {
+                "name": "响石广场",
+                "py": "xiangshiguangchang"
+            },
+            {
+                "name": "株洲北",
+                "py": "zhuzhoubei"
+            }
+        ]
+    },
+    {
+        "name": "醴陵市",
+        "py": "lilingshi",
+        "list": [
+            {
+                "name": "醴陵市",
+                "py": "lilingshi1"
+            },
+            {
+                "name": "攸县",
+                "py": "youxian1"
+            },
+            {
+                "name": "株洲县",
+                "py": "zhuzhouxian1"
+            }
+        ]
+    },
+    {
+        "name": "炎陵县",
+        "py": "yanlingxian1",
+        "list": [
+            {
+                "name": "茶陵县",
+                "py": "chalingxian1"
+            },
+            {
+                "name": "炎陵县",
+                "py": "yanlingxian01"
+            }
+        ]
+    },
+    {
+        "name": "株洲县",
+        "py": "zhuzhouxian",
+        "list": [
+            {
+                "name": "醴陵市",
+                "py": "lilingshi1"
+            },
+            {
+                "name": "天元区",
+                "py": "tianyuanqu1"
+            },
+            {
+                "name": "攸县",
+                "py": "youxian1"
+            },
+            {
+                "name": "株洲县",
+                "py": "zhuzhouxian1"
+            }
+        ]
+    },
+    {
+        "name": "攸县",
+        "py": "youxian",
+        "list": [
+            {
+                "name": "茶陵县",
+                "py": "chalingxian1"
+            },
+            {
+                "name": "醴陵市",
+                "py": "lilingshi1"
+            },
+            {
+                "name": "攸县",
+                "py": "youxian1"
+            },
+            {
+                "name": "株洲县",
+                "py": "zhuzhouxian1"
+            }
+        ]
+    },
+    {
+        "name": "茶陵县",
+        "py": "chalingxian",
+        "list": [
+            {
+                "name": "茶陵县",
+                "py": "chalingxian1"
+            },
+            {
+                "name": "炎陵县",
+                "py": "yanlingxian01"
+            },
+            {
+                "name": "攸县",
+                "py": "youxian1"
+            }
+        ]
+    }
+]

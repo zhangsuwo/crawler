@@ -1,0 +1,374 @@
+﻿[
+    {
+        "name": "鼓楼区",
+        "py": "gulouqu3",
+        "list": [
+            {
+                "name": "大儒世家",
+                "py": "darushijia"
+            },
+            {
+                "name": "东街口",
+                "py": "dongjiekou"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan11"
+            },
+            {
+                "name": "三坊七巷",
+                "py": "sanfangqixiang"
+            },
+            {
+                "name": "省体湖前",
+                "py": "shengtihuqian"
+            },
+            {
+                "name": "省政府",
+                "py": "shengzhengfu1"
+            },
+            {
+                "name": "铜盘路（软件园）",
+                "py": "tongpanluruanjianyuan"
+            },
+            {
+                "name": "万宝商圈",
+                "py": "wanbaoshangquan"
+            },
+            {
+                "name": "乌山路",
+                "py": "wushanlu"
+            },
+            {
+                "name": "五四路（温泉公园）",
+                "py": "wusiluwenquangongyuan"
+            },
+            {
+                "name": "五一广场",
+                "py": "wuyiguangchang2"
+            },
+            {
+                "name": "西江滨",
+                "py": "xijiangbin"
+            },
+            {
+                "name": "左海西湖",
+                "py": "zuohaixihu"
+            }
+        ]
+    },
+    {
+        "name": "台江区",
+        "py": "taijiangqu1",
+        "list": [
+            {
+                "name": "北江滨CBD",
+                "py": "beijiangbincbd"
+            },
+            {
+                "name": "茶亭",
+                "py": "chating"
+            },
+            {
+                "name": "上下杭城",
+                "py": "shangxiahangcheng"
+            },
+            {
+                "name": "台江排尾",
+                "py": "taijiangpaiwei"
+            },
+            {
+                "name": "台江万达",
+                "py": "taijiangwanda"
+            },
+            {
+                "name": "万宝商圈",
+                "py": "wanbaoshangquan"
+            },
+            {
+                "name": "五一广场",
+                "py": "wuyiguangchang2"
+            },
+            {
+                "name": "瀛洲红星",
+                "py": "yingzhouhongxing"
+            },
+            {
+                "name": "中亭街（元洪城）",
+                "py": "zhongtingjieyuanhongcheng"
+            }
+        ]
+    },
+    {
+        "name": "晋安区",
+        "py": "jinanqu1",
+        "list": [
+            {
+                "name": "东二环",
+                "py": "dongerhuan"
+            },
+            {
+                "name": "福马路",
+                "py": "fumalu"
+            },
+            {
+                "name": "福新路",
+                "py": "fuxinlu"
+            },
+            {
+                "name": "贵安",
+                "py": "guian"
+            },
+            {
+                "name": "桂湖",
+                "py": "guihu"
+            },
+            {
+                "name": "国货路",
+                "py": "guohuolu"
+            },
+            {
+                "name": "鼓山新东区",
+                "py": "gushanxindongqu"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan11"
+            },
+            {
+                "name": "省体湖前",
+                "py": "shengtihuqian"
+            },
+            {
+                "name": "塔头",
+                "py": "tatou"
+            },
+            {
+                "name": "王庄",
+                "py": "wangzhuang1"
+            },
+            {
+                "name": "五四北",
+                "py": "wusibei"
+            },
+            {
+                "name": "新店",
+                "py": "xindian1"
+            }
+        ]
+    },
+    {
+        "name": "马尾区",
+        "py": "maweiqu1",
+        "list": [
+            {
+                "name": "火车南站",
+                "py": "huochenanzhan1"
+            },
+            {
+                "name": "江滨东大道(快安）",
+                "py": "jiangbindongdadaokuaian"
+            },
+            {
+                "name": "琅岐",
+                "py": "langqi"
+            },
+            {
+                "name": "马尾市区",
+                "py": "maweishiqu"
+            },
+            {
+                "name": "亭江镇",
+                "py": "tingjiangzhen"
+            }
+        ]
+    },
+    {
+        "name": "仓山区",
+        "py": "cangshanqu1",
+        "list": [
+            {
+                "name": "白湖亭",
+                "py": "baihuting"
+            },
+            {
+                "name": "仓山步行街",
+                "py": "cangshanbuxingjie"
+            },
+            {
+                "name": "福建农林大",
+                "py": "fujiannonglinda"
+            },
+            {
+                "name": "高盖山",
+                "py": "gaogaishan"
+            },
+            {
+                "name": "火车南站",
+                "py": "huochenanzhan1"
+            },
+            {
+                "name": "金山奥体",
+                "py": "jinshanaoti"
+            },
+            {
+                "name": "金山大道",
+                "py": "jinshandadao"
+            },
+            {
+                "name": "金山公园",
+                "py": "jinshangongyuan"
+            },
+            {
+                "name": "闽江大道",
+                "py": "minjiangdadao"
+            },
+            {
+                "name": "南江滨",
+                "py": "nanjiangbin"
+            },
+            {
+                "name": "浦上大道（金山万达）",
+                "py": "pushangdadaojinshanwanda"
+            },
+            {
+                "name": "榕城广场",
+                "py": "rongchengguangchang"
+            },
+            {
+                "name": "三叉街",
+                "py": "sanchajie"
+            },
+            {
+                "name": "首山路（师大）",
+                "py": "shoushanlushida"
+            },
+            {
+                "name": "烟台山",
+                "py": "yantaishan"
+            }
+        ]
+    },
+    {
+        "name": "闽侯县",
+        "py": "minhouxian",
+        "list": [
+            {
+                "name": "福州高新区",
+                "py": "fuzhougaoxinqu"
+            },
+            {
+                "name": "甘蔗",
+                "py": "ganzhe"
+            },
+            {
+                "name": "火车南站",
+                "py": "huochenanzhan1"
+            },
+            {
+                "name": "荆溪",
+                "py": "jingxi"
+            },
+            {
+                "name": "金山奥体",
+                "py": "jinshanaoti"
+            },
+            {
+                "name": "闽侯大学城",
+                "py": "minhoudaxuecheng"
+            },
+            {
+                "name": "南通",
+                "py": "nantong1"
+            },
+            {
+                "name": "南屿",
+                "py": "nanyu"
+            },
+            {
+                "name": "青口",
+                "py": "qingkou"
+            },
+            {
+                "name": "上街",
+                "py": "shangjie"
+            },
+            {
+                "name": "竹岐",
+                "py": "zhuqi"
+            }
+        ]
+    },
+    {
+        "name": "连江县",
+        "py": "lianjiangxian",
+        "list": [
+            {
+                "name": "贵安",
+                "py": "guian"
+            },
+            {
+                "name": "连江县",
+                "py": "lianjiangxian1"
+            }
+        ]
+    },
+    {
+        "name": "平潭县",
+        "py": "pingtanxian",
+        "list": [
+            {
+                "name": "福清市",
+                "py": "fuqingshi1"
+            },
+            {
+                "name": "平潭县",
+                "py": "pingtanxian1"
+            }
+        ]
+    },
+    {
+        "name": "福清市",
+        "py": "fuqingshi",
+        "list": [
+            {
+                "name": "滨海新区",
+                "py": "binhaixinqu1"
+            },
+            {
+                "name": "福清市",
+                "py": "fuqingshi1"
+            }
+        ]
+    },
+    {
+        "name": "长乐区",
+        "py": "changlequ1",
+        "list": [
+            {
+                "name": "滨海新区",
+                "py": "binhaixinqu1"
+            },
+            {
+                "name": "长乐城区",
+                "py": "changlechengqu"
+            },
+            {
+                "name": "待定中",
+                "py": "daidingzhong"
+            },
+            {
+                "name": "鹤上",
+                "py": "heshang"
+            },
+            {
+                "name": "金峰、漳港",
+                "py": "jinfengzhanggang"
+            },
+            {
+                "name": "首营新区",
+                "py": "shouyingxinqu"
+            }
+        ]
+    }
+]

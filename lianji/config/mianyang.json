@@ -1,0 +1,132 @@
+﻿[
+    {
+        "name": "涪城区",
+        "py": "fuchengqu",
+        "list": [
+            {
+                "name": "大都会",
+                "py": "daduhui"
+            },
+            {
+                "name": "丰谷",
+                "py": "fengguzhen"
+            },
+            {
+                "name": "涪城",
+                "py": "fucheng"
+            },
+            {
+                "name": "高水",
+                "py": "gaoshui"
+            },
+            {
+                "name": "高新",
+                "py": "gaoxin10"
+            },
+            {
+                "name": "国际城",
+                "py": "guojicheng"
+            },
+            {
+                "name": "火车站",
+                "py": "huochezhan7"
+            },
+            {
+                "name": "经开区",
+                "py": "jingkaiqu3"
+            },
+            {
+                "name": "科创园区",
+                "py": "kechuangyuanqu"
+            },
+            {
+                "name": "南河坝",
+                "py": "nanheba"
+            },
+            {
+                "name": "青义",
+                "py": "qingyi"
+            },
+            {
+                "name": "铁牛广场",
+                "py": "tieniuguangchang"
+            },
+            {
+                "name": "御营坝",
+                "py": "yuyingba"
+            },
+            {
+                "name": "1958",
+                "py": "1958"
+            }
+        ]
+    },
+    {
+        "name": "游仙区",
+        "py": "youxianqu",
+        "list": [
+            {
+                "name": "富乐山",
+                "py": "fuleshan"
+            },
+            {
+                "name": "芙蓉",
+                "py": "furong2"
+            },
+            {
+                "name": "科学城",
+                "py": "kexuecheng1"
+            },
+            {
+                "name": "青义",
+                "py": "qingyi"
+            },
+            {
+                "name": "游仙",
+                "py": "youxian2"
+            },
+            {
+                "name": "越王楼",
+                "py": "yuewanglou"
+            }
+        ]
+    },
+    {
+        "name": "安州区",
+        "py": "anzhouqu",
+        "list": [
+            {
+                "name": "安州",
+                "py": "anzhou"
+            },
+            {
+                "name": "青义",
+                "py": "qingyi"
+            }
+        ]
+    },
+    {
+        "name": "江油市",
+        "py": "jiangyoushi",
+        "list": [
+            {
+                "name": "江油",
+                "py": "jiangyou"
+            },
+            {
+                "name": "青义",
+                "py": "qingyi"
+            }
+        ]
+    },
+    {
+        "name": "三台县",
+        "py": "santaixian",
+        "list": [
+            {
+                "name": "三台",
+                "py": "santai"
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+﻿[
+    {
+        "name": "汉台区",
+        "py": "hantaiqu",
+        "list": [
+            {
+                "name": "城固县",
+                "py": "chengguxian1"
+            },
+            {
+                "name": "汉台区",
+                "py": "hantaiqu1"
+            },
+            {
+                "name": "留坝县",
+                "py": "liubaxian1"
+            },
+            {
+                "name": "勉县",
+                "py": "mianxian1"
+            },
+            {
+                "name": "南郑区",
+                "py": "nanzhengqu1"
+            }
+        ]
+    },
+    {
+        "name": "南郑区",
+        "py": "nanzhengqu",
+        "list": [
+            {
+                "name": "城固县",
+                "py": "chengguxian1"
+            },
+            {
+                "name": "汉台区",
+                "py": "hantaiqu1"
+            },
+            {
+                "name": "勉县",
+                "py": "mianxian1"
+            },
+            {
+                "name": "南郑区",
+                "py": "nanzhengqu1"
+            },
+            {
+                "name": "宁强县",
+                "py": "ningqiangxian1"
+            },
+            {
+                "name": "西乡县",
+                "py": "xixiangxian1"
+            }
+        ]
+    }
+]

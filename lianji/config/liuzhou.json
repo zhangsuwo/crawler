@@ -1,0 +1,606 @@
+﻿[
+    {
+        "name": "三江侗族自治县",
+        "py": "sanjiangdongzuzizhixian",
+        "list": [
+            {
+                "name": "融安县",
+                "py": "ronganxian1"
+            },
+            {
+                "name": "融水苗族自治县",
+                "py": "rongshuimiaozuzizhixian1"
+            },
+            {
+                "name": "三江侗族自治县",
+                "py": "sanjiangdongzuzizhixian1"
+            }
+        ]
+    },
+    {
+        "name": "城中区",
+        "py": "chengzhongqu2",
+        "list": [
+            {
+                "name": "步步高商圈",
+                "py": "bubugaoshangquan"
+            },
+            {
+                "name": "城中万达",
+                "py": "chengzhongwanda"
+            },
+            {
+                "name": "高新技术开发区",
+                "py": "gaoxinjishukaifaqu"
+            },
+            {
+                "name": "广雅商圈",
+                "py": "guangyashangquan"
+            },
+            {
+                "name": "桂中商圈",
+                "py": "guizhongshangquan"
+            },
+            {
+                "name": "河东开发区",
+                "py": "hedongkaifaqu"
+            },
+            {
+                "name": "恒大商圈",
+                "py": "hengdashangquan"
+            },
+            {
+                "name": "柳东新区",
+                "py": "liudongxinqu"
+            },
+            {
+                "name": "马鹿山商圈",
+                "py": "malushanshangquan"
+            },
+            {
+                "name": "青云商圈",
+                "py": "qingyunshangquan"
+            },
+            {
+                "name": "石尚1966",
+                "py": "shishang1966"
+            },
+            {
+                "name": "万象城商圈",
+                "py": "wanxiangchengshangquan"
+            },
+            {
+                "name": "五星商圈",
+                "py": "wuxingshangquan"
+            },
+            {
+                "name": "西江宾馆",
+                "py": "xijiangbinguan"
+            },
+            {
+                "name": "阳光100商圈",
+                "py": "yangguang100shangquan"
+            },
+            {
+                "name": "窑埠古镇",
+                "py": "yaobuguzhen"
+            },
+            {
+                "name": "鹧鸪江",
+                "py": "zhegujiang"
+            }
+        ]
+    },
+    {
+        "name": "柳北区",
+        "py": "liubeiqu",
+        "list": [
+            {
+                "name": "白露商圈",
+                "py": "bailoushangquan"
+            },
+            {
+                "name": "保利商圈",
+                "py": "baolishangquan"
+            },
+            {
+                "name": "步步高商圈",
+                "py": "bubugaoshangquan"
+            },
+            {
+                "name": "广雅商圈",
+                "py": "guangyashangquan"
+            },
+            {
+                "name": "桂景湾商圈",
+                "py": "guijingwanshangquan"
+            },
+            {
+                "name": "河西商圈",
+                "py": "hexishangquan"
+            },
+            {
+                "name": "黄村商圈",
+                "py": "huangcunshangquan"
+            },
+            {
+                "name": "柳北郊区",
+                "py": "liubeijiaoqu"
+            },
+            {
+                "name": "柳城县",
+                "py": "liuchengxian1"
+            },
+            {
+                "name": "柳东新区",
+                "py": "liudongxinqu"
+            },
+            {
+                "name": "柳钢商圈",
+                "py": "liugangshangquan"
+            },
+            {
+                "name": "三中商圈",
+                "py": "sanzhongshangquan"
+            },
+            {
+                "name": "胜利商圈",
+                "py": "shenglishangquan"
+            },
+            {
+                "name": "五星商圈",
+                "py": "wuxingshangquan"
+            },
+            {
+                "name": "杨柳郡商圈",
+                "py": "yangliujunshangquan"
+            },
+            {
+                "name": "雅儒商圈",
+                "py": "yarushangquan"
+            },
+            {
+                "name": "鹧鸪江",
+                "py": "zhegujiang"
+            }
+        ]
+    },
+    {
+        "name": "柳南区",
+        "py": "liunanqu",
+        "list": [
+            {
+                "name": "昌厦荣府",
+                "py": "changsharongfu"
+            },
+            {
+                "name": "城站路商圈",
+                "py": "chengzhanlushangquan"
+            },
+            {
+                "name": "都乐园商圈",
+                "py": "douleyuanshangquan"
+            },
+            {
+                "name": "鹅岗商圈",
+                "py": "egangshangquan"
+            },
+            {
+                "name": "飞鹅商圈",
+                "py": "feieshangquan"
+            },
+            {
+                "name": "革新路商圈",
+                "py": "gexinlushangquan"
+            },
+            {
+                "name": "谷埠街商圈",
+                "py": "gubujieshangquan"
+            },
+            {
+                "name": "航二路商圈",
+                "py": "hangerlushangquan"
+            },
+            {
+                "name": "航三路商圈",
+                "py": "hangsanlushangquan"
+            },
+            {
+                "name": "航四路商圈",
+                "py": "hangsilushangquan"
+            },
+            {
+                "name": "航五路商圈",
+                "py": "hangwulushangquan"
+            },
+            {
+                "name": "航一路商圈",
+                "py": "hangyilushangquan"
+            },
+            {
+                "name": "河西商圈",
+                "py": "hexishangquan"
+            },
+            {
+                "name": "基隆商圈",
+                "py": "jilongshangquan"
+            },
+            {
+                "name": "柳工商圈",
+                "py": "liugongshangquan"
+            },
+            {
+                "name": "柳江商圈",
+                "py": "liujiangshangquan"
+            },
+            {
+                "name": "柳江商业广场",
+                "py": "liujiangshangyeguangchang"
+            },
+            {
+                "name": "柳南万达",
+                "py": "liunanwanda"
+            },
+            {
+                "name": "柳邕路商圈",
+                "py": "liuyonglushangquan"
+            },
+            {
+                "name": "柳州动物园",
+                "py": "liuzhoudongwuyuan"
+            },
+            {
+                "name": "龙潭公园",
+                "py": "longtangongyuan"
+            },
+            {
+                "name": "磨滩商圈",
+                "py": "motanshangquan"
+            },
+            {
+                "name": "南环路商圈",
+                "py": "nanhuanlushangquan"
+            },
+            {
+                "name": "汽车总站",
+                "py": "qichezongzhan1"
+            },
+            {
+                "name": "荣和公园里",
+                "py": "ronghegongyuanli"
+            },
+            {
+                "name": "十一冶商圈",
+                "py": "shiyiyeshangquan"
+            },
+            {
+                "name": "沃尔玛商圈",
+                "py": "woermashangquan"
+            },
+            {
+                "name": "五菱商圈",
+                "py": "wulingshangquan"
+            },
+            {
+                "name": "西环商圈",
+                "py": "xihuanshangquan"
+            },
+            {
+                "name": "永前路商圈",
+                "py": "yongqianlushangquan"
+            }
+        ]
+    },
+    {
+        "name": "柳城县",
+        "py": "liuchengxian",
+        "list": [
+            {
+                "name": "柳城县",
+                "py": "liuchengxian1"
+            },
+            {
+                "name": "柳东新区",
+                "py": "liudongxinqu"
+            },
+            {
+                "name": "柳江商圈",
+                "py": "liujiangshangquan"
+            },
+            {
+                "name": "鹿寨县",
+                "py": "luzhaixian1"
+            },
+            {
+                "name": "融安县",
+                "py": "ronganxian1"
+            },
+            {
+                "name": "融水苗族自治县",
+                "py": "rongshuimiaozuzizhixian1"
+            },
+            {
+                "name": "鹧鸪江",
+                "py": "zhegujiang"
+            }
+        ]
+    },
+    {
+        "name": "柳江区",
+        "py": "liujiangqu",
+        "list": [
+            {
+                "name": "昌厦荣府",
+                "py": "changsharongfu"
+            },
+            {
+                "name": "都乐园商圈",
+                "py": "douleyuanshangquan"
+            },
+            {
+                "name": "革新路商圈",
+                "py": "gexinlushangquan"
+            },
+            {
+                "name": "航四路商圈",
+                "py": "hangsilushangquan"
+            },
+            {
+                "name": "航五路商圈",
+                "py": "hangwulushangquan"
+            },
+            {
+                "name": "河西商圈",
+                "py": "hexishangquan"
+            },
+            {
+                "name": "基隆商圈",
+                "py": "jilongshangquan"
+            },
+            {
+                "name": "柳城县",
+                "py": "liuchengxian1"
+            },
+            {
+                "name": "柳工商圈",
+                "py": "liugongshangquan"
+            },
+            {
+                "name": "柳江商圈",
+                "py": "liujiangshangquan"
+            },
+            {
+                "name": "柳江商业广场",
+                "py": "liujiangshangyeguangchang"
+            },
+            {
+                "name": "柳邕路商圈",
+                "py": "liuyonglushangquan"
+            },
+            {
+                "name": "柳州动物园",
+                "py": "liuzhoudongwuyuan"
+            },
+            {
+                "name": "鹿寨县",
+                "py": "luzhaixian1"
+            },
+            {
+                "name": "南环路商圈",
+                "py": "nanhuanlushangquan"
+            },
+            {
+                "name": "阳和商圈",
+                "py": "yangheshangquan"
+            },
+            {
+                "name": "颐华·雍和城",
+                "py": "yihuayonghecheng"
+            },
+            {
+                "name": "永前路商圈",
+                "py": "yongqianlushangquan"
+            }
+        ]
+    },
+    {
+        "name": "融安县",
+        "py": "ronganxian",
+        "list": [
+            {
+                "name": "柳城县",
+                "py": "liuchengxian1"
+            },
+            {
+                "name": "鹿寨县",
+                "py": "luzhaixian1"
+            },
+            {
+                "name": "融安县",
+                "py": "ronganxian1"
+            },
+            {
+                "name": "融水苗族自治县",
+                "py": "rongshuimiaozuzizhixian1"
+            },
+            {
+                "name": "三江侗族自治县",
+                "py": "sanjiangdongzuzizhixian1"
+            }
+        ]
+    },
+    {
+        "name": "融水苗族自治县",
+        "py": "rongshuimiaozuzizhixian",
+        "list": [
+            {
+                "name": "柳城县",
+                "py": "liuchengxian1"
+            },
+            {
+                "name": "融安县",
+                "py": "ronganxian1"
+            },
+            {
+                "name": "融水苗族自治县",
+                "py": "rongshuimiaozuzizhixian1"
+            },
+            {
+                "name": "三江侗族自治县",
+                "py": "sanjiangdongzuzizhixian1"
+            }
+        ]
+    },
+    {
+        "name": "鱼峰区",
+        "py": "yufengqu",
+        "list": [
+            {
+                "name": "八中",
+                "py": "bazhong"
+            },
+            {
+                "name": "大桥商圈",
+                "py": "daqiaoshangquan"
+            },
+            {
+                "name": "东环商厦",
+                "py": "donghuanshangsha"
+            },
+            {
+                "name": "都乐园商圈",
+                "py": "douleyuanshangquan"
+            },
+            {
+                "name": "谷埠街商圈",
+                "py": "gubujieshangquan"
+            },
+            {
+                "name": "古亭山商圈",
+                "py": "gutingshanshangquan"
+            },
+            {
+                "name": "航二路商圈",
+                "py": "hangerlushangquan"
+            },
+            {
+                "name": "恒大商圈",
+                "py": "hengdashangquan"
+            },
+            {
+                "name": "驾鹤商业街",
+                "py": "jiaheshangyejie"
+            },
+            {
+                "name": "箭盘山",
+                "py": "jianpanshan"
+            },
+            {
+                "name": "九头山",
+                "py": "jiutoushan"
+            },
+            {
+                "name": "柳城县",
+                "py": "liuchengxian1"
+            },
+            {
+                "name": "柳东新区",
+                "py": "liudongxinqu"
+            },
+            {
+                "name": "柳江商圈",
+                "py": "liujiangshangquan"
+            },
+            {
+                "name": "柳南万达",
+                "py": "liunanwanda"
+            },
+            {
+                "name": "柳石商圈",
+                "py": "liushishangquan"
+            },
+            {
+                "name": "柳州动物园",
+                "py": "liuzhoudongwuyuan"
+            },
+            {
+                "name": "龙潭公园",
+                "py": "longtangongyuan"
+            },
+            {
+                "name": "鹿寨县",
+                "py": "luzhaixian1"
+            },
+            {
+                "name": "南环路商圈",
+                "py": "nanhuanlushangquan"
+            },
+            {
+                "name": "汽车总站",
+                "py": "qichezongzhan1"
+            },
+            {
+                "name": "石尚1966",
+                "py": "shishang1966"
+            },
+            {
+                "name": "万象城商圈",
+                "py": "wanxiangchengshangquan"
+            },
+            {
+                "name": "西江宾馆",
+                "py": "xijiangbinguan"
+            },
+            {
+                "name": "阳光100商圈",
+                "py": "yangguang100shangquan"
+            },
+            {
+                "name": "阳和商圈",
+                "py": "yangheshangquan"
+            },
+            {
+                "name": "窑埠古镇",
+                "py": "yaobuguzhen"
+            },
+            {
+                "name": "颐华·雍和城",
+                "py": "yihuayonghecheng"
+            },
+            {
+                "name": "银泰城",
+                "py": "yintaicheng"
+            }
+        ]
+    },
+    {
+        "name": "鹿寨县",
+        "py": "luzhaixian",
+        "list": [
+            {
+                "name": "柳城县",
+                "py": "liuchengxian1"
+            },
+            {
+                "name": "柳东新区",
+                "py": "liudongxinqu"
+            },
+            {
+                "name": "柳江商圈",
+                "py": "liujiangshangquan"
+            },
+            {
+                "name": "鹿寨县",
+                "py": "luzhaixian1"
+            },
+            {
+                "name": "融安县",
+                "py": "ronganxian1"
+            },
+            {
+                "name": "阳和商圈",
+                "py": "yangheshangquan"
+            }
+        ]
+    }
+]

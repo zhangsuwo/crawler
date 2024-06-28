@@ -1,0 +1,476 @@
+﻿[
+    {
+        "name": "东河区",
+        "py": "donghequ",
+        "list": [
+            {
+                "name": "包头东站",
+                "py": "baotoudongzhan"
+            },
+            {
+                "name": "包头市政府",
+                "py": "baotoushizhengfu"
+            },
+            {
+                "name": "北梁新区",
+                "py": "beiliangxinqu"
+            },
+            {
+                "name": "长途汽车站",
+                "py": "changtuqichezhan1"
+            },
+            {
+                "name": "大红门",
+                "py": "dahongmen1"
+            },
+            {
+                "name": "东大桥",
+                "py": "dongdaqiao1"
+            },
+            {
+                "name": "东河区",
+                "py": "donghequ1"
+            },
+            {
+                "name": "豪德",
+                "py": "haode"
+            },
+            {
+                "name": "恒大",
+                "py": "hengda1"
+            },
+            {
+                "name": "环城路",
+                "py": "huanchenglu"
+            },
+            {
+                "name": "龙苑",
+                "py": "longyuan"
+            },
+            {
+                "name": "铝厂",
+                "py": "lvchang"
+            },
+            {
+                "name": "蒙中医院",
+                "py": "mengzhongyiyuan"
+            },
+            {
+                "name": "名人鞋城",
+                "py": "mingrenxiecheng"
+            },
+            {
+                "name": "摩尔城",
+                "py": "moercheng"
+            },
+            {
+                "name": "南圪洞",
+                "py": "nangedong"
+            },
+            {
+                "name": "南海",
+                "py": "nanhai1"
+            },
+            {
+                "name": "乔家金街",
+                "py": "qiaojiajinjie"
+            },
+            {
+                "name": "人民公园",
+                "py": "renmingongyuan7"
+            },
+            {
+                "name": "融茂",
+                "py": "rongmao"
+            },
+            {
+                "name": "沙河街",
+                "py": "shahejie"
+            },
+            {
+                "name": "铁西",
+                "py": "tiexi4"
+            },
+            {
+                "name": "通顺",
+                "py": "tongshun"
+            },
+            {
+                "name": "维多利",
+                "py": "weiduoli"
+            },
+            {
+                "name": "西脑包",
+                "py": "xinaobao"
+            }
+        ]
+    },
+    {
+        "name": "石拐区",
+        "py": "shiguaiqu",
+        "list": [
+            {
+                "name": "石拐区",
+                "py": "shiguaiqu1"
+            }
+        ]
+    },
+    {
+        "name": "青山区",
+        "py": "qingshanqu",
+        "list": [
+            {
+                "name": "106小商品城",
+                "py": "106xiaoshangpincheng"
+            },
+            {
+                "name": "阿尔丁植物园",
+                "py": "aerdingzhiwuyuan"
+            },
+            {
+                "name": "保利",
+                "py": "baoli"
+            },
+            {
+                "name": "包头乐园",
+                "py": "baotouleyuan"
+            },
+            {
+                "name": "包头市政府",
+                "py": "baotoushizhengfu"
+            },
+            {
+                "name": "大连新型居住区",
+                "py": "dalianxinxingjuzhuqu"
+            },
+            {
+                "name": "二机二中双学区",
+                "py": "erjierzhongshuangxuequ"
+            },
+            {
+                "name": "二机一中",
+                "py": "erjiyizhong"
+            },
+            {
+                "name": "恒大",
+                "py": "hengda1"
+            },
+            {
+                "name": "甲尔坝商圈",
+                "py": "jiaerbashangquan"
+            },
+            {
+                "name": "锦林公园",
+                "py": "jinlingongyuan"
+            },
+            {
+                "name": "九星",
+                "py": "jiuxing"
+            },
+            {
+                "name": "口岸花园",
+                "py": "kouanhuayuan"
+            },
+            {
+                "name": "劳动公园",
+                "py": "laodonggongyuan"
+            },
+            {
+                "name": "鹿港小镇",
+                "py": "lugangxiaozhen"
+            },
+            {
+                "name": "民主路",
+                "py": "minzhulu"
+            },
+            {
+                "name": "南开小学",
+                "py": "nankaixiaoxue"
+            },
+            {
+                "name": "娜琳",
+                "py": "nuolin"
+            },
+            {
+                "name": "四角",
+                "py": "sijiao"
+            },
+            {
+                "name": "万达",
+                "py": "wanda16"
+            },
+            {
+                "name": "万郡",
+                "py": "wanjun"
+            },
+            {
+                "name": "五一市场",
+                "py": "wuyishichang"
+            },
+            {
+                "name": "一号公馆",
+                "py": "yihaogongguan"
+            },
+            {
+                "name": "友谊广场",
+                "py": "youyiguangchang"
+            },
+            {
+                "name": "中建御澜世家",
+                "py": "zhongjianyulanshijia"
+            }
+        ]
+    },
+    {
+        "name": "九原区",
+        "py": "jiuyuanqu",
+        "list": [
+            {
+                "name": "包头市政府",
+                "py": "baotoushizhengfu"
+            },
+            {
+                "name": "包头站",
+                "py": "baotouzhan"
+            },
+            {
+                "name": "车管所",
+                "py": "cheguansuo"
+            },
+            {
+                "name": "豪德",
+                "py": "haode"
+            },
+            {
+                "name": "恒大",
+                "py": "hengda1"
+            },
+            {
+                "name": "九原区",
+                "py": "jiuyuanqu1"
+            },
+            {
+                "name": "九原万达",
+                "py": "jiuyuanwanda"
+            },
+            {
+                "name": "龙苑",
+                "py": "longyuan"
+            },
+            {
+                "name": "融茂",
+                "py": "rongmao"
+            },
+            {
+                "name": "沙河街",
+                "py": "shahejie"
+            },
+            {
+                "name": "石拐区",
+                "py": "shiguaiqu1"
+            }
+        ]
+    },
+    {
+        "name": "白云鄂博矿区",
+        "py": "baiyunebokuangqu",
+        "list": [
+            {
+                "name": "白云鄂博矿区",
+                "py": "baiyunebokuangqu1"
+            },
+            {
+                "name": "达尔罕茂明安联合旗",
+                "py": "daerhanmaominganlianheqi1"
+            }
+        ]
+    },
+    {
+        "name": "昆都仑区",
+        "py": "kundoulunqu",
+        "list": [
+            {
+                "name": "106小商品城",
+                "py": "106xiaoshangpincheng"
+            },
+            {
+                "name": "阿尔丁植物园",
+                "py": "aerdingzhiwuyuan"
+            },
+            {
+                "name": "包百",
+                "py": "baobai"
+            },
+            {
+                "name": "包二十九中",
+                "py": "baoershijiuzhong"
+            },
+            {
+                "name": "包钢设计院",
+                "py": "baogangshejiyuan"
+            },
+            {
+                "name": "包三十五中",
+                "py": "baosanshiwuzhong"
+            },
+            {
+                "name": "包头乐园",
+                "py": "baotouleyuan"
+            },
+            {
+                "name": "包头站",
+                "py": "baotouzhan"
+            },
+            {
+                "name": "八一公园",
+                "py": "bayigongyuan1"
+            },
+            {
+                "name": "东亚",
+                "py": "dongya"
+            },
+            {
+                "name": "二旅社",
+                "py": "erlvshe"
+            },
+            {
+                "name": "钢三小",
+                "py": "gangsanxiao"
+            },
+            {
+                "name": "钢四小",
+                "py": "gangsixiao"
+            },
+            {
+                "name": "广汇",
+                "py": "guanghui"
+            },
+            {
+                "name": "固阳县",
+                "py": "guyangxian1"
+            },
+            {
+                "name": "海威小区",
+                "py": "haiweixiaoqu"
+            },
+            {
+                "name": "和平村",
+                "py": "hepingcun"
+            },
+            {
+                "name": "甲尔坝",
+                "py": "jiaerba"
+            },
+            {
+                "name": "锦林公园",
+                "py": "jinlingongyuan"
+            },
+            {
+                "name": "昆区华联",
+                "py": "kunquhualian"
+            },
+            {
+                "name": "内蒙古科技大学",
+                "py": "neimenggukejidaxue"
+            },
+            {
+                "name": "恰特",
+                "py": "qiate"
+            },
+            {
+                "name": "青山区",
+                "py": "qingshanqu1"
+            },
+            {
+                "name": "团结大街",
+                "py": "tuanjiedajie"
+            },
+            {
+                "name": "土默特右旗",
+                "py": "tumoteyouqi1"
+            },
+            {
+                "name": "万达",
+                "py": "wanda16"
+            },
+            {
+                "name": "友谊广场",
+                "py": "youyiguangchang"
+            },
+            {
+                "name": "中建御澜世家",
+                "py": "zhongjianyulanshijia"
+            }
+        ]
+    },
+    {
+        "name": "土默特右旗",
+        "py": "tumoteyouqi",
+        "list": [
+            {
+                "name": "石拐区",
+                "py": "shiguaiqu1"
+            }
+        ]
+    },
+    {
+        "name": "达尔罕茂明安联合旗",
+        "py": "daerhanmaominganlianheqi",
+        "list": [
+            {
+                "name": "白云鄂博矿区",
+                "py": "baiyunebokuangqu1"
+            },
+            {
+                "name": "达尔罕茂明安联合旗",
+                "py": "daerhanmaominganlianheqi1"
+            }
+        ]
+    },
+    {
+        "name": "固阳县",
+        "py": "guyangxian",
+        "list": [
+            {
+                "name": "达尔罕茂明安联合旗",
+                "py": "daerhanmaominganlianheqi1"
+            },
+            {
+                "name": "石拐区",
+                "py": "shiguaiqu1"
+            }
+        ]
+    },
+    {
+        "name": "稀土高新区",
+        "py": "xitugaoxinqu",
+        "list": [
+            {
+                "name": "鹿港小镇",
+                "py": "lugangxiaozhen"
+            },
+            {
+                "name": "南开小学",
+                "py": "nankaixiaoxue"
+            },
+            {
+                "name": "一号公馆",
+                "py": "yihaogongguan"
+            },
+            {
+                "name": "中建御澜世家",
+                "py": "zhongjianyulanshijia"
+            }
+        ]
+    },
+    {
+        "name": "滨河新区",
+        "py": "binhexinqu",
+        "list": [
+            {
+                "name": "民馨家园",
+                "py": "minxinjiayuan"
+            }
+        ]
+    }
+]

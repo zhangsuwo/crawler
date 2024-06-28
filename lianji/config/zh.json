@@ -1,0 +1,160 @@
+﻿[
+    {
+        "name": "高新区",
+        "py": "gaoxinqu21",
+        "list": [
+            {
+                "name": "老香洲",
+                "py": "laoxiangzhou"
+            },
+            {
+                "name": "唐家湾镇",
+                "py": "tangjiawanzhen"
+            }
+        ]
+    },
+    {
+        "name": "横琴区",
+        "py": "hengqinqu",
+        "list": [
+            {
+                "name": "横琴",
+                "py": "hengqin"
+            }
+        ]
+    },
+    {
+        "name": "香洲区",
+        "py": "xiangzhouqu",
+        "list": [
+            {
+                "name": "翠微",
+                "py": "cuiwei"
+            },
+            {
+                "name": "拱北",
+                "py": "gongbei1"
+            },
+            {
+                "name": "洪湾",
+                "py": "hongwan"
+            },
+            {
+                "name": "吉大",
+                "py": "jida"
+            },
+            {
+                "name": "兰埔",
+                "py": "lanpu"
+            },
+            {
+                "name": "老香洲",
+                "py": "laoxiangzhou"
+            },
+            {
+                "name": "南屏",
+                "py": "nanping1"
+            },
+            {
+                "name": "南湾",
+                "py": "nanwan"
+            },
+            {
+                "name": "柠溪",
+                "py": "ningxi"
+            },
+            {
+                "name": "前山",
+                "py": "qianshan"
+            },
+            {
+                "name": "上冲",
+                "py": "shangchong"
+            },
+            {
+                "name": "唐家湾镇",
+                "py": "tangjiawanzhen"
+            },
+            {
+                "name": "湾仔",
+                "py": "wanzai"
+            },
+            {
+                "name": "夏湾",
+                "py": "xiawan"
+            },
+            {
+                "name": "新香洲",
+                "py": "xinxiangzhou"
+            }
+        ]
+    },
+    {
+        "name": "金湾区",
+        "py": "jinwanqu",
+        "list": [
+            {
+                "name": "航空新城",
+                "py": "hangkongxincheng"
+            },
+            {
+                "name": "红旗镇",
+                "py": "hongqizhen"
+            },
+            {
+                "name": "井岸镇",
+                "py": "jinganzhen"
+            },
+            {
+                "name": "南水镇",
+                "py": "nanshuizhen"
+            },
+            {
+                "name": "平沙镇",
+                "py": "pingshazhen"
+            },
+            {
+                "name": "三灶镇",
+                "py": "sanzaozhen"
+            }
+        ]
+    },
+    {
+        "name": "斗门区",
+        "py": "doumenqu",
+        "list": [
+            {
+                "name": "白蕉镇",
+                "py": "baiqiaozhen"
+            },
+            {
+                "name": "白藤头",
+                "py": "baitengtou"
+            },
+            {
+                "name": "斗门镇",
+                "py": "doumenzhen"
+            },
+            {
+                "name": "红旗镇",
+                "py": "hongqizhen"
+            },
+            {
+                "name": "井岸镇",
+                "py": "jinganzhen"
+            },
+            {
+                "name": "平沙镇",
+                "py": "pingshazhen"
+            },
+            {
+                "name": "乾务镇",
+                "py": "qianwuzhen"
+            },
+            {
+                "name": "五山镇",
+                "py": "wushanzhen"
+            }
+        ]
+    }
+]

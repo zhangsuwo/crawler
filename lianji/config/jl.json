@@ -1,0 +1,428 @@
+﻿[
+    {
+        "name": "丰满区",
+        "py": "fengmanqu",
+        "list": [
+            {
+                "name": "八一",
+                "py": "bayi1"
+            },
+            {
+                "name": "二手车市场",
+                "py": "ershoucheshichang"
+            },
+            {
+                "name": "烽火丰满一实验",
+                "py": "fenghuofengmanyishiyan"
+            },
+            {
+                "name": "丰满二实验",
+                "py": "fengmanershiyan"
+            },
+            {
+                "name": "桦甸市",
+                "py": "huadianshi1"
+            },
+            {
+                "name": "蛟河市",
+                "py": "jiaoheshi1"
+            },
+            {
+                "name": "欧亚综合体",
+                "py": "ouyazongheti"
+            },
+            {
+                "name": "世纪广场",
+                "py": "shijiguangchang"
+            },
+            {
+                "name": "四合",
+                "py": "sihe1"
+            },
+            {
+                "name": "松花江中学",
+                "py": "songhuajiangzhongxue"
+            },
+            {
+                "name": "苏宁",
+                "py": "suning"
+            },
+            {
+                "name": "万科城",
+                "py": "wankecheng1"
+            },
+            {
+                "name": "厦门街",
+                "py": "xiamenjie"
+            },
+            {
+                "name": "星光江城",
+                "py": "xingguangjiangcheng"
+            },
+            {
+                "name": "永吉县",
+                "py": "yongjixian1"
+            },
+            {
+                "name": "中海",
+                "py": "zhonghai1"
+            }
+        ]
+    },
+    {
+        "name": "船营区",
+        "py": "chuanyingqu",
+        "list": [
+            {
+                "name": "白桦林家温泉",
+                "py": "baihualinjiawenquan"
+            },
+            {
+                "name": "北极街",
+                "py": "beijijie"
+            },
+            {
+                "name": "北京路",
+                "py": "beijinglu1"
+            },
+            {
+                "name": "北山",
+                "py": "beishan"
+            },
+            {
+                "name": "财富广场",
+                "py": "caifuguangchang1"
+            },
+            {
+                "name": "长春路",
+                "py": "changchunlu"
+            },
+            {
+                "name": "大东门",
+                "py": "dadongmen"
+            },
+            {
+                "name": "大润发四店",
+                "py": "darunfasidian"
+            },
+            {
+                "name": "东北电力",
+                "py": "dongbeidianli"
+            },
+            {
+                "name": "独立路",
+                "py": "dulilu"
+            },
+            {
+                "name": "冯家屯",
+                "py": "fengjiatun"
+            },
+            {
+                "name": "红星美凯龙",
+                "py": "hongxingmeikailong1"
+            },
+            {
+                "name": "华南",
+                "py": "huanan2"
+            },
+            {
+                "name": "黄旗屯",
+                "py": "huangqitun"
+            },
+            {
+                "name": "珲春中街",
+                "py": "hunchunzhongjie"
+            },
+            {
+                "name": "江城广场",
+                "py": "jiangchengguangchang"
+            },
+            {
+                "name": "吉林一中",
+                "py": "jilinyizhong"
+            },
+            {
+                "name": "农林街",
+                "py": "nonglinjie"
+            },
+            {
+                "name": "水门洞",
+                "py": "shuimendong"
+            },
+            {
+                "name": "松北",
+                "py": "songbei1"
+            },
+            {
+                "name": "桃源路",
+                "py": "taoyuanlu"
+            },
+            {
+                "name": "雾凇中路",
+                "py": "wusongzhonglu"
+            },
+            {
+                "name": "五中",
+                "py": "wuzhong1"
+            },
+            {
+                "name": "西安路",
+                "py": "xianlu1"
+            },
+            {
+                "name": "永吉县",
+                "py": "yongjixian1"
+            },
+            {
+                "name": "中东",
+                "py": "zhongdong"
+            },
+            {
+                "name": "中东客运站",
+                "py": "zhongdongkeyunzhan"
+            }
+        ]
+    },
+    {
+        "name": "昌邑区",
+        "py": "changyiqu",
+        "list": [
+            {
+                "name": "白桦林家温泉",
+                "py": "baihualinjiawenquan"
+            },
+            {
+                "name": "八家子早市",
+                "py": "bajiazizaoshi"
+            },
+            {
+                "name": "财富广场",
+                "py": "caifuguangchang1"
+            },
+            {
+                "name": "昌邑公安分局",
+                "py": "changyigonganfenju"
+            },
+            {
+                "name": "昌邑区政府",
+                "py": "changyiquzhengfu"
+            },
+            {
+                "name": "大润发二店",
+                "py": "darunfaerdian"
+            },
+            {
+                "name": "大润发四店",
+                "py": "darunfasidian"
+            },
+            {
+                "name": "东市场",
+                "py": "dongshichang"
+            },
+            {
+                "name": "二道江",
+                "py": "erdaojiang"
+            },
+            {
+                "name": "果窖",
+                "py": "guojiao"
+            },
+            {
+                "name": "哈达湾",
+                "py": "hadawan"
+            },
+            {
+                "name": "和平街",
+                "py": "hepingjie"
+            },
+            {
+                "name": "火车站东广场",
+                "py": "huochezhandongguangchang"
+            },
+            {
+                "name": "江城广场",
+                "py": "jiangchengguangchang"
+            },
+            {
+                "name": "江湾路",
+                "py": "jiangwanlu"
+            },
+            {
+                "name": "解放北路",
+                "py": "jiefangbeilu"
+            },
+            {
+                "name": "十一中",
+                "py": "shiyizhong2"
+            },
+            {
+                "name": "松江",
+                "py": "songjiang1"
+            },
+            {
+                "name": "桃源路",
+                "py": "taoyuanlu"
+            },
+            {
+                "name": "天津街",
+                "py": "tianjinjie"
+            },
+            {
+                "name": "土城子",
+                "py": "tuchengzi"
+            },
+            {
+                "name": "万达广场",
+                "py": "wandaguangchang6"
+            },
+            {
+                "name": "万达江畔",
+                "py": "wandajiangpan"
+            },
+            {
+                "name": "雾凇中路",
+                "py": "wusongzhonglu"
+            },
+            {
+                "name": "五中",
+                "py": "wuzhong1"
+            },
+            {
+                "name": "新建北",
+                "py": "xinjianbei"
+            },
+            {
+                "name": "中东客运站",
+                "py": "zhongdongkeyunzhan"
+            }
+        ]
+    },
+    {
+        "name": "龙潭区",
+        "py": "longtanqu",
+        "list": [
+            {
+                "name": "白桦林家温泉",
+                "py": "baihualinjiawenquan"
+            },
+            {
+                "name": "荒山",
+                "py": "huangshan"
+            },
+            {
+                "name": "蛟河市",
+                "py": "jiaoheshi1"
+            },
+            {
+                "name": "龙东",
+                "py": "longdong1"
+            },
+            {
+                "name": "青林街",
+                "py": "qinglinjie"
+            },
+            {
+                "name": "舒兰市",
+                "py": "shulanshi1"
+            },
+            {
+                "name": "铁东",
+                "py": "tiedong1"
+            },
+            {
+                "name": "土城子",
+                "py": "tuchengzi"
+            }
+        ]
+    },
+    {
+        "name": "桦甸市",
+        "py": "huadianshi",
+        "list": [
+            {
+                "name": "桦甸市",
+                "py": "huadianshi1"
+            },
+            {
+                "name": "蛟河市",
+                "py": "jiaoheshi1"
+            },
+            {
+                "name": "磐石市",
+                "py": "panshishi1"
+            },
+            {
+                "name": "永吉县",
+                "py": "yongjixian1"
+            }
+        ]
+    },
+    {
+        "name": "永吉县",
+        "py": "yongjixian",
+        "list": [
+            {
+                "name": "桦甸市",
+                "py": "huadianshi1"
+            },
+            {
+                "name": "磐石市",
+                "py": "panshishi1"
+            },
+            {
+                "name": "永吉县",
+                "py": "yongjixian1"
+            }
+        ]
+    },
+    {
+        "name": "磐石市",
+        "py": "panshishi",
+        "list": [
+            {
+                "name": "桦甸市",
+                "py": "huadianshi1"
+            },
+            {
+                "name": "磐石市",
+                "py": "panshishi1"
+            },
+            {
+                "name": "永吉县",
+                "py": "yongjixian1"
+            }
+        ]
+    },
+    {
+        "name": "舒兰市",
+        "py": "shulanshi",
+        "list": [
+            {
+                "name": "蛟河市",
+                "py": "jiaoheshi1"
+            },
+            {
+                "name": "舒兰市",
+                "py": "shulanshi1"
+            }
+        ]
+    },
+    {
+        "name": "蛟河市",
+        "py": "jiaoheshi",
+        "list": [
+            {
+                "name": "桦甸市",
+                "py": "huadianshi1"
+            },
+            {
+                "name": "蛟河市",
+                "py": "jiaoheshi1"
+            },
+            {
+                "name": "舒兰市",
+                "py": "shulanshi1"
+            }
+        ]
+    }
+]

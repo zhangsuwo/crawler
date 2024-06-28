@@ -1,0 +1,348 @@
+﻿[
+    {
+        "name": "龙亭区",
+        "py": "longtingqu",
+        "list": [
+            {
+                "name": "北站商圈",
+                "py": "beizhanshangquan"
+            },
+            {
+                "name": "CBD商圈",
+                "py": "cbdshangquan"
+            },
+            {
+                "name": "大王屯商圈",
+                "py": "daiwangtunshangquan"
+            },
+            {
+                "name": "鼎立商圈",
+                "py": "dinglishangquan"
+            },
+            {
+                "name": "东信商圈",
+                "py": "dongxinshangquan"
+            },
+            {
+                "name": "橄榄城商圈",
+                "py": "ganlanchengshangquan"
+            },
+            {
+                "name": "鼓楼区",
+                "py": "gulouqu7"
+            },
+            {
+                "name": "火车站商圈",
+                "py": "huochezhanshangquan1"
+            },
+            {
+                "name": "集英街商圈",
+                "py": "jiyingjieshangquan"
+            },
+            {
+                "name": "开大商圈",
+                "py": "kaidashangquan"
+            },
+            {
+                "name": "开元商圈",
+                "py": "kaiyuanshangquan"
+            },
+            {
+                "name": "龙亭区",
+                "py": "longtingqu1"
+            },
+            {
+                "name": "龙亭商圈",
+                "py": "longtingshangquan"
+            },
+            {
+                "name": "青年城商圈",
+                "py": "qingnianchengshangquan"
+            },
+            {
+                "name": "杞县",
+                "py": "qixian4"
+            },
+            {
+                "name": "世纪商圈",
+                "py": "shijishangquan"
+            },
+            {
+                "name": "市政府商圈",
+                "py": "shizhengfushangquan"
+            },
+            {
+                "name": "顺河区",
+                "py": "shunhequ"
+            },
+            {
+                "name": "顺河商圈",
+                "py": "shunheshangquan"
+            },
+            {
+                "name": "四季城商圈",
+                "py": "sijichengshangquan"
+            },
+            {
+                "name": "铁塔商圈",
+                "py": "tietashangquan"
+            },
+            {
+                "name": "通许县",
+                "py": "tongxuxian1"
+            },
+            {
+                "name": "万达商圈",
+                "py": "wandashangquan3"
+            },
+            {
+                "name": "尉氏县",
+                "py": "weishixian1"
+            },
+            {
+                "name": "祥符区",
+                "py": "xiangfuqu1"
+            },
+            {
+                "name": "祥符商圈",
+                "py": "xiangfushangquan"
+            },
+            {
+                "name": "相国寺商圈",
+                "py": "xiangguosishangquan"
+            },
+            {
+                "name": "西湖商圈",
+                "py": "xihushangquan"
+            },
+            {
+                "name": "禹王台区",
+                "py": "yuwangtaiqu1"
+            }
+        ]
+    },
+    {
+        "name": "杞县",
+        "py": "qixian3",
+        "list": [
+            {
+                "name": "兰考商圈",
+                "py": "lankaoshangquan"
+            },
+            {
+                "name": "兰考县",
+                "py": "lankaoxian1"
+            },
+            {
+                "name": "通许商圈",
+                "py": "tongxushangquan"
+            },
+            {
+                "name": "祥符区",
+                "py": "xiangfuqu1"
+            }
+        ]
+    },
+    {
+        "name": "兰考县",
+        "py": "lankaoxian",
+        "list": [
+            {
+                "name": "兰考商圈",
+                "py": "lankaoshangquan"
+            },
+            {
+                "name": "兰考县",
+                "py": "lankaoxian1"
+            },
+            {
+                "name": "祥符区",
+                "py": "xiangfuqu1"
+            }
+        ]
+    },
+    {
+        "name": "通许县",
+        "py": "tongxuxian",
+        "list": [
+            {
+                "name": "通许商圈",
+                "py": "tongxushangquan"
+            },
+            {
+                "name": "祥符区",
+                "py": "xiangfuqu1"
+            }
+        ]
+    },
+    {
+        "name": "祥符区",
+        "py": "xiangfuqu",
+        "list": [
+            {
+                "name": "CBD商圈",
+                "py": "cbdshangquan"
+            },
+            {
+                "name": "东信商圈",
+                "py": "dongxinshangquan"
+            },
+            {
+                "name": "橄榄城商圈",
+                "py": "ganlanchengshangquan"
+            },
+            {
+                "name": "兰考商圈",
+                "py": "lankaoshangquan"
+            },
+            {
+                "name": "兰考县",
+                "py": "lankaoxian1"
+            },
+            {
+                "name": "世纪商圈",
+                "py": "shijishangquan"
+            },
+            {
+                "name": "通许商圈",
+                "py": "tongxushangquan"
+            },
+            {
+                "name": "万达商圈",
+                "py": "wandashangquan3"
+            },
+            {
+                "name": "祥符区",
+                "py": "xiangfuqu1"
+            },
+            {
+                "name": "祥符商圈",
+                "py": "xiangfushangquan"
+            }
+        ]
+    },
+    {
+        "name": "尉氏县",
+        "py": "weishixian",
+        "list": [
+            {
+                "name": "通许商圈",
+                "py": "tongxushangquan"
+            },
+            {
+                "name": "祥符区",
+                "py": "xiangfuqu1"
+            }
+        ]
+    },
+    {
+        "name": "鼓楼区",
+        "py": "gulouqu6",
+        "list": [
+            {
+                "name": "大王屯商圈",
+                "py": "daiwangtunshangquan"
+            },
+            {
+                "name": "鼎立商圈",
+                "py": "dinglishangquan"
+            },
+            {
+                "name": "橄榄城商圈",
+                "py": "ganlanchengshangquan"
+            },
+            {
+                "name": "海洋馆商圈",
+                "py": "haiyangguanshangquan"
+            },
+            {
+                "name": "火车站商圈",
+                "py": "huochezhanshangquan1"
+            },
+            {
+                "name": "龙亭商圈",
+                "py": "longtingshangquan"
+            },
+            {
+                "name": "市政府商圈",
+                "py": "shizhengfushangquan"
+            },
+            {
+                "name": "相国寺商圈",
+                "py": "xiangguosishangquan"
+            }
+        ]
+    },
+    {
+        "name": "顺河区",
+        "py": "shunhequ1",
+        "list": [
+            {
+                "name": "东信商圈",
+                "py": "dongxinshangquan"
+            },
+            {
+                "name": "橄榄城商圈",
+                "py": "ganlanchengshangquan"
+            },
+            {
+                "name": "海洋馆商圈",
+                "py": "haiyangguanshangquan"
+            },
+            {
+                "name": "火车站商圈",
+                "py": "huochezhanshangquan1"
+            },
+            {
+                "name": "龙亭商圈",
+                "py": "longtingshangquan"
+            },
+            {
+                "name": "顺河商圈",
+                "py": "shunheshangquan"
+            },
+            {
+                "name": "四季城商圈",
+                "py": "sijichengshangquan"
+            },
+            {
+                "name": "铁塔商圈",
+                "py": "tietashangquan"
+            },
+            {
+                "name": "祥符商圈",
+                "py": "xiangfushangquan"
+            },
+            {
+                "name": "相国寺商圈",
+                "py": "xiangguosishangquan"
+            }
+        ]
+    },
+    {
+        "name": "禹王台区",
+        "py": "yuwangtaiqu",
+        "list": [
+            {
+                "name": "大王屯商圈",
+                "py": "daiwangtunshangquan"
+            },
+            {
+                "name": "橄榄城商圈",
+                "py": "ganlanchengshangquan"
+            },
+            {
+                "name": "火车站商圈",
+                "py": "huochezhanshangquan1"
+            },
+            {
+                "name": "祥符商圈",
+                "py": "xiangfushangquan"
+            },
+            {
+                "name": "相国寺商圈",
+                "py": "xiangguosishangquan"
+            }
+        ]
+    }
+]

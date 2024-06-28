@@ -1,0 +1,146 @@
+﻿[
+    {
+        "name": "西塞山区",
+        "py": "xisaishanqu",
+        "list": [
+            {
+                "name": "八卦嘴",
+                "py": "baguazui"
+            },
+            {
+                "name": "上窑",
+                "py": "shangyao"
+            },
+            {
+                "name": "团城山",
+                "py": "tuanchengshan"
+            },
+            {
+                "name": "武商",
+                "py": "wushang"
+            },
+            {
+                "name": "下陆区",
+                "py": "xialuqu1"
+            },
+            {
+                "name": "西塞山区",
+                "py": "xisaishanqu1"
+            },
+            {
+                "name": "阳新县",
+                "py": "yangxinxian3"
+            },
+            {
+                "name": "中窑",
+                "py": "zhongyao"
+            }
+        ]
+    },
+    {
+        "name": "黄石港区",
+        "py": "huangshigangqu",
+        "list": [
+            {
+                "name": "八卦嘴",
+                "py": "baguazui"
+            },
+            {
+                "name": "花湖",
+                "py": "huahu"
+            },
+            {
+                "name": "黄石港区",
+                "py": "huangshigangqu1"
+            },
+            {
+                "name": "楠竹林",
+                "py": "nanzhulin"
+            },
+            {
+                "name": "沈家营",
+                "py": "shenjiaying"
+            },
+            {
+                "name": "市中心",
+                "py": "shizhongxin"
+            },
+            {
+                "name": "团城山",
+                "py": "tuanchengshan"
+            },
+            {
+                "name": "万达",
+                "py": "wanda4"
+            },
+            {
+                "name": "武商",
+                "py": "wushang"
+            }
+        ]
+    },
+    {
+        "name": "阳新县",
+        "py": "yangxinxian2",
+        "list": [
+            {
+                "name": "阳新县",
+                "py": "yangxinxian3"
+            }
+        ]
+    },
+    {
+        "name": "铁山区",
+        "py": "tieshanqu",
+        "list": [
+            {
+                "name": "铁山区",
+                "py": "tieshanqu1"
+            }
+        ]
+    },
+    {
+        "name": "下陆区",
+        "py": "xialuqu",
+        "list": [
+            {
+                "name": "老下陆",
+                "py": "laoxialu"
+            },
+            {
+                "name": "团城山",
+                "py": "tuanchengshan"
+            },
+            {
+                "name": "新下陆",
+                "py": "xinxialu"
+            }
+        ]
+    },
+    {
+        "name": "大冶市",
+        "py": "dayeshi",
+        "list": [
+            {
+                "name": "大冶市",
+                "py": "dayeshi1"
+            },
+            {
+                "name": "黄金山",
+                "py": "huangjinshan"
+            },
+            {
+                "name": "老城区",
+                "py": "laochengqu3"
+            },
+            {
+                "name": "新城区",
+                "py": "xinchengqu5"
+            },
+            {
+                "name": "阳新县",
+                "py": "yangxinxian3"
+            }
+        ]
+    }
+]

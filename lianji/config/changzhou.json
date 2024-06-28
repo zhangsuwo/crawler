@@ -1,0 +1,296 @@
+﻿[
+    {
+        "name": "武进区",
+        "py": "wujinqu",
+        "list": [
+            {
+                "name": "滆湖镇",
+                "py": "gehuzhen"
+            },
+            {
+                "name": "横林镇",
+                "py": "henglinzhen"
+            },
+            {
+                "name": "湖塘镇",
+                "py": "hutangzhen"
+            },
+            {
+                "name": "兰陵街道",
+                "py": "lanlingjiedao"
+            },
+            {
+                "name": "礼嘉镇",
+                "py": "lijiazhen"
+            },
+            {
+                "name": "洛阳镇",
+                "py": "luoyangzhen"
+            },
+            {
+                "name": "南夏墅街道",
+                "py": "nanxiashujiedao"
+            },
+            {
+                "name": "西林",
+                "py": "xilin"
+            },
+            {
+                "name": "雪堰镇",
+                "py": "xueyanzhen"
+            },
+            {
+                "name": "遥观镇",
+                "py": "yaoguanzhen"
+            },
+            {
+                "name": "永红",
+                "py": "yonghong"
+            }
+        ]
+    },
+    {
+        "name": "金坛区",
+        "py": "jintanqu",
+        "list": [
+            {
+                "name": "东城街道",
+                "py": "dongchengjiedao"
+            },
+            {
+                "name": "西城街道",
+                "py": "xichengjiedao"
+            }
+        ]
+    },
+    {
+        "name": "钟楼区",
+        "py": "zhonglouqu",
+        "list": [
+            {
+                "name": "北港",
+                "py": "beigang"
+            },
+            {
+                "name": "奔牛",
+                "py": "benniu"
+            },
+            {
+                "name": "红梅",
+                "py": "hongmei"
+            },
+            {
+                "name": "湖塘镇",
+                "py": "hutangzhen"
+            },
+            {
+                "name": "南大街",
+                "py": "nandajie"
+            },
+            {
+                "name": "三井",
+                "py": "sanjing"
+            },
+            {
+                "name": "五星",
+                "py": "wuxing"
+            },
+            {
+                "name": "西林",
+                "py": "xilin"
+            },
+            {
+                "name": "新闸",
+                "py": "xinzha"
+            },
+            {
+                "name": "薛家",
+                "py": "xuejia"
+            },
+            {
+                "name": "永红",
+                "py": "yonghong"
+            },
+            {
+                "name": "邹区",
+                "py": "zouqu"
+            }
+        ]
+    },
+    {
+        "name": "溧阳市",
+        "py": "liyangshi",
+        "list": [
+            {
+                "name": "东城街道",
+                "py": "dongchengjiedao"
+            },
+            {
+                "name": "溧阳",
+                "py": "liyang"
+            },
+            {
+                "name": "西城街道",
+                "py": "xichengjiedao"
+            }
+        ]
+    },
+    {
+        "name": "天宁区",
+        "py": "tianningqu",
+        "list": [
+            {
+                "name": "茶山",
+                "py": "chashan"
+            },
+            {
+                "name": "雕庄",
+                "py": "diaozhuang"
+            },
+            {
+                "name": "红梅",
+                "py": "hongmei"
+            },
+            {
+                "name": "璜土",
+                "py": "huangtu"
+            },
+            {
+                "name": "恐龙园",
+                "py": "konglongyuan"
+            },
+            {
+                "name": "兰陵街道",
+                "py": "lanlingjiedao"
+            },
+            {
+                "name": "潞城",
+                "py": "lucheng"
+            },
+            {
+                "name": "南大街",
+                "py": "nandajie"
+            },
+            {
+                "name": "青龙",
+                "py": "qinglong"
+            },
+            {
+                "name": "三井",
+                "py": "sanjing"
+            },
+            {
+                "name": "五星",
+                "py": "wuxing"
+            },
+            {
+                "name": "永红",
+                "py": "yonghong"
+            },
+            {
+                "name": "郑陆镇",
+                "py": "zhengluzhen"
+            }
+        ]
+    },
+    {
+        "name": "新北区",
+        "py": "xinbeiqu",
+        "list": [
+            {
+                "name": "奔牛",
+                "py": "benniu"
+            },
+            {
+                "name": "河海",
+                "py": "hehai"
+            },
+            {
+                "name": "红梅",
+                "py": "hongmei"
+            },
+            {
+                "name": "璜土",
+                "py": "huangtu"
+            },
+            {
+                "name": "恐龙园",
+                "py": "konglongyuan"
+            },
+            {
+                "name": "龙虎塘",
+                "py": "longhutang"
+            },
+            {
+                "name": "罗溪镇",
+                "py": "luoxizhen"
+            },
+            {
+                "name": "青龙",
+                "py": "qinglong"
+            },
+            {
+                "name": "三井",
+                "py": "sanjing"
+            },
+            {
+                "name": "小新桥",
+                "py": "xiaoxinqiao"
+            },
+            {
+                "name": "新桥",
+                "py": "xinqiao3"
+            },
+            {
+                "name": "薛家",
+                "py": "xuejia"
+            },
+            {
+                "name": "邹区",
+                "py": "zouqu"
+            }
+        ]
+    },
+    {
+        "name": "经开区",
+        "py": "jingkaiqu12",
+        "list": [
+            {
+                "name": "雕庄",
+                "py": "diaozhuang"
+            },
+            {
+                "name": "横林镇",
+                "py": "henglinzhen"
+            },
+            {
+                "name": "横山桥镇",
+                "py": "hengshanqiaozhen"
+            },
+            {
+                "name": "礼嘉镇",
+                "py": "lijiazhen"
+            },
+            {
+                "name": "潞城",
+                "py": "lucheng"
+            },
+            {
+                "name": "洛阳镇",
+                "py": "luoyangzhen"
+            },
+            {
+                "name": "青龙",
+                "py": "qinglong"
+            },
+            {
+                "name": "遥观镇",
+                "py": "yaoguanzhen"
+            },
+            {
+                "name": "郑陆镇",
+                "py": "zhengluzhen"
+            }
+        ]
+    }
+]

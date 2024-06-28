@@ -1,0 +1,951 @@
+﻿[
+    {
+        "c": "A",
+        "prov": "安徽",
+        "list": [
+            {
+                "href": "https://aq.lianjia.com/",
+                "name": "安庆",
+                "py": "aq"
+            },
+            {
+                "href": "https://fy.lianjia.com/",
+                "name": "阜阳",
+                "py": "fy"
+            },
+            {
+                "href": "https://hf.lianjia.com/",
+                "name": "合肥",
+                "py": "hf"
+            },
+            {
+                "href": "https://la.lianjia.com/",
+                "name": "六安",
+                "py": "la"
+            },
+            {
+                "href": "https://mas.lianjia.com/",
+                "name": "马鞍山",
+                "py": "mas"
+            },
+            {
+                "href": "https://wuhu.lianjia.com/",
+                "name": "芜湖",
+                "py": "wuhu"
+            }
+        ]
+    },
+    {
+        "c": "B",
+        "prov": "北京",
+        "list": [
+            {
+                "href": "https://bj.lianjia.com/",
+                "name": "北京",
+                "py": "bj"
+            }
+        ]
+    },
+    {
+        "c": "C",
+        "prov": "重庆",
+        "list": [
+            {
+                "href": "https://cq.lianjia.com/",
+                "name": "重庆",
+                "py": "cq"
+            }
+        ]
+    },
+    {
+        "c": "F",
+        "prov": "福建",
+        "list": [
+            {
+                "href": "https://fz.lianjia.com/",
+                "name": "福州",
+                "py": "fz"
+            },
+            {
+                "href": "https://quanzhou.lianjia.com/",
+                "name": "泉州",
+                "py": "quanzhou"
+            },
+            {
+                "href": "https://xm.lianjia.com/",
+                "name": "厦门",
+                "py": "xm"
+            },
+            {
+                "href": "https://zhangzhou.lianjia.com/",
+                "name": "漳州",
+                "py": "zhangzhou"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "广东",
+        "list": [
+            {
+                "href": "https://dg.lianjia.com/",
+                "name": "东莞",
+                "py": "dg"
+            },
+            {
+                "href": "https://fs.lianjia.com/",
+                "name": "佛山",
+                "py": "fs"
+            },
+            {
+                "href": "https://gz.lianjia.com/",
+                "name": "广州",
+                "py": "gz"
+            },
+            {
+                "href": "https://hui.lianjia.com/",
+                "name": "惠州",
+                "py": "hui"
+            },
+            {
+                "href": "https://jiangmen.lianjia.com/",
+                "name": "江门",
+                "py": "jiangmen"
+            },
+            {
+                "href": "https://qy.lianjia.com/",
+                "name": "清远",
+                "py": "qy"
+            },
+            {
+                "href": "https://sz.lianjia.com/",
+                "name": "深圳",
+                "py": "sz"
+            },
+            {
+                "href": "https://zh.lianjia.com/",
+                "name": "珠海",
+                "py": "zh"
+            },
+            {
+                "href": "https://zhanjiang.lianjia.com/",
+                "name": "湛江",
+                "py": "zhanjiang"
+            },
+            {
+                "href": "https://zs.lianjia.com/",
+                "name": "中山",
+                "py": "zs"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "贵州",
+        "list": [
+            {
+                "href": "https://gy.lianjia.com/",
+                "name": "贵阳",
+                "py": "gy"
+            },
+            {
+                "href": "https://qxn.fang.lianjia.com/",
+                "name": "黔西南",
+                "py": "qxn"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "广西",
+        "list": [
+            {
+                "href": "https://bh.lianjia.com/",
+                "name": "北海",
+                "py": "bh"
+            },
+            {
+                "href": "https://fcg.lianjia.com/",
+                "name": "防城港",
+                "py": "fcg"
+            },
+            {
+                "href": "https://gl.lianjia.com/",
+                "name": "桂林",
+                "py": "gl"
+            },
+            {
+                "href": "https://liuzhou.lianjia.com/",
+                "name": "柳州",
+                "py": "liuzhou"
+            },
+            {
+                "href": "https://nn.lianjia.com/",
+                "name": "南宁",
+                "py": "nn"
+            }
+        ]
+    },
+    {
+        "c": "G",
+        "prov": "甘肃",
+        "list": [
+            {
+                "href": "https://lz.lianjia.com/",
+                "name": "兰州",
+                "py": "lz"
+            },
+            {
+                "href": "https://tianshui.lianjia.com/",
+                "name": "天水",
+                "py": "tianshui"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "湖北",
+        "list": [
+            {
+                "href": "https://ez.lianjia.com/",
+                "name": "鄂州",
+                "py": "ez"
+            },
+            {
+                "href": "https://huangshi.lianjia.com/",
+                "name": "黄石",
+                "py": "huangshi"
+            },
+            {
+                "href": "https://hg.lianjia.com/",
+                "name": "黄冈",
+                "py": "hg"
+            },
+            {
+                "href": "https://wh.lianjia.com/",
+                "name": "武汉",
+                "py": "wh"
+            },
+            {
+                "href": "https://xy.lianjia.com/",
+                "name": "襄阳",
+                "py": "xy"
+            },
+            {
+                "href": "https://yichang.lianjia.com/",
+                "name": "宜昌",
+                "py": "yichang"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "湖南",
+        "list": [
+            {
+                "href": "https://cs.lianjia.com/",
+                "name": "长沙",
+                "py": "cs"
+            },
+            {
+                "href": "https://changde.lianjia.com/",
+                "name": "常德",
+                "py": "changde"
+            },
+            {
+                "href": "https://hy.lianjia.com/",
+                "name": "衡阳",
+                "py": "hy"
+            },
+            {
+                "href": "https://xx.lianjia.com/",
+                "name": "湘西",
+                "py": "xx"
+            },
+            {
+                "href": "https://yy.lianjia.com/",
+                "name": "岳阳",
+                "py": "yy"
+            },
+            {
+                "href": "https://zhuzhou.lianjia.com/",
+                "name": "株洲",
+                "py": "zhuzhou"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "河北",
+        "list": [
+            {
+                "href": "https://bd.lianjia.com/",
+                "name": "保定",
+                "py": "bd"
+            },
+            {
+                "href": "https://chengde.lianjia.com/",
+                "name": "承德",
+                "py": "chengde"
+            },
+            {
+                "href": "https://hd.lianjia.com/",
+                "name": "邯郸",
+                "py": "hd"
+            },
+            {
+                "href": "https://lf.lianjia.com/",
+                "name": "廊坊",
+                "py": "lf"
+            },
+            {
+                "href": "https://qhd.fang.lianjia.com/",
+                "name": "秦皇岛",
+                "py": "qhd"
+            },
+            {
+                "href": "https://sjz.lianjia.com/",
+                "name": "石家庄",
+                "py": "sjz"
+            },
+            {
+                "href": "https://ts.lianjia.com/",
+                "name": "唐山",
+                "py": "ts"
+            },
+            {
+                "href": "https://zjk.lianjia.com/",
+                "name": "张家口",
+                "py": "zjk"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "海南",
+        "list": [
+            {
+                "href": "https://bt.fang.lianjia.com/",
+                "name": "保亭",
+                "py": "bt"
+            },
+            {
+                "href": "https://cm.lianjia.com/",
+                "name": "澄迈",
+                "py": "cm"
+            },
+            {
+                "href": "https://dz.fang.lianjia.com/",
+                "name": "儋州",
+                "py": "dz"
+            },
+            {
+                "href": "https://hk.lianjia.com/",
+                "name": "海口",
+                "py": "hk"
+            },
+            {
+                "href": "https://lg.fang.lianjia.com/",
+                "name": "临高",
+                "py": "lg"
+            },
+            {
+                "href": "https://ld.fang.lianjia.com/",
+                "name": "乐东",
+                "py": "ld"
+            },
+            {
+                "href": "https://ls.lianjia.com/",
+                "name": "陵水",
+                "py": "ls"
+            },
+            {
+                "href": "http://you.lianjia.com/qh",
+                "name": "琼海",
+                "py": "you"
+            },
+            {
+                "href": "https://san.lianjia.com/",
+                "name": "三亚",
+                "py": "san"
+            },
+            {
+                "href": "https://wzs.fang.lianjia.com/",
+                "name": "五指山",
+                "py": "wzs"
+            },
+            {
+                "href": "http://you.lianjia.com/wc",
+                "name": "文昌",
+                "py": "you"
+            },
+            {
+                "href": "https://wn.fang.lianjia.com/",
+                "name": "万宁",
+                "py": "wn"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "河南",
+        "list": [
+            {
+                "href": "https://jiyuan.fang.lianjia.com/",
+                "name": "济源",
+                "py": "jiyuan"
+            },
+            {
+                "href": "https://kf.lianjia.com/",
+                "name": "开封",
+                "py": "kf"
+            },
+            {
+                "href": "https://luoyang.lianjia.com/",
+                "name": "洛阳",
+                "py": "luoyang"
+            },
+            {
+                "href": "https://pds.lianjia.com/",
+                "name": "平顶山",
+                "py": "pds"
+            },
+            {
+                "href": "https://py.lianjia.com/",
+                "name": "濮阳",
+                "py": "py"
+            },
+            {
+                "href": "https://smx.fang.lianjia.com/",
+                "name": "三门峡",
+                "py": "smx"
+            },
+            {
+                "href": "https://xinxiang.lianjia.com/",
+                "name": "新乡",
+                "py": "xinxiang"
+            },
+            {
+                "href": "https://xc.lianjia.com/",
+                "name": "许昌",
+                "py": "xc"
+            },
+            {
+                "href": "https://zz.lianjia.com/",
+                "name": "郑州",
+                "py": "zz"
+            },
+            {
+                "href": "https://zk.lianjia.com/",
+                "name": "周口",
+                "py": "zk"
+            },
+            {
+                "href": "https://zmd.lianjia.com/",
+                "name": "驻马店",
+                "py": "zmd"
+            }
+        ]
+    },
+    {
+        "c": "H",
+        "prov": "黑龙江",
+        "list": [
+            {
+                "href": "https://hrb.lianjia.com/",
+                "name": "哈尔滨",
+                "py": "hrb"
+            }
+        ]
+    },
+    {
+        "c": "J",
+        "prov": "江苏",
+        "list": [
+            {
+                "href": "https://changzhou.lianjia.com/",
+                "name": "常州",
+                "py": "changzhou"
+            },
+            {
+                "href": "https://changshu.lianjia.com/",
+                "name": "常熟",
+                "py": "changshu"
+            },
+            {
+                "href": "https://danyang.lianjia.com/",
+                "name": "丹阳",
+                "py": "danyang"
+            },
+            {
+                "href": "https://haimen.lianjia.com/",
+                "name": "海门",
+                "py": "haimen"
+            },
+            {
+                "href": "https://ha.lianjia.com/",
+                "name": "淮安",
+                "py": "ha"
+            },
+            {
+                "href": "https://jy.lianjia.com/",
+                "name": "江阴",
+                "py": "jy"
+            },
+            {
+                "href": "https://jr.lianjia.com/",
+                "name": "句容",
+                "py": "jr"
+            },
+            {
+                "href": "https://ks.lianjia.com/",
+                "name": "昆山",
+                "py": "ks"
+            },
+            {
+                "href": "https://nj.lianjia.com/",
+                "name": "南京",
+                "py": "nj"
+            },
+            {
+                "href": "https://nt.lianjia.com/",
+                "name": "南通",
+                "py": "nt"
+            },
+            {
+                "href": "https://su.lianjia.com/",
+                "name": "苏州",
+                "py": "su"
+            },
+            {
+                "href": "https://taicang.lianjia.com/",
+                "name": "太仓",
+                "py": "taicang"
+            },
+            {
+                "href": "https://wx.lianjia.com/",
+                "name": "无锡",
+                "py": "wx"
+            },
+            {
+                "href": "https://xz.lianjia.com/",
+                "name": "徐州",
+                "py": "xz"
+            },
+            {
+                "href": "https://yc.lianjia.com/",
+                "name": "盐城",
+                "py": "yc"
+            },
+            {
+                "href": "https://zj.lianjia.com/",
+                "name": "镇江",
+                "py": "zj"
+            }
+        ]
+    },
+    {
+        "c": "J",
+        "prov": "吉林",
+        "list": [
+            {
+                "href": "https://cc.lianjia.com/",
+                "name": "长春",
+                "py": "cc"
+            },
+            {
+                "href": "https://jl.lianjia.com/",
+                "name": "吉林",
+                "py": "jl"
+            }
+        ]
+    },
+    {
+        "c": "J",
+        "prov": "江西",
+        "list": [
+            {
+                "href": "https://ganzhou.lianjia.com/",
+                "name": "赣州",
+                "py": "ganzhou"
+            },
+            {
+                "href": "https://jiujiang.lianjia.com/",
+                "name": "九江",
+                "py": "jiujiang"
+            },
+            {
+                "href": "https://jian.lianjia.com/",
+                "name": "吉安",
+                "py": "jian"
+            },
+            {
+                "href": "https://nc.lianjia.com/",
+                "name": "南昌",
+                "py": "nc"
+            },
+            {
+                "href": "https://sr.lianjia.com/",
+                "name": "上饶",
+                "py": "sr"
+            }
+        ]
+    },
+    {
+        "c": "L",
+        "prov": "辽宁",
+        "list": [
+            {
+                "href": "https://dl.lianjia.com/",
+                "name": "大连",
+                "py": "dl"
+            },
+            {
+                "href": "https://dd.lianjia.com/",
+                "name": "丹东",
+                "py": "dd"
+            },
+            {
+                "href": "https://fushun.lianjia.com/",
+                "name": "抚顺",
+                "py": "fushun"
+            },
+            {
+                "href": "https://sy.lianjia.com/",
+                "name": "沈阳",
+                "py": "sy"
+            }
+        ]
+    },
+    {
+        "c": "N",
+        "prov": "内蒙古",
+        "list": [
+            {
+                "href": "https://baotou.lianjia.com/",
+                "name": "包头",
+                "py": "baotou"
+            },
+            {
+                "href": "https://byne.fang.lianjia.com/",
+                "name": "巴彦淖尔",
+                "py": "byne"
+            },
+            {
+                "href": "https://cf.lianjia.com/",
+                "name": "赤峰",
+                "py": "cf"
+            },
+            {
+                "href": "https://hhht.lianjia.com/",
+                "name": "呼和浩特",
+                "py": "hhht"
+            },
+            {
+                "href": "https://tongliao.lianjia.com/",
+                "name": "通辽",
+                "py": "tongliao"
+            }
+        ]
+    },
+    {
+        "c": "N",
+        "prov": "宁夏",
+        "list": [
+            {
+                "href": "https://yinchuan.lianjia.com/",
+                "name": "银川",
+                "py": "yinchuan"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "上海",
+        "list": [
+            {
+                "href": "https://sh.lianjia.com/",
+                "name": "上海",
+                "py": "sh"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "四川",
+        "list": [
+            {
+                "href": "https://cd.lianjia.com/",
+                "name": "成都",
+                "py": "cd"
+            },
+            {
+                "href": "https://dy.lianjia.com/",
+                "name": "德阳",
+                "py": "dy"
+            },
+            {
+                "href": "https://dazhou.lianjia.com/",
+                "name": "达州",
+                "py": "dazhou"
+            },
+            {
+                "href": "https://guangyuan.lianjia.com/",
+                "name": "广元",
+                "py": "guangyuan"
+            },
+            {
+                "href": "https://leshan.fang.lianjia.com/",
+                "name": "乐山",
+                "py": "leshan"
+            },
+            {
+                "href": "https://liangshan.lianjia.com/",
+                "name": "凉山",
+                "py": "liangshan"
+            },
+            {
+                "href": "https://mianyang.lianjia.com/",
+                "name": "绵阳",
+                "py": "mianyang"
+            },
+            {
+                "href": "https://ms.fang.lianjia.com/",
+                "name": "眉山",
+                "py": "ms"
+            },
+            {
+                "href": "https://nanchong.lianjia.com/",
+                "name": "南充",
+                "py": "nanchong"
+            },
+            {
+                "href": "https://pzh.lianjia.com/",
+                "name": "攀枝花",
+                "py": "pzh"
+            },
+            {
+                "href": "https://sn.lianjia.com/",
+                "name": "遂宁",
+                "py": "sn"
+            },
+            {
+                "href": "https://yibin.lianjia.com/",
+                "name": "宜宾",
+                "py": "yibin"
+            },
+            {
+                "href": "https://yaan.lianjia.com/",
+                "name": "雅安",
+                "py": "yaan"
+            },
+            {
+                "href": "https://ziyang.lianjia.com/",
+                "name": "资阳",
+                "py": "ziyang"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "山东",
+        "list": [
+            {
+                "href": "https://heze.lianjia.com/",
+                "name": "菏泽",
+                "py": "heze"
+            },
+            {
+                "href": "https://jn.lianjia.com/",
+                "name": "济南",
+                "py": "jn"
+            },
+            {
+                "href": "https://jining.lianjia.com/",
+                "name": "济宁",
+                "py": "jining"
+            },
+            {
+                "href": "https://linyi.lianjia.com/",
+                "name": "临沂",
+                "py": "linyi"
+            },
+            {
+                "href": "https://qd.lianjia.com/",
+                "name": "青岛",
+                "py": "qd"
+            },
+            {
+                "href": "https://ta.lianjia.com/",
+                "name": "泰安",
+                "py": "ta"
+            },
+            {
+                "href": "https://wf.lianjia.com/",
+                "name": "潍坊",
+                "py": "wf"
+            },
+            {
+                "href": "https://weihai.lianjia.com/",
+                "name": "威海",
+                "py": "weihai"
+            },
+            {
+                "href": "https://yt.lianjia.com/",
+                "name": "烟台",
+                "py": "yt"
+            },
+            {
+                "href": "https://zb.lianjia.com/",
+                "name": "淄博",
+                "py": "zb"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "陕西",
+        "list": [
+            {
+                "href": "https://baoji.lianjia.com/",
+                "name": "宝鸡",
+                "py": "baoji"
+            },
+            {
+                "href": "https://hanzhong.lianjia.com/",
+                "name": "汉中",
+                "py": "hanzhong"
+            },
+            {
+                "href": "https://xa.lianjia.com/",
+                "name": "西安",
+                "py": "xa"
+            },
+            {
+                "href": "https://xianyang.lianjia.com/",
+                "name": "咸阳",
+                "py": "xianyang"
+            }
+        ]
+    },
+    {
+        "c": "S",
+        "prov": "山西",
+        "list": [
+            {
+                "href": "https://jz.lianjia.com/",
+                "name": "晋中",
+                "py": "jz"
+            },
+            {
+                "href": "https://ty.lianjia.com/",
+                "name": "太原",
+                "py": "ty"
+            },
+            {
+                "href": "https://yuncheng.lianjia.com/",
+                "name": "运城",
+                "py": "yuncheng"
+            }
+        ]
+    },
+    {
+        "c": "T",
+        "prov": "天津",
+        "list": [
+            {
+                "href": "https://tj.lianjia.com/",
+                "name": "天津",
+                "py": "tj"
+            }
+        ]
+    },
+    {
+        "c": "X",
+        "prov": "新疆",
+        "list": [
+            {
+                "href": "https://wlmq.lianjia.com/",
+                "name": "乌鲁木齐",
+                "py": "wlmq"
+            }
+        ]
+    },
+    {
+        "c": "Y",
+        "prov": "云南",
+        "list": [
+            {
+                "href": "https://dali.lianjia.com/",
+                "name": "大理",
+                "py": "dali"
+            },
+            {
+                "href": "https://km.lianjia.com/",
+                "name": "昆明",
+                "py": "km"
+            },
+            {
+                "href": "https://xsbn.lianjia.com/",
+                "name": "西双版纳",
+                "py": "xsbn"
+            }
+        ]
+    },
+    {
+        "c": "Z",
+        "prov": "浙江",
+        "list": [
+            {
+                "href": "https://hz.lianjia.com/",
+                "name": "杭州",
+                "py": "hz"
+            },
+            {
+                "href": "https://huzhou.lianjia.com/",
+                "name": "湖州",
+                "py": "huzhou"
+            },
+            {
+                "href": "https://jx.lianjia.com/",
+                "name": "嘉兴",
+                "py": "jx"
+            },
+            {
+                "href": "https://jh.lianjia.com/",
+                "name": "金华",
+                "py": "jh"
+            },
+            {
+                "href": "https://nb.lianjia.com/",
+                "name": "宁波",
+                "py": "nb"
+            },
+            {
+                "href": "https://quzhou.lianjia.com/",
+                "name": "衢州",
+                "py": "quzhou"
+            },
+            {
+                "href": "https://sx.lianjia.com/",
+                "name": "绍兴",
+                "py": "sx"
+            },
+            {
+                "href": "https://taizhou.lianjia.com/",
+                "name": "台州",
+                "py": "taizhou"
+            },
+            {
+                "href": "https://wz.lianjia.com/",
+                "name": "温州",
+                "py": "wz"
+            },
+            {
+                "href": "https://yw.lianjia.com/",
+                "name": "义乌",
+                "py": "yw"
+            }
+        ]
+    }
+]

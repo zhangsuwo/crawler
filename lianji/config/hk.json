@@ -1,0 +1,154 @@
+﻿[
+    {
+        "name": "秀英",
+        "py": "xiuyingqu2",
+        "list": [
+            {
+                "name": "观澜湖",
+                "py": "guanlanhu"
+            },
+            {
+                "name": "海口湾",
+                "py": "haikouwan"
+            },
+            {
+                "name": "丘海大道",
+                "py": "qiuhaidadao"
+            },
+            {
+                "name": "万达",
+                "py": "wanda13"
+            },
+            {
+                "name": "西海岸南片区",
+                "py": "xihaiannanpianqu"
+            },
+            {
+                "name": "秀英周边",
+                "py": "xiuyingzhoubian"
+            },
+            {
+                "name": "永万路",
+                "py": "yongwanlu"
+            },
+            {
+                "name": "远大",
+                "py": "yuanda1"
+            },
+            {
+                "name": "紫园片区",
+                "py": "ziyuanpianqu"
+            }
+        ]
+    },
+    {
+        "name": "龙华",
+        "py": "longhuaqu1",
+        "list": [
+            {
+                "name": "观澜湖",
+                "py": "guanlanhu"
+            },
+            {
+                "name": "国贸",
+                "py": "guomao1"
+            },
+            {
+                "name": "海垦",
+                "py": "haiken"
+            },
+            {
+                "name": "海口湾",
+                "py": "haikouwan"
+            },
+            {
+                "name": "解放西",
+                "py": "jiefangxi"
+            },
+            {
+                "name": "金盘",
+                "py": "jinpan"
+            },
+            {
+                "name": "龙华周边",
+                "py": "longhuazhoubian"
+            },
+            {
+                "name": "龙昆南",
+                "py": "longkunnan"
+            },
+            {
+                "name": "世贸",
+                "py": "shimao"
+            },
+            {
+                "name": "椰海大道",
+                "py": "yehaidadao"
+            }
+        ]
+    },
+    {
+        "name": "美兰",
+        "py": "meilanqu1",
+        "list": [
+            {
+                "name": "白龙",
+                "py": "bailong"
+            },
+            {
+                "name": "国兴",
+                "py": "guoxing"
+            },
+            {
+                "name": "海甸岛",
+                "py": "haidiandao"
+            },
+            {
+                "name": "和平南",
+                "py": "hepingnan"
+            },
+            {
+                "name": "江东",
+                "py": "jiangdong3"
+            },
+            {
+                "name": "明珠",
+                "py": "mingzhu"
+            },
+            {
+                "name": "新埠岛",
+                "py": "xinbudao"
+            }
+        ]
+    },
+    {
+        "name": "琼山",
+        "py": "qiongshanqu1",
+        "list": [
+            {
+                "name": "滨江",
+                "py": "binjiang2"
+            },
+            {
+                "name": "府城",
+                "py": "fucheng1"
+            },
+            {
+                "name": "国兴",
+                "py": "guoxing"
+            },
+            {
+                "name": "龙昆南",
+                "py": "longkunnan"
+            },
+            {
+                "name": "琼山周边",
+                "py": "qiongshanzhoubian"
+            },
+            {
+                "name": "椰海大道",
+                "py": "yehaidadao"
+            }
+        ]
+    }
+]

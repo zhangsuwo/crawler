@@ -1,0 +1,148 @@
+﻿[
+    {
+        "name": "江海区",
+        "py": "jianghaiqu",
+        "list": [
+            {
+                "name": "府西",
+                "py": "fuxi"
+            },
+            {
+                "name": "河南",
+                "py": "henan1"
+            },
+            {
+                "name": "江华港口",
+                "py": "jianghuagangkou"
+            },
+            {
+                "name": "礼乐",
+                "py": "liyue"
+            },
+            {
+                "name": "外海",
+                "py": "waihai"
+            }
+        ]
+    },
+    {
+        "name": "蓬江区",
+        "py": "pengjiangqu",
+        "list": [
+            {
+                "name": "白沙农林",
+                "py": "baishanonglin"
+            },
+            {
+                "name": "北新区",
+                "py": "beixinqu"
+            },
+            {
+                "name": "滨江新区",
+                "py": "binjiangxinqu"
+            },
+            {
+                "name": "潮连",
+                "py": "chaolian"
+            },
+            {
+                "name": "杜阮",
+                "py": "duruan"
+            },
+            {
+                "name": "荷塘",
+                "py": "hetang"
+            },
+            {
+                "name": "江华港口",
+                "py": "jianghuagangkou"
+            },
+            {
+                "name": "良化北街",
+                "py": "lianghuabeijie"
+            },
+            {
+                "name": "双龙",
+                "py": "shuanglong"
+            },
+            {
+                "name": "棠下",
+                "py": "tangxia"
+            },
+            {
+                "name": "育德",
+                "py": "yude"
+            }
+        ]
+    },
+    {
+        "name": "新会区",
+        "py": "xinhuiqu",
+        "list": [
+            {
+                "name": "城西",
+                "py": "chengxi2"
+            },
+            {
+                "name": "圭峰",
+                "py": "guifeng"
+            },
+            {
+                "name": "经济开发",
+                "py": "jingjikaifa"
+            },
+            {
+                "name": "其他城区",
+                "py": "qitachengqu"
+            },
+            {
+                "name": "枢纽新城",
+                "py": "shuniuxincheng"
+            },
+            {
+                "name": "中心城区",
+                "py": "zhongxinchengqu"
+            }
+        ]
+    },
+    {
+        "name": "台山市",
+        "py": "taishanshi",
+        "list": [
+            {
+                "name": "台山市",
+                "py": "taishanshi1"
+            }
+        ]
+    },
+    {
+        "name": "鹤山市",
+        "py": "heshanshi",
+        "list": [
+            {
+                "name": "鹤山市",
+                "py": "heshanshi2"
+            }
+        ]
+    },
+    {
+        "name": "恩平市",
+        "py": "enpingshi",
+        "list": [
+            {
+                "name": "恩平市",
+                "py": "enpingshi1"
+            }
+        ]
+    },
+    {
+        "name": "开平市",
+        "py": "kaipingshi",
+        "list": [
+            {
+                "name": "开平市",
+                "py": "kaipingshi1"
+            }
+        ]
+    }
+]

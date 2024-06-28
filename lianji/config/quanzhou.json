@@ -1,0 +1,333 @@
+﻿[
+    {
+        "name": "惠安县",
+        "py": "huianxian1",
+        "list": [
+            {
+                "name": "黄塘",
+                "py": "huangtang"
+            },
+            {
+                "name": "惠安县",
+                "py": "huianxian3"
+            },
+            {
+                "name": "聚龙小镇",
+                "py": "julongxiaozhen"
+            },
+            {
+                "name": "台商投资区",
+                "py": "taishangtouziqu"
+            }
+        ]
+    },
+    {
+        "name": "晋江市",
+        "py": "jinjiangshi",
+        "list": [
+            {
+                "name": "安海镇",
+                "py": "anhaizhen"
+            },
+            {
+                "name": "宝龙广场",
+                "py": "baolongguangchang"
+            },
+            {
+                "name": "陈埭镇",
+                "py": "chendaizhen"
+            },
+            {
+                "name": "池店南",
+                "py": "chidiannan"
+            },
+            {
+                "name": "磁灶镇",
+                "py": "cizaozhen"
+            },
+            {
+                "name": "官桥镇",
+                "py": "guanqiaozhen"
+            },
+            {
+                "name": "晋江万达",
+                "py": "jinjiangwanda"
+            },
+            {
+                "name": "晋江周边",
+                "py": "jinjiangzhoubian"
+            },
+            {
+                "name": "南安水头镇",
+                "py": "nananshuitouzhen"
+            },
+            {
+                "name": "南环路",
+                "py": "nanhuanlu"
+            },
+            {
+                "name": "泉州桥南",
+                "py": "quanzhouqiaonan"
+            },
+            {
+                "name": "SM广场",
+                "py": "smguangchang1"
+            },
+            {
+                "name": "霞美镇",
+                "py": "xiameizhen"
+            },
+            {
+                "name": "展览城",
+                "py": "zhanlancheng"
+            },
+            {
+                "name": "紫帽镇",
+                "py": "zimaozhen"
+            }
+        ]
+    },
+    {
+        "name": "石狮市",
+        "py": "shishishi",
+        "list": [
+            {
+                "name": "服装城",
+                "py": "fuzhuangcheng"
+            },
+            {
+                "name": "石狮中心",
+                "py": "shishizhongxin"
+            },
+            {
+                "name": "石狮周边",
+                "py": "shishizhoubian"
+            }
+        ]
+    },
+    {
+        "name": "南安市",
+        "py": "nananshi",
+        "list": [
+            {
+                "name": "官桥镇",
+                "py": "guanqiaozhen"
+            },
+            {
+                "name": "江北大道",
+                "py": "jiangbeidadao"
+            },
+            {
+                "name": "南安水头镇",
+                "py": "nananshuitouzhen"
+            },
+            {
+                "name": "南安中心",
+                "py": "nananzhongxin"
+            },
+            {
+                "name": "南环路",
+                "py": "nanhuanlu"
+            },
+            {
+                "name": "石井镇",
+                "py": "shijingzhen"
+            },
+            {
+                "name": "霞美镇",
+                "py": "xiameizhen"
+            }
+        ]
+    },
+    {
+        "name": "永春县",
+        "py": "yongchunxian",
+        "list": [
+            {
+                "name": "南安中心",
+                "py": "nananzhongxin"
+            },
+            {
+                "name": "永春县",
+                "py": "yongchunxian1"
+            }
+        ]
+    },
+    {
+        "name": "德化县",
+        "py": "dehuaxian",
+        "list": [
+            {
+                "name": "德化县",
+                "py": "dehuaxian1"
+            }
+        ]
+    },
+    {
+        "name": "洛江区",
+        "py": "luojiangqu1",
+        "list": [
+            {
+                "name": "黄塘",
+                "py": "huangtang"
+            },
+            {
+                "name": "聚龙小镇",
+                "py": "julongxiaozhen"
+            },
+            {
+                "name": "洛江区",
+                "py": "luojiangqu3"
+            },
+            {
+                "name": "南安中心",
+                "py": "nananzhongxin"
+            },
+            {
+                "name": "台商投资区",
+                "py": "taishangtouziqu"
+            }
+        ]
+    },
+    {
+        "name": "泉港区",
+        "py": "quangangqu",
+        "list": [
+            {
+                "name": "聚龙小镇",
+                "py": "julongxiaozhen"
+            },
+            {
+                "name": "泉港区",
+                "py": "quangangqu2"
+            }
+        ]
+    },
+    {
+        "name": "鲤城区",
+        "py": "lichengqu1",
+        "list": [
+            {
+                "name": "城北路",
+                "py": "chengbeilu"
+            },
+            {
+                "name": "城西路",
+                "py": "chengxilu"
+            },
+            {
+                "name": "东街",
+                "py": "dongjie"
+            },
+            {
+                "name": "浮桥",
+                "py": "fuqiao"
+            },
+            {
+                "name": "九一街",
+                "py": "jiuyijie"
+            },
+            {
+                "name": "南环路",
+                "py": "nanhuanlu"
+            },
+            {
+                "name": "清濛开发区",
+                "py": "qingmengkaifaqu"
+            },
+            {
+                "name": "泉州桥南",
+                "py": "quanzhouqiaonan"
+            },
+            {
+                "name": "涂门街",
+                "py": "tumenjie"
+            },
+            {
+                "name": "霞美镇",
+                "py": "xiameizhen"
+            },
+            {
+                "name": "西街",
+                "py": "xijie"
+            },
+            {
+                "name": "新门街",
+                "py": "xinmenjie"
+            },
+            {
+                "name": "展览城",
+                "py": "zhanlancheng"
+            },
+            {
+                "name": "站前大道",
+                "py": "zhanqiandadao"
+            }
+        ]
+    },
+    {
+        "name": "安溪县",
+        "py": "anxixian",
+        "list": [
+            {
+                "name": "安溪县",
+                "py": "anxixian1"
+            },
+            {
+                "name": "南安中心",
+                "py": "nananzhongxin"
+            }
+        ]
+    },
+    {
+        "name": "丰泽区",
+        "py": "fengzequ1",
+        "list": [
+            {
+                "name": "城东",
+                "py": "chengdong3"
+            },
+            {
+                "name": "东海",
+                "py": "donghai"
+            },
+            {
+                "name": "东湖",
+                "py": "donghu2"
+            },
+            {
+                "name": "丰泽街",
+                "py": "fengzejie"
+            },
+            {
+                "name": "南安中心",
+                "py": "nananzhongxin"
+            },
+            {
+                "name": "泉秀街",
+                "py": "quanxiujie"
+            },
+            {
+                "name": "泉州站",
+                "py": "quanzhouzhan"
+            },
+            {
+                "name": "泰禾广场",
+                "py": "taiheguangchang"
+            },
+            {
+                "name": "万达",
+                "py": "wanda6"
+            },
+            {
+                "name": "西湖",
+                "py": "xihu1"
+            }
+        ]
+    },
+    {
+        "name": "金门县",
+        "py": "jinmenxian",
+        "list": []
+    }
+]

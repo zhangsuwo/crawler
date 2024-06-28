@@ -1,0 +1,92 @@
+﻿[
+    {
+        "name": "南浔区",
+        "py": "nanxunqu",
+        "list": [
+            {
+                "name": "南浔区",
+                "py": "nanxunqu1"
+            }
+        ]
+    },
+    {
+        "name": "长兴县",
+        "py": "changxingxian",
+        "list": [
+            {
+                "name": "安吉县",
+                "py": "anjixian1"
+            },
+            {
+                "name": "长兴县",
+                "py": "changxingxian1"
+            }
+        ]
+    },
+    {
+        "name": "德清县",
+        "py": "deqingxian2",
+        "list": [
+            {
+                "name": "德清县",
+                "py": "deqingxian3"
+            }
+        ]
+    },
+    {
+        "name": "吴兴区",
+        "py": "wuxingqu",
+        "list": [
+            {
+                "name": "东部新城",
+                "py": "dongbuxincheng2"
+            },
+            {
+                "name": "凤凰分区",
+                "py": "fenghuangfenqu"
+            },
+            {
+                "name": "湖东西区",
+                "py": "hudongxiqu"
+            },
+            {
+                "name": "老城区",
+                "py": "laochengqu6"
+            },
+            {
+                "name": "其他（吴兴北部）",
+                "py": "qitawuxingbeibu"
+            },
+            {
+                "name": "其他（吴兴南部）",
+                "py": "qitawuxingnanbu"
+            },
+            {
+                "name": "仁皇山分区",
+                "py": "renhuangshanfenqu"
+            },
+            {
+                "name": "太湖度假区",
+                "py": "taihudujiaqu"
+            },
+            {
+                "name": "西南分区",
+                "py": "xinanfenqu"
+            },
+            {
+                "name": "织里镇",
+                "py": "zhilizhen"
+            }
+        ]
+    },
+    {
+        "name": "安吉县",
+        "py": "anjixian",
+        "list": [
+            {
+                "name": "安吉县",
+                "py": "anjixian1"
+            }
+        ]
+    }
+]

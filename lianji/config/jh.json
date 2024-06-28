@@ -1,0 +1,204 @@
+﻿[
+    {
+        "name": "东阳市",
+        "py": "dongyangshi",
+        "list": [
+            {
+                "name": "东阳市",
+                "py": "dongyangshi1"
+            },
+            {
+                "name": "横店",
+                "py": "hengdian"
+            }
+        ]
+    },
+    {
+        "name": "义乌市",
+        "py": "yiwushi",
+        "list": [
+            {
+                "name": "北苑",
+                "py": "beiyuan"
+            },
+            {
+                "name": "城西",
+                "py": "chengxi3"
+            },
+            {
+                "name": "稠城",
+                "py": "choucheng"
+            },
+            {
+                "name": "稠江",
+                "py": "choujiang"
+            },
+            {
+                "name": "佛堂",
+                "py": "fotang"
+            },
+            {
+                "name": "福田",
+                "py": "futian"
+            },
+            {
+                "name": "后宅",
+                "py": "houzhai"
+            },
+            {
+                "name": "江东",
+                "py": "jiangdong4"
+            },
+            {
+                "name": "廿三里",
+                "py": "niansanli"
+            },
+            {
+                "name": "苏溪",
+                "py": "suxi"
+            },
+            {
+                "name": "义亭",
+                "py": "yiting"
+            },
+            {
+                "name": "义乌市",
+                "py": "yiwushi1"
+            }
+        ]
+    },
+    {
+        "name": "兰溪市",
+        "py": "lanxishi",
+        "list": [
+            {
+                "name": "兰溪市",
+                "py": "lanxishi1"
+            },
+            {
+                "name": "兰溪溪望文华",
+                "py": "lanxixiwangwenhua"
+            }
+        ]
+    },
+    {
+        "name": "婺城区",
+        "py": "wuchengqu",
+        "list": [
+            {
+                "name": "安地",
+                "py": "andi"
+            },
+            {
+                "name": "城北",
+                "py": "chengbei7"
+            },
+            {
+                "name": "多湖",
+                "py": "duohu"
+            },
+            {
+                "name": "湖海塘",
+                "py": "huhaitang"
+            },
+            {
+                "name": "江北",
+                "py": "jiangbei1"
+            },
+            {
+                "name": "江南",
+                "py": "jiangnan"
+            },
+            {
+                "name": "金西开发区",
+                "py": "jinxikaifaqu"
+            },
+            {
+                "name": "乾西",
+                "py": "qianxi"
+            },
+            {
+                "name": "秋滨工业区",
+                "py": "qiubingongyequ"
+            },
+            {
+                "name": "婺城新区",
+                "py": "wuchengxinqu"
+            },
+            {
+                "name": "雅畈",
+                "py": "yafan"
+            }
+        ]
+    },
+    {
+        "name": "武义县",
+        "py": "wuyixian",
+        "list": [
+            {
+                "name": "武义县",
+                "py": "wuyixian1"
+            }
+        ]
+    },
+    {
+        "name": "永康市",
+        "py": "yongkangshi",
+        "list": [
+            {
+                "name": "永康市",
+                "py": "yongkangshi1"
+            }
+        ]
+    },
+    {
+        "name": "浦江县",
+        "py": "pujiangxian",
+        "list": [
+            {
+                "name": "浦江县",
+                "py": "pujiangxian1"
+            }
+        ]
+    },
+    {
+        "name": "磐安县",
+        "py": "pananxian",
+        "list": [
+            {
+                "name": "磐安县",
+                "py": "pananxian1"
+            }
+        ]
+    },
+    {
+        "name": "金东区",
+        "py": "jindongqu",
+        "list": [
+            {
+                "name": "东湄",
+                "py": "dongmei"
+            },
+            {
+                "name": "多湖",
+                "py": "duohu"
+            },
+            {
+                "name": "金东新城",
+                "py": "jindongxincheng"
+            },
+            {
+                "name": "金华南站",
+                "py": "jinhuananzhan"
+            },
+            {
+                "name": "金义都市新区",
+                "py": "jinyidushixinqu"
+            },
+            {
+                "name": "岭下",
+                "py": "lingxia"
+            }
+        ]
+    }
+]

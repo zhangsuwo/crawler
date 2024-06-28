@@ -1,0 +1,210 @@
+﻿[
+    {
+        "name": "环翠区",
+        "py": "huancuiqu",
+        "list": [
+            {
+                "name": "长峰",
+                "py": "changfeng5"
+            },
+            {
+                "name": "初村",
+                "py": "chucun"
+            },
+            {
+                "name": "东部滨海新城",
+                "py": "dongbubinhaixincheng"
+            },
+            {
+                "name": "海水浴场",
+                "py": "haishuiyuchang"
+            },
+            {
+                "name": "合庆",
+                "py": "heqing"
+            },
+            {
+                "name": "环翠楼",
+                "py": "huancuilou"
+            },
+            {
+                "name": "华夏",
+                "py": "huaxia1"
+            },
+            {
+                "name": "临港区",
+                "py": "lingangqu"
+            },
+            {
+                "name": "戚家庄",
+                "py": "qijiazhuang"
+            },
+            {
+                "name": "市政府",
+                "py": "shizhengfu7"
+            },
+            {
+                "name": "孙家疃",
+                "py": "sunjiatuan"
+            },
+            {
+                "name": "田村（田和）",
+                "py": "tiancuntianhe"
+            },
+            {
+                "name": "天东&南曲阜",
+                "py": "tiandongnanqufu"
+            },
+            {
+                "name": "望岛",
+                "py": "wangdao"
+            },
+            {
+                "name": "温泉",
+                "py": "wenquan"
+            },
+            {
+                "name": "羊亭",
+                "py": "yangting"
+            },
+            {
+                "name": "悦海",
+                "py": "yuehai"
+            },
+            {
+                "name": "寨子",
+                "py": "zhaizi"
+            },
+            {
+                "name": "张村",
+                "py": "zhangcun"
+            },
+            {
+                "name": "竹岛",
+                "py": "zhudao"
+            }
+        ]
+    },
+    {
+        "name": "文登区",
+        "py": "wendengqu",
+        "list": [
+            {
+                "name": "南海新区",
+                "py": "nanhaixinqu"
+            },
+            {
+                "name": "文登市区",
+                "py": "wendengshiqu"
+            }
+        ]
+    },
+    {
+        "name": "经区",
+        "py": "jingqu1",
+        "list": [
+            {
+                "name": "长峰",
+                "py": "changfeng5"
+            },
+            {
+                "name": "凤林&宋家洼",
+                "py": "fenglinsongjiawa"
+            },
+            {
+                "name": "蒿泊",
+                "py": "haobo"
+            },
+            {
+                "name": "皇冠",
+                "py": "huangguan"
+            },
+            {
+                "name": "九龙湾",
+                "py": "jiulongwan"
+            },
+            {
+                "name": "天东&南曲阜",
+                "py": "tiandongnanqufu"
+            },
+            {
+                "name": "望岛",
+                "py": "wangdao"
+            },
+            {
+                "name": "悦海",
+                "py": "yuehai"
+            }
+        ]
+    },
+    {
+        "name": "高区",
+        "py": "gaoqu1",
+        "list": [
+            {
+                "name": "昌鸿",
+                "py": "changhong"
+            },
+            {
+                "name": "海水浴场",
+                "py": "haishuiyuchang"
+            },
+            {
+                "name": "涝台社区",
+                "py": "laotaishequ"
+            },
+            {
+                "name": "市政府",
+                "py": "shizhengfu7"
+            },
+            {
+                "name": "孙家疃",
+                "py": "sunjiatuan"
+            },
+            {
+                "name": "田村（田和）",
+                "py": "tiancuntianhe"
+            },
+            {
+                "name": "卧龙山",
+                "py": "wolongshan"
+            },
+            {
+                "name": "寨子",
+                "py": "zhaizi"
+            }
+        ]
+    },
+    {
+        "name": "乳山市",
+        "py": "rushanshi",
+        "list": [
+            {
+                "name": "乳山市",
+                "py": "rushanshi1"
+            },
+            {
+                "name": "银滩旅游度假区",
+                "py": "yintanlvyoudujiaqu"
+            }
+        ]
+    },
+    {
+        "name": "荣成市",
+        "py": "rongchengshi",
+        "list": [
+            {
+                "name": "东部滨海新城",
+                "py": "dongbubinhaixincheng"
+            },
+            {
+                "name": "荣成市",
+                "py": "rongchengshi2"
+            },
+            {
+                "name": "石岛",
+                "py": "shidao"
+            }
+        ]
+    }
+]
