@@ -40,9 +40,7 @@ def search_xiaoqu_info(url):
 
 
 if __name__ == "__main__":
-    data = util.read_csv("out/chitu.csv", mode="r")
-    header = data[0]
-    rows = data[1:]
+    rows = util.read_csv("out/chitu.csv", mode="r")
     util.logging.info("初始化数据完成，共{0}条数据".format(len(rows)))
     row_pos = 0
     if len(CUR_OFFSET) > 0:

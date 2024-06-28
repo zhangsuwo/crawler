@@ -4,6 +4,7 @@ import json
 import random
 import time
 import csv
+import vars
 
 # 配置日志输出格式
 logging.basicConfig(
