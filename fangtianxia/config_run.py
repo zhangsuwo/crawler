@@ -2,7 +2,7 @@
 # tail -500f log/config_run.log
 # tar -czvf config.tar.gz config
 
-import utils
+import util
 import vars
 from bs4 import BeautifulSoup
 
@@ -13,13 +13,13 @@ CUR_OFFSET = ["重庆", "cq"]
 # 获取省市列表
 def get_city_list():
     data = []
-    response = utils.http_get(vars.CITY_FAMILY_URL)
+    response = util.http_get(vars.CITY_FAMILY_URL)
     if response == None:
         return data
     soup = BeautifulSoup(response.text, "html.parser")
     div = soup.find("div",class_="outCont")
     table = div.find("table",class_="table01")
-    rows = table.find_all("tr")[1:-1]
+    rows = table.find_all("tr")[0:-1]
     for tr in rows:
         td_rows = tr.find_all("td")
         # strip可以去除空格及nbsp;
@@ -28,7 +28,10 @@ def get_city_list():
         a_rows = td_rows[2].find_all('a')
         if(len(prov_name) > 0):
           item = {"c": c, "prov": prov_name, "list": []}
-          item["c"] = c if len(c) > 0 else data[-1]["c"]
+          if len(data) > 0:
+            item["c"] = c if len(c) > 0 else data[-1]["c"]
+          else:
+            item["c"] = c
           for a in a_rows:
             href = a["href"]
             name = a.text
@@ -36,21 +39,22 @@ def get_city_list():
             item["list"].append({"href": href, "name": name, "py": py})
           data.append(item)
         else:
-            item = data[-1]
-            for a in a_rows:
-              href = a["href"]
-              name = a.text
-              py = href.split("//")[1].split(".")[0]
-              item["list"].append({"href": href, "name": name, "py": py})
+          item = data[-1]
+          for a in a_rows:
+            href = a["href"]
+            name = a.text
+            py = href.split("//")[1].split(".")[0]
+            item["list"].append({"href": href, "name": name, "py": py})
+              
     return data
 
 # 获取城市下的区列表
 def get_area_list(city, type):
     url = city["href"] + type
-    utils.logging.info("获取区列表的url为：{0}".format(url))
+    util.logging.info("获取区列表的url为：{0}".format(url))
 
     data = []
-    response = utils.http_get(url)
+    response = util.http_get(url)
     if response == None:
         return data
 
@@ -76,10 +80,10 @@ def get_area_list(city, type):
 # 获取区下的镇列表
 def get_town_list(city, type, area):
     url = vars.URL_TEMPLATE2.format(city, type, area)
-    utils.logging.info("获取镇列表的url为：{0}".format(url))
+    util.logging.info("获取镇列表的url为：{0}".format(url))
 
     data = []
-    response = utils.http_get(url)
+    response = util.http_get(url)
     if response == None:
         return data
 
@@ -102,8 +106,8 @@ def get_town_list(city, type, area):
 
 if __name__ == "__main__":
     data = get_city_list()
-    utils.write_json('config/cities.json',mode="w",data=data)
-    utils.logging.info("写入文件config/cities.json完成,共{0}条数据".format(len(data)))
+    util.write_json('config/cities.json',mode="w",data=data)
+    util.logging.info("写入文件config/cities.json完成,共{0}条数据".format(len(data)))
     # data = utils.read_json("config/cities.json", "r")
     # prov_pos = 0
     # city_pos = 0

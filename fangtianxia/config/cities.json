@@ -1,5 +1,31 @@
 ﻿[
     {
+        "c": "",
+        "prov": "直辖市",
+        "list": [
+            {
+                "href": "https://bj.fang.com/",
+                "name": "北京",
+                "py": "bj"
+            },
+            {
+                "href": "https://sh.fang.com/",
+                "name": "上海",
+                "py": "sh"
+            },
+            {
+                "href": "https://tj.fang.com/",
+                "name": "天津",
+                "py": "tj"
+            },
+            {
+                "href": "https://cq.fang.com/",
+                "name": "重庆",
+                "py": "cq"
+            }
+        ]
+    },
+    {
         "c": "A",
         "prov": "安徽",
         "list": [
