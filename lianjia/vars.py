@@ -1,5 +1,5 @@
 CITY_FAMILY_URL = "https://www.lianjia.com/city/"
-CITY = "bj"
+CITY = "fz"
 TYPE = "xiaoqu"
 DELAY_CONF = {"min": 6, "max": 16}
 URL_TEMPLATE1 = "https://{0}.lianjia.com/{1}"
