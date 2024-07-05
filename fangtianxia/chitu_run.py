@@ -71,6 +71,5 @@ if __name__ == "__main__":
               row[9] = info["build_year"] if 'build_year' in info.keys() else ""
               row[10] = "UNKOWN"
               row[11] = info["property_company"] if 'property_company' in info.keys() else ""
-            print(len(row))
-        # util.write_csv("out/chitu_out.csv", mode="a", data=[row])
-        # util.logging.info("写入{0}数据成功".format(id))
+        util.write_csv("out/chitu_out.csv", mode="a", data=[row])
+        util.logging.info("写入{0}数据成功".format(id))
