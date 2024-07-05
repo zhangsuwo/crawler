@@ -90,7 +90,11 @@ def parse_xiaoqu_detail(url, type, sell_count, trans_count, hire_count):
     if info_div == None:
         util.logging.info("未找到info_div")
         return data
-    data["price"] = info_div.find('div',class_='price_village clearfix').find('p').find('b').text
+    price_div = info_div.find('div',class_='price_village clearfix')
+    if price_div == None:
+      data["price"] = "UNKOWN"
+    else:
+      data["price"] = price_div.find('p').find('b').text
 
     content = info_div.find('div',"village_info").find("ul").find_all('li')
     for li in content:

@@ -9,7 +9,7 @@ import vars
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["SQ00131182"]
+CUR_OFFSET = ["新增23062789"]
 
 
 def search_xiaoqu_info(city,url):
