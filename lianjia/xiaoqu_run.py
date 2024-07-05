@@ -79,9 +79,6 @@ def parse_xiaoqu_detail(url, town, sell_count, trans_count, hire_count):
     if response == None:
         return data
     soup = BeautifulSoup(response.text, "html.parser")
-    h1 = soup.find("h1", class_="detailTitle")
-    if h1 == None:
-        return data
     name = soup.find("h1", class_="detailTitle").text
     adds = soup.find("div", class_="detailDesc").text
     price = 0
