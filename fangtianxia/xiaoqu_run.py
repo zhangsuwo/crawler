@@ -116,10 +116,7 @@ def parse_xiaoqu_detail(url, type, sell_count, trans_count, hire_count):
           else:
             data["build_year"] = li.find('p').text
         if li.find('span').text == "小区位置":
-          if li.find('p').find('a') != None:
-            data["adds"] = li.find('p').find('a').text
-          else:
-            data["adds"] = li.find('p').text
+            data["adds"] = li.find('p').find('span').text
         if li.find('span').text == "物业公司":
           if li.find('p').find('a') != None:
             data["property_company"] = li.find('p').find('a').text.strip()
