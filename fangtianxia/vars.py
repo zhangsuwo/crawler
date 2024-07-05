@@ -1,8 +1,6 @@
 CITY_FAMILY_URL = "https://www.fang.com/SoufunFamily.htm"
-DELAY_CONF = {"min": 6, "max": 16}
-CITY = "bj"
+DELAY_CONF = {"min": 8, "max": 20}
+CITY = "sh"
 TYPE = "xiaoqu"
-URL_TEMPLATE1 = "https://{0}.lianjia.com/{1}"
-URL_TEMPLATE2 = "https://{0}.lianjia.com/{1}/{2}"
-URL_TEMPLATE3 = "https://{0}.lianjia.com/{1}/{2}/pg{3}"
-URL_TEMPLATE4 = "https://{0}.lianjia.com/{1}/{2}/rs{4}/"
+URL_TEMPLATE1 = "https://{0}.esf.fang.com/housing/__0_0_0_0_1_0_0_0/{1}"
+URL_TEMPLATE2 = "https://{0}.esf.fang.com/"

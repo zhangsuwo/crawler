@@ -73,70 +73,62 @@ def parse_xiaoqu_list(url, town):
 
 
 # 解析小区详情页面
-def parse_xiaoqu_detail(url, town, sell_count, trans_count, hire_count):
-    data = []
+def parse_xiaoqu_detail(url, type, sell_count, trans_count, hire_count):
+    data = {}
     response = util.http_get(url)
     if response == None:
         return data
     soup = BeautifulSoup(response.text, "html.parser")
-    name = soup.find("h1", class_="detailTitle").text
-    adds = soup.find("div", class_="detailDesc").text
-    price = 0
-    if soup.find("span", class_="xiaoquUnitPrice") != None:
-        price = soup.find("span", class_="xiaoquUnitPrice").text
-    # content
-    content = soup.find_all("span", class_="xiaoquInfoContent")
-    build_type = content[0].text
-    house_count = content[1].text
-    floor_count = content[2].text
-    green_rate = content[3].text
-    plot_rate = content[4].text
-    trans_type = content[5].text
-    build_year = content[6].text
-    supply_heating = content[7].text
-    supply_water = content[8].text
-    supply_electric = content[9].text
-    # outer
-    outers = soup.find_all("span", class_="xiaoquInfoContent outer")
-    property_fee = outers[0].text
-    xiaoqu = ""
-    mendian = ""
-    nearby = ""
-    if outers[1].find("span", class_="actshowMap") != None:
-        xiaoqu = outers[1].find("span", class_="actshowMap")["xiaoqu"]
-        mendian = outers[1].find("span", class_="actshowMap")["mendian"]
-        span = outers[1].find("span", class_="actshowMap").text
-        nearby = span + outers[1].text
-    property_company = outers[2].text
-    developer = outers[3].text
+    title_div = soup.find('div',class_='title_village clearfix')
+    if title_div == None:
+        util.logging.info("未找到title_div")
+        return data
+    data["name"] = title_div.find("h3").text
+    data["score"] = title_div.find('a',class_="link_grade").text
 
-    return [
-        town,
-        name,
-        adds,
-        price,
-        sell_count,
-        trans_count,
-        hire_count,
-        build_type,
-        house_count,
-        floor_count,
-        green_rate,
-        plot_rate,
-        trans_type,
-        build_year,
-        supply_heating,
-        supply_water,
-        supply_electric,
-        property_fee,
-        xiaoqu,
-        mendian,
-        nearby,
-        property_company,
-        developer,
-        url,
-    ]
+    info_div = soup.find('div',class_='info_village_r')
+    if info_div == None:
+        util.logging.info("未找到info_div")
+        return data
+    data["price"] = info_div.find('div',class_='price_village clearfix').find('p').find('b').text
 
+    content = info_div.find('div',"village_info").find("ul").find_all('li')
+    for li in content:
+        # if li.find('span').text == "二手房源":
+        #   data["esf_count"] = li.find('p').find("a").text
+        # if li.find('span').text == "特价房源":
+        #   data["spec_count"] = li.find('p').find("a").text
+        if li.find('span').text == "楼栋总数":
+          if li.find('p').find('a') != None:
+            data["floor_count"] = li.find('p').find('a').text
+          else:
+            data["floor_count"] = li.find('p').text
+        if li.find('span').text == "房屋总数":
+          if li.find('p').find('a') != None:
+            data["house_count"] = li.find('p').find('a').text
+          else:
+            data["house_count"] = li.find('p').text
+        # if li.find('span').text == "建筑类型":
+        #   data["build_type"] = li.find('p').text
+        if li.find('span').text == "建筑年代":
+          if li.find('p').find('a') != None:
+            data["build_year"] = li.find('p').find('a').text
+          else:
+            data["build_year"] = li.find('p').text
+        if li.find('span').text == "小区位置":
+          if li.find('p').find('a') != None:
+            data["adds"] = li.find('p').find('a').text
+          else:
+            data["adds"] = li.find('p').text
+        if li.find('span').text == "物业公司":
+          if li.find('p').find('a') != None:
+            data["property_company"] = li.find('p').find('a').text.strip()
+          else:
+            data["property_company"] = li.find('p').text.strip()
+        # if li.find('span').text == "开发商":
+        #   data["developer"] = li.find('p').find('a').text.strip()
+
+    return data
 
 # 解析小区列表翻页
 def parse_xiaoqu_page(text):
