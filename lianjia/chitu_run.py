@@ -3,12 +3,12 @@
 # wc -l out/chitu_out.csv
 # tar -czvf config.tar.gz config
 
-import utils.util as util
+import util
 import xiaoqu_run
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["SQ00139790"]
+CUR_OFFSET = ["SQ00131090"]
 
 
 def search_xiaoqu_info(url):
