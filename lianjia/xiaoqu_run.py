@@ -11,7 +11,7 @@ import json
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["chuanshi"]
+CUR_OFFSET = ["cuiyuan"]
 
 
 # 初始化城市下的数据
@@ -79,7 +79,10 @@ def parse_xiaoqu_detail(url, town, sell_count, trans_count, hire_count):
     if response == None:
         return data
     soup = BeautifulSoup(response.text, "html.parser")
-    name = soup.find("h1", class_="detailTitle").text
+    name_div = soup.find("h1", class_="detailTitle")
+    if name_div == None:
+        return data
+    name = name_div.text
     adds = soup.find("div", class_="detailDesc").text
     price = 0
     if soup.find("span", class_="xiaoquUnitPrice") != None:
