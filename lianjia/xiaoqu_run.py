@@ -83,6 +83,10 @@ def parse_xiaoqu_detail(url, town, sell_count, trans_count, hire_count):
     if name_div == None:
         return data
     name = name_div.text
+    name_div = soup.find("h1", class_="detailTitle")
+    if name_div == None:
+        return data
+    name = name_div.text
     adds = soup.find("div", class_="detailDesc").text
     price = 0
     if soup.find("span", class_="xiaoquUnitPrice") != None:
