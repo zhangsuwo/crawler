@@ -4,7 +4,7 @@
 # nohup python3 xiaoqu_run.py > log/xiaoqu_run.log 2>&1 &
 # tail -500f log/xiaoqu_run.log
 # wc -l out/bj.csv
-# 武汉、西安、南京、长沙、天津、郑州、东莞、无锡、宁波、青岛、合肥
+# 西安、南京、长沙、天津、郑州、东莞、无锡、宁波、青岛、合肥
 
 import vars
 import util
@@ -12,7 +12,7 @@ import json
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["baibuting"]
+CUR_OFFSET = ["chengdong1"]
 
 
 # 初始化城市下的数据
