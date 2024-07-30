@@ -12,7 +12,7 @@ import json
 from bs4 import BeautifulSoup
 
 # 保存当前断点信息
-CUR_OFFSET = ["chengdong1"]
+CUR_OFFSET = ["caochangmendajie"]
 
 
 # 初始化城市下的数据
